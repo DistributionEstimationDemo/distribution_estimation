@@ -1,0 +1,1928 @@
+{"text": "clear everything from the calendar", "label": "calendar/remove"}
+{"text": "put my brother's birthday in my calendar for july fourth", "label": "calendar/set"}
+{"text": "read me the most updated news on bbc", "label": "news/query"}
+{"text": "i wish this event to be removed from my calendar", "label": "calendar/remove"}
+{"text": "turn the volume off", "label": "audio/volume_mute"}
+{"text": "can you tell me what's on the schedule for tomorrow", "label": "calendar/query"}
+{"text": "i would like to order takeaway", "label": "takeaway/order"}
+{"text": "what are the pending reminder for today evening", "label": "calendar/query"}
+{"text": "how much longer until my pizza will be here", "label": "takeaway/query"}
+{"text": "order the usual from turiellos pizza", "label": "takeaway/order"}
+{"text": "can you search trump", "label": "news/query"}
+{"text": "please adjust the speakers to a lower more comfortable level", "label": "audio/volume_down"}
+{"text": "i have a meeting at noon today", "label": "calendar/set"}
+{"text": "order from dominos", "label": "takeaway/order"}
+{"text": "is fongs dine in only", "label": "takeaway/query"}
+{"text": "what is the temperature i am supposed to cook this lasagna at", "label": "cooking/recipe"}
+{"text": "what are the news notification", "label": "news/query"}
+{"text": "should i take my raincoat with me now", "label": "weather/query"}
+{"text": "tell me what's happening this week", "label": "calendar/query"}
+{"text": "what do i need to make lamb pathia", "label": "cooking/recipe"}
+{"text": "do i have a dentist appointment on monday morning", "label": "calendar/query"}
+{"text": "can they do delivery", "label": "takeaway/query"}
+{"text": "erase my whole calendar", "label": "calendar/remove"}
+{"text": "get recipe for making a hotdog", "label": "cooking/recipe"}
+{"text": "what time do i work tomorrow", "label": "calendar/query"}
+{"text": "turn up the sound", "label": "audio/volume_up"}
+{"text": "tell me the weather for this week", "label": "weather/query"}
+{"text": "order spaghetti from spaghetti warehouse to bring home", "label": "takeaway/order"}
+{"text": "what will the weather be like in austin on march sixteenth", "label": "weather/query"}
+{"text": "i need to order some food from papa john's", "label": "takeaway/order"}
+{"text": "set mute for twenty minutes", "label": "audio/volume_mute"}
+{"text": "please increase the volume to maximum", "label": "audio/volume_up"}
+{"text": "repeat reminder for my schedule for christmas", "label": "calendar/set"}
+{"text": "decrease twenty percent", "label": "audio/volume_down"}
+{"text": "let's go through all pending reminders", "label": "calendar/query"}
+{"text": "how is the news in ireland", "label": "news/query"}
+{"text": "add valia's wedding the next saturday at eight o clock", "label": "calendar/set"}
+{"text": "please tell me the latest news about the election scenario in our state", "label": "news/query"}
+{"text": "please clear my calendar", "label": "calendar/remove"}
+{"text": "mute yourself until five pm", "label": "audio/volume_mute"}
+{"text": "go silent until three pm", "label": "audio/volume_mute"}
+{"text": "remind me to eat when i get home", "label": "calendar/set"}
+{"text": "today's schedule", "label": "calendar/query"}
+{"text": "please stop talking", "label": "audio/volume_mute"}
+{"text": "does that restaurant deliver", "label": "takeaway/query"}
+{"text": "The latest climate and weather news", "label": "news/query"}
+{"text": "what is the plan for tonight", "label": "calendar/query"}
+{"text": "do i need to wear sunscreen today", "label": "weather/query"}
+{"text": "where can i get a shot of tequila and some to go mexican food", "label": "takeaway/query"}
+{"text": "does this place do takeaway", "label": "takeaway/query"}
+{"text": "get louder", "label": "audio/volume_up"}
+{"text": "order a ham and cheese sandwich from subway", "label": "takeaway/order"}
+{"text": "erase my appointment on the twelfth from my calendar", "label": "calendar/remove"}
+{"text": "look for different recipes", "label": "cooking/recipe"}
+{"text": "tell the golden fork that i want their fish risotto delivered", "label": "takeaway/order"}
+{"text": "call the nearest pizza place that offers buffalo pizza", "label": "takeaway/order"}
+{"text": "silence please", "label": "audio/volume_mute"}
+{"text": "take lunch meeting off my calendar", "label": "calendar/remove"}
+{"text": "how do i prepare all my food for cooking", "label": "cooking/recipe"}
+{"text": "please do not speak", "label": "audio/volume_mute"}
+{"text": "is there any event today in my calendar", "label": "calendar/query"}
+{"text": "how long until my order arrives", "label": "takeaway/query"}
+{"text": "do not make any noise until morning alarm", "label": "audio/volume_mute"}
+{"text": "give me options for indian carryout under dollars", "label": "takeaway/order"}
+{"text": "confirm that my notification is set to remind me when i leave", "label": "calendar/query"}
+{"text": "how do i deglaze a pan", "label": "cooking/recipe"}
+{"text": "what is the temperature", "label": "weather/query"}
+{"text": "how do i cook a meatloaf", "label": "cooking/recipe"}
+{"text": "i want to order some chinese food tonight what's delivering to me", "label": "takeaway/order"}
+{"text": "what do i have next to do", "label": "calendar/query"}
+{"text": "tell me the top stories in the news", "label": "news/query"}
+{"text": "could you please lower your volume", "label": "audio/volume_down"}
+{"text": "what day of the week is my birthday this year", "label": "calendar/query"}
+{"text": "please set reminder", "label": "calendar/set"}
+{"text": "when is the next office meeting", "label": "calendar/query"}
+{"text": "add running to my calendar for thursday", "label": "calendar/set"}
+{"text": "the volume of the music playing now should be raised", "label": "audio/volume_up"}
+{"text": "cancel all meetings for today", "label": "calendar/remove"}
+{"text": "schedule a reminder on fifteenth march and input name as meeting", "label": "calendar/set"}
+{"text": "do you serve for home delivery", "label": "takeaway/query"}
+{"text": "add event book club debbie's house wednesday night", "label": "calendar/set"}
+{"text": "cook me some oats", "label": "cooking/recipe"}
+{"text": "let me know of the meeting on tuesday", "label": "calendar/set"}
+{"text": "meeting update my calendar to reflect meeting", "label": "calendar/set"}
+{"text": "how will be the weather at night", "label": "weather/query"}
+{"text": "what is new", "label": "news/query"}
+{"text": "free home delivery", "label": "takeaway/order"}
+{"text": "i want to order some food", "label": "takeaway/order"}
+{"text": "are there any events schedule for this week", "label": "calendar/query"}
+{"text": "is summer going on", "label": "weather/query"}
+{"text": "make the volume lower", "label": "audio/volume_down"}
+{"text": "what is the current temperature outside", "label": "weather/query"}
+{"text": "are there any takeaways around here", "label": "takeaway/query"}
+{"text": "how do i make mashed potatoes", "label": "cooking/recipe"}
+{"text": "turn the volume down", "label": "audio/volume_down"}
+{"text": "does panda garden deliver", "label": "takeaway/query"}
+{"text": "current status of take out order", "label": "takeaway/query"}
+{"text": "is it going to rain in seattle today", "label": "weather/query"}
+{"text": "mute the settings", "label": "audio/volume_mute"}
+{"text": "how about some pizza tonight can you please order a pepperoni large", "label": "takeaway/order"}
+{"text": "mute the speakers", "label": "audio/volume_mute"}
+{"text": "is it snowing in california", "label": "weather/query"}
+{"text": "need information about events before shift ends", "label": "calendar/query"}
+{"text": "what is the cooking time for mashed potatoes", "label": "cooking/recipe"}
+{"text": "do the restaurant deliver", "label": "takeaway/query"}
+{"text": "how to make sausage", "label": "cooking/recipe"}
+{"text": "find a recipe that uses ground beef and zucchini", "label": "cooking/recipe"}
+{"text": "schedule meeting with laura", "label": "calendar/set"}
+{"text": "when did i place my order and what was the projected time it would take", "label": "takeaway/query"}
+{"text": "is there a chili cookoff this weekend", "label": "calendar/query"}
+{"text": "up", "label": "audio/volume_up"}
+{"text": "is the birthday event on fifteenth of this month true", "label": "calendar/query"}
+{"text": "what's happening with the hurricane in the gulf", "label": "news/query"}
+{"text": "how warm is it in columbus ohio", "label": "weather/query"}
+{"text": "can you mute when i am not home", "label": "audio/volume_mute"}
+{"text": "please order me lo mein and egg rolls from panda express now", "label": "takeaway/order"}
+{"text": "newest world news", "label": "news/query"}
+{"text": "find the nearest olive garden that has take out service", "label": "takeaway/order"}
+{"text": "are there any meetings set for next wednesday", "label": "calendar/query"}
+{"text": "what is the temperature today", "label": "weather/query"}
+{"text": "mute for twenty minutes", "label": "audio/volume_mute"}
+{"text": "lower your volume please", "label": "audio/volume_down"}
+{"text": "recipe for crabmeat", "label": "cooking/recipe"}
+{"text": "add newscast time to daily schedule", "label": "news/query"}
+{"text": "how is it outside today", "label": "weather/query"}
+{"text": "i want the speakers turned up high", "label": "audio/volume_up"}
+{"text": "lower volume by fifty percent", "label": "audio/volume_down"}
+{"text": "search for gluten free menus", "label": "cooking/recipe"}
+{"text": "fast me the news of academy awards", "label": "news/query"}
+{"text": "remember i've ordered a cake for tonight's birthday party let me know the status please", "label": "takeaway/query"}
+{"text": "on Tuesday what is the weather supposed to be", "label": "weather/query"}
+{"text": "will you please mute my speakers", "label": "audio/volume_mute"}
+{"text": "made media volume louder", "label": "audio/volume_up"}
+{"text": "tell me if there are any events from three to five", "label": "calendar/query"}
+{"text": "check for recent news stories on msnbc", "label": "news/query"}
+{"text": "erase events", "label": "calendar/remove"}
+{"text": "mute please", "label": "audio/volume_mute"}
+{"text": "it looks sunny and clear today is that true", "label": "weather/query"}
+{"text": "give me the headlines from sky news", "label": "news/query"}
+{"text": "am i available at five pm on sunday", "label": "calendar/query"}
+{"text": "remove upcoming task", "label": "calendar/remove"}
+{"text": "order two medium cheese and one medium pepperoni pizza from dominoes", "label": "takeaway/order"}
+{"text": "will arby's offer takeaway", "label": "takeaway/query"}
+{"text": "please mute for five minutes", "label": "audio/volume_mute"}
+{"text": "how many millilitres is two table spoons", "label": "cooking/recipe"}
+{"text": "how can we prepare biriyani", "label": "cooking/recipe"}
+{"text": "is there any new environmental news", "label": "news/query"}
+{"text": "i need everything deleted from calendar please", "label": "calendar/remove"}
+{"text": "is there a takeaway in chipotle restaurant", "label": "takeaway/query"}
+{"text": "schedule pizza takeout for seven pm", "label": "takeaway/order"}
+{"text": "remove birthday party", "label": "calendar/remove"}
+{"text": "grubhub order", "label": "takeaway/order"}
+{"text": "can you order me takeout", "label": "takeaway/order"}
+{"text": "recipe please", "label": "cooking/recipe"}
+{"text": "what is the latest news about obamacare", "label": "news/query"}
+{"text": "set notification from world news", "label": "news/query"}
+{"text": "on third april we will go to watch j llb movie set it", "label": "calendar/set"}
+{"text": "what's happening in news express", "label": "news/query"}
+{"text": "check on the delivery of my current order", "label": "takeaway/query"}
+{"text": "what do i have scheduled on july seventh", "label": "calendar/query"}
+{"text": "silent mode on for the next three hours", "label": "audio/volume_mute"}
+{"text": "what will be the highest temperature in coming week", "label": "weather/query"}
+{"text": "i don't want to attend the dinner on march first any more so could you remove it from my agenda", "label": "calendar/remove"}
+{"text": "remind me later", "label": "calendar/set"}
+{"text": "remove all the events in my calendar", "label": "calendar/remove"}
+{"text": "add meet with dave at subway on weber on four april at five pm", "label": "calendar/set"}
+{"text": "it's really loud can you please turn the music down", "label": "audio/volume_down"}
+{"text": "order a pizza with sausage from domino's", "label": "takeaway/order"}
+{"text": "will I need a raincoat when I go to glasgow on sunday", "label": "weather/query"}
+{"text": "what is the current weather conditions in chicago illinois", "label": "weather/query"}
+{"text": "place an order for a combo platter from china buffet", "label": "takeaway/order"}
+{"text": "show todays reminders", "label": "calendar/query"}
+{"text": "does john's pizza have takeaway", "label": "takeaway/query"}
+{"text": "keep quiet", "label": "audio/volume_mute"}
+{"text": "when i will get the delivery", "label": "takeaway/query"}
+{"text": "read me the front page of the new york times", "label": "news/query"}
+{"text": "raise the volume of the current music", "label": "audio/volume_up"}
+{"text": "how can i cook pasta", "label": "cooking/recipe"}
+{"text": "when is my takeaway arriving", "label": "takeaway/query"}
+{"text": "i need to hear sound on my speakers", "label": "audio/volume_up"}
+{"text": "delete the monthly recurring team meeting till june", "label": "calendar/remove"}
+{"text": "let me know about upcoming events", "label": "calendar/query"}
+{"text": "please delete next meeting with rajesh", "label": "calendar/remove"}
+{"text": "mute", "label": "audio/volume_mute"}
+{"text": "search schedules for this week", "label": "calendar/query"}
+{"text": "how is president's trump office proceeding", "label": "news/query"}
+{"text": "delete event for tuesday", "label": "calendar/remove"}
+{"text": "does the restaurant have carryout", "label": "takeaway/query"}
+{"text": "change my music player volume to eighty percent", "label": "audio/volume_up"}
+{"text": "is it going to snow", "label": "weather/query"}
+{"text": "i am busy tomorrow so delete all calendar events", "label": "calendar/remove"}
+{"text": "what's the news from source", "label": "news/query"}
+{"text": "mute enabled until i say so", "label": "audio/volume_mute"}
+{"text": "please change the volume low of the speakers", "label": "audio/volume_down"}
+{"text": "delete all of my appointments with dr smith this week", "label": "calendar/remove"}
+{"text": "can you tell me a latest news", "label": "news/query"}
+{"text": "what are today's headlines", "label": "news/query"}
+{"text": "olly schedule a news update for tomorrow morning at seven am", "label": "news/query"}
+{"text": "are there any events on my calendar for this week", "label": "calendar/query"}
+{"text": "louder", "label": "audio/volume_up"}
+{"text": "i would like it to be able to find recipes i have", "label": "cooking/recipe"}
+{"text": "can i order take out from licari's", "label": "takeaway/order"}
+{"text": "does pings have takeaway", "label": "takeaway/query"}
+{"text": "what the sexiest food to cook on a date", "label": "cooking/recipe"}
+{"text": "i have a meeting with al on march twenty first at ten", "label": "calendar/set"}
+{"text": "please remove the appointment which i have made with mrjim", "label": "calendar/remove"}
+{"text": "does charley's steakhouse deliver", "label": "takeaway/query"}
+{"text": "is anything different today about blank", "label": "news/query"}
+{"text": "can you tell me on tuesday to give jane a call", "label": "calendar/set"}
+{"text": "clear my schedule for today", "label": "calendar/remove"}
+{"text": "does brick grill deliver", "label": "takeaway/query"}
+{"text": "find out if the olive garden will let me do takeaway", "label": "takeaway/query"}
+{"text": "does pf changs do takeout", "label": "takeaway/query"}
+{"text": "please delete my lunch date from the march twenty third schedule", "label": "calendar/remove"}
+{"text": "get me a turkey jimmy johns sub and set it to be delivered at five pm tonight", "label": "takeaway/order"}
+{"text": "turn up media volume", "label": "audio/volume_up"}
+{"text": "find a pizza restaurant open until noon", "label": "takeaway/query"}
+{"text": "unmute my sound", "label": "audio/volume_up"}
+{"text": "show me rediff masala", "label": "news/query"}
+{"text": "what's the best way to cook pasta", "label": "cooking/recipe"}
+{"text": "when is my food going to be here", "label": "takeaway/query"}
+{"text": "set a calendar event to repeat yearly on this date", "label": "calendar/set"}
+{"text": "add jim and jerry to event", "label": "calendar/set"}
+{"text": "do i have a date for tonight", "label": "calendar/query"}
+{"text": "did you add tomorrow's meeting to my calendar", "label": "calendar/query"}
+{"text": "order a pizza from pizza express", "label": "takeaway/order"}
+{"text": "learn to cut potatoes correctly", "label": "cooking/recipe"}
+{"text": "mute the audio", "label": "audio/volume_mute"}
+{"text": "softer", "label": "audio/volume_down"}
+{"text": "please be silent until i tell you not to be", "label": "audio/volume_mute"}
+{"text": "what's my next events", "label": "calendar/query"}
+{"text": "what is the weather this friday", "label": "weather/query"}
+{"text": "i needed to prepare for a meeting", "label": "calendar/query"}
+{"text": "hey order a pizza pie with extra cheese", "label": "takeaway/order"}
+{"text": "adjust media volume up", "label": "audio/volume_up"}
+{"text": "how is the weather down in orange tx", "label": "weather/query"}
+{"text": "can you turn up the volume", "label": "audio/volume_up"}
+{"text": "what day is this event scheduled for", "label": "calendar/query"}
+{"text": "does vocelli's do takeaway", "label": "takeaway/query"}
+{"text": "was my meeting today rescheduled", "label": "calendar/query"}
+{"text": "please delete all meetings of today after seven pm", "label": "calendar/remove"}
+{"text": "status of take away", "label": "takeaway/query"}
+{"text": "does olive garden have take out", "label": "takeaway/query"}
+{"text": "most rated delivery options for chinese food", "label": "takeaway/query"}
+{"text": "can you turn up your volume", "label": "audio/volume_up"}
+{"text": "what will the weather be like this week", "label": "weather/query"}
+{"text": "quiet", "label": "audio/volume_mute"}
+{"text": "schedule my meeting with my girlfriend lisa in the night today at nine pm", "label": "calendar/set"}
+{"text": "give me the best pizza deals offered today", "label": "takeaway/order"}
+{"text": "is the last order is ready", "label": "takeaway/query"}
+{"text": "take note of today as my first date with bob", "label": "calendar/set"}
+{"text": "is is taco o'clock yet", "label": "takeaway/order"}
+{"text": "set to mute", "label": "audio/volume_mute"}
+{"text": "i would like to mute the speakers please", "label": "audio/volume_mute"}
+{"text": "delete appointment at time", "label": "calendar/remove"}
+{"text": "increase the volume to fifty", "label": "audio/volume_up"}
+{"text": "what is happening in the world right now", "label": "news/query"}
+{"text": "i've cancelled the order placed at mcd did it go through", "label": "takeaway/query"}
+{"text": "set generic calendar event for next saturday at ten am", "label": "calendar/set"}
+{"text": "headlines from dhaka tribune", "label": "news/query"}
+{"text": "i need sport's news", "label": "news/query"}
+{"text": "what does rice wine go with", "label": "cooking/recipe"}
+{"text": "how do i cook rice", "label": "cooking/recipe"}
+{"text": "can you set a reminder for wednesday at one pm for my meeting", "label": "calendar/set"}
+{"text": "please turn up the volume", "label": "audio/volume_up"}
+{"text": "what do i have to do today", "label": "calendar/remove"}
+{"text": "please increase the volume of the current song", "label": "audio/volume_up"}
+{"text": "place order for usual burritto at chipolte", "label": "takeaway/order"}
+{"text": "what ingredient can be used instead of saffron", "label": "cooking/recipe"}
+{"text": "get recipe for apple pie", "label": "cooking/recipe"}
+{"text": "please delete all meeting after seven am", "label": "calendar/remove"}
+{"text": "takeaway status", "label": "takeaway/query"}
+{"text": "how do i make tuna casserole from scratch", "label": "cooking/recipe"}
+{"text": "open calendar schedule event meeting", "label": "calendar/set"}
+{"text": "do i have any calendar events this month", "label": "calendar/query"}
+{"text": "can you place the sound on mute", "label": "audio/volume_mute"}
+{"text": "set rotating event", "label": "calendar/set"}
+{"text": "raise your volume", "label": "audio/volume_up"}
+{"text": "raise volume", "label": "audio/volume_up"}
+{"text": "i need to set up a meeting with the ceo tomorrow", "label": "calendar/set"}
+{"text": "will it snow next week", "label": "weather/query"}
+{"text": "what is the difference between bake and broil", "label": "cooking/recipe"}
+{"text": "please delete this event", "label": "calendar/remove"}
+{"text": "hey turn on your reminders for tomorrow's meeting at ten am", "label": "calendar/set"}
+{"text": "turn down the volume", "label": "audio/volume_down"}
+{"text": "delete all scheduled events", "label": "calendar/remove"}
+{"text": "stay quiet", "label": "audio/volume_mute"}
+{"text": "please turn the volume to the loudest setting", "label": "audio/volume_up"}
+{"text": "please increase the volume", "label": "audio/volume_up"}
+{"text": "do i have any meetings on friday's afternoon", "label": "calendar/query"}
+{"text": "erase calendar events", "label": "calendar/remove"}
+{"text": "weather like", "label": "weather/query"}
+{"text": "please do not answer", "label": "audio/volume_mute"}
+{"text": "remind me about my anniversary in one day advance", "label": "calendar/set"}
+{"text": "call me for this meeting", "label": "calendar/set"}
+{"text": "how to cook that meal", "label": "cooking/recipe"}
+{"text": "raise the volume of the speakers", "label": "audio/volume_up"}
+{"text": "is it a soft evening tonight", "label": "weather/query"}
+{"text": "best energy food for gym", "label": "cooking/recipe"}
+{"text": "tell me how to make tacos", "label": "cooking/recipe"}
+{"text": "order two hamburgers for me", "label": "takeaway/order"}
+{"text": "what is the best way to cook pasta al dente", "label": "cooking/recipe"}
+{"text": "tell me about this week's weather", "label": "weather/query"}
+{"text": "order a large pan pizza with ham and mushrooms from pizza hut", "label": "takeaway/order"}
+{"text": "mute speakers please", "label": "audio/volume_mute"}
+{"text": "dea guam prescription drug abuse on the rise", "label": "news/query"}
+{"text": "crockpot recipe for chicken alfredo", "label": "cooking/recipe"}
+{"text": "what is the weather going to be like on march twentieth two thousand and seventeen", "label": "weather/query"}
+{"text": "mute volume now", "label": "audio/volume_mute"}
+{"text": "do i have a doctors appointment today", "label": "calendar/query"}
+{"text": "do i need to take an umbrella today", "label": "weather/query"}
+{"text": "what is weather today", "label": "weather/query"}
+{"text": "how long do i roast chicken breasts", "label": "cooking/recipe"}
+{"text": "is there any program for tomorrow evening", "label": "calendar/query"}
+{"text": "what is my next reminder", "label": "calendar/query"}
+{"text": "latest news", "label": "news/query"}
+{"text": "raise volume to level seven on music player", "label": "audio/volume_up"}
+{"text": "i want to order some pizza", "label": "takeaway/order"}
+{"text": "please delete all calendar events", "label": "calendar/remove"}
+{"text": "don't talk", "label": "audio/volume_mute"}
+{"text": "is there a way to clear my calendar", "label": "calendar/remove"}
+{"text": "i want volume on my speakers", "label": "audio/volume_up"}
+{"text": "can you give me the latest sports news", "label": "news/query"}
+{"text": "whether it would be sunny in califonia", "label": "weather/query"}
+{"text": "what do i need to make pot roast", "label": "cooking/recipe"}
+{"text": "turn up volume", "label": "audio/volume_up"}
+{"text": "does dominos deliver", "label": "takeaway/query"}
+{"text": "what meetings do i have between eight ten today", "label": "calendar/query"}
+{"text": "do i have to bring umbrella for tonight party", "label": "weather/query"}
+{"text": "remove sample meeting from calendar app", "label": "calendar/remove"}
+{"text": "find a recipe for chicken alfredo", "label": "cooking/recipe"}
+{"text": "please reduce the speaker volume", "label": "audio/volume_down"}
+{"text": "what's happening in the news", "label": "news/query"}
+{"text": "please remind me that i have a meeting tomorrow ten in the morning", "label": "calendar/set"}
+{"text": "how much time it will take to prepare the order", "label": "takeaway/query"}
+{"text": "erase next calendar event", "label": "calendar/remove"}
+{"text": "call the nearest thai restaurant with delivery", "label": "takeaway/order"}
+{"text": "set a reminder alert for saturday nine am towards payment of electricity bill", "label": "calendar/set"}
+{"text": "please clear jeff's birthday from the calendar", "label": "calendar/remove"}
+{"text": "erase that from my calendar", "label": "calendar/remove"}
+{"text": "can i get takeaway from arby's", "label": "takeaway/query"}
+{"text": "place order of one pizza", "label": "takeaway/order"}
+{"text": "give me the winning numbers to the powerball lottery", "label": "news/query"}
+{"text": "cancel the event valentine's day from the calendar", "label": "calendar/remove"}
+{"text": "how is weather on such and such day", "label": "weather/query"}
+{"text": "format the calendar", "label": "calendar/remove"}
+{"text": "where is my food", "label": "takeaway/query"}
+{"text": "please advise what the current news is on fox news", "label": "news/query"}
+{"text": "make the volume to zero", "label": "audio/volume_mute"}
+{"text": "cancel business meeting on wednesday", "label": "calendar/remove"}
+{"text": "find food and order", "label": "takeaway/order"}
+{"text": "order a medium pizza with pepperoni and bacon on its", "label": "takeaway/order"}
+{"text": "how's the weather like in beijing", "label": "weather/query"}
+{"text": "can you pull up a recipe for spaghetti", "label": "cooking/recipe"}
+{"text": "does pings do takeaway", "label": "takeaway/query"}
+{"text": "current news cnn", "label": "news/query"}
+{"text": "what do you use to make cookies", "label": "cooking/recipe"}
+{"text": "set meeting with the ceo tomorrow", "label": "calendar/set"}
+{"text": "hi i want to order fried chick with white sauce", "label": "takeaway/order"}
+{"text": "give me the morning news", "label": "news/query"}
+{"text": "cut off noise", "label": "audio/volume_mute"}
+{"text": "mute for fifteen minutes", "label": "audio/volume_mute"}
+{"text": "delete all appointments for tomorrow", "label": "calendar/remove"}
+{"text": "is there any chances of rain this week", "label": "weather/query"}
+{"text": "get latest news report on kidnapping in ny", "label": "news/query"}
+{"text": "get me the latest on current events going on in the world", "label": "news/query"}
+{"text": "show me future events", "label": "calendar/query"}
+{"text": "what ingredient can be used to replace white wine", "label": "cooking/recipe"}
+{"text": "i can't hear you speak up", "label": "audio/volume_up"}
+{"text": "dismiss my next event", "label": "calendar/remove"}
+{"text": "can you turn the volume up", "label": "audio/volume_up"}
+{"text": "what are the results of the election", "label": "news/query"}
+{"text": "make a calendar entry for next saturday at ten am please", "label": "calendar/set"}
+{"text": "erase all content in my calendar", "label": "calendar/remove"}
+{"text": "what's the exact time we get food delivered once we place an order for food", "label": "takeaway/query"}
+{"text": "i want to order food", "label": "takeaway/order"}
+{"text": "sound off please", "label": "audio/volume_mute"}
+{"text": "does this restaurant only do carryout", "label": "takeaway/query"}
+{"text": "does pf changs accept takeout orders", "label": "takeaway/query"}
+{"text": "i need you to mark next monday", "label": "calendar/set"}
+{"text": "please pause yourself", "label": "audio/volume_mute"}
+{"text": "economic affairs", "label": "news/query"}
+{"text": "event remove", "label": "calendar/remove"}
+{"text": "have pho send three egg rolls", "label": "takeaway/order"}
+{"text": "when the birthday will be", "label": "calendar/query"}
+{"text": "what is the latest news on sprint", "label": "news/query"}
+{"text": "domino's has takeaway right", "label": "takeaway/query"}
+{"text": "turn down media volume", "label": "audio/volume_down"}
+{"text": "lower volume", "label": "audio/volume_down"}
+{"text": "do i have a meeting today", "label": "calendar/query"}
+{"text": "what happened yesterday on samurai jack", "label": "news/query"}
+{"text": "does mcdonalds do takeaway", "label": "takeaway/query"}
+{"text": "what is the best tasting cut of beef", "label": "cooking/recipe"}
+{"text": "access latest news", "label": "news/query"}
+{"text": "please mute the sound", "label": "audio/volume_mute"}
+{"text": "lower the volume", "label": "audio/volume_down"}
+{"text": "can you look up chinese takeout near here", "label": "takeaway/order"}
+{"text": "list all events and delete", "label": "calendar/remove"}
+{"text": "get rid of everything on my calendar", "label": "calendar/remove"}
+{"text": "should i wear gloves tonight", "label": "weather/query"}
+{"text": "i'm hungry show me some takeaway food", "label": "takeaway/order"}
+{"text": "what is in a curry", "label": "cooking/recipe"}
+{"text": "it's quiet time", "label": "audio/volume_mute"}
+{"text": "please tell me the main points of my two hundred meeting from this afternoon", "label": "calendar/query"}
+{"text": "please mute the volume control", "label": "audio/volume_mute"}
+{"text": "please clean my calendar", "label": "calendar/remove"}
+{"text": "set a thanks giving event for friday", "label": "calendar/set"}
+{"text": "when is my order arriving", "label": "takeaway/query"}
+{"text": "tell me when i need to leave the airport", "label": "calendar/set"}
+{"text": "order a smoked meat platter from beanos", "label": "takeaway/order"}
+{"text": "make a meeting with friend", "label": "calendar/set"}
+{"text": "show me cooking websites", "label": "cooking/recipe"}
+{"text": "show me a video on cooking fried chicken", "label": "cooking/recipe"}
+{"text": "how to make fried rice", "label": "cooking/recipe"}
+{"text": "when can i pick up my chinese food", "label": "takeaway/query"}
+{"text": "when will my chinese food be delivered", "label": "takeaway/query"}
+{"text": "turn up the volume", "label": "audio/volume_up"}
+{"text": "healthy foods", "label": "cooking/recipe"}
+{"text": "remind me about my biology test at fsu on friday", "label": "calendar/set"}
+{"text": "does peking garden take orders over the phone", "label": "takeaway/query"}
+{"text": "order a double bacon cheeseburger with bacon an white american cheese", "label": "takeaway/order"}
+{"text": "places to order takeaway food", "label": "takeaway/order"}
+{"text": "remove the doctor's appointment i added to my calendar for february twelfth at nine am", "label": "calendar/remove"}
+{"text": "schedule a meeting with reeta today evening at five pm", "label": "calendar/set"}
+{"text": "order me a bowl from chipotle takeout", "label": "takeaway/order"}
+{"text": "it is very hot today is not it", "label": "weather/query"}
+{"text": "is jimmie's party on friday cancelled", "label": "calendar/query"}
+{"text": "lessen the speaker volume", "label": "audio/volume_down"}
+{"text": "good food", "label": "cooking/recipe"}
+{"text": "does my favourite pizza place available for takeaway", "label": "takeaway/query"}
+{"text": "when is my takeaway going to get here", "label": "takeaway/query"}
+{"text": "march fifth is john's birthday please place this on the calendar", "label": "calendar/set"}
+{"text": "what degree is it outside", "label": "weather/query"}
+{"text": "open my calendar", "label": "calendar/query"}
+{"text": "how much does general tsos chicken cost at peking garden", "label": "takeaway/order"}
+{"text": "add lunch appointment with lisa to january second at twelve thirty pm", "label": "calendar/set"}
+{"text": "stop making sounds for forty minutes", "label": "audio/volume_mute"}
+{"text": "show me my reminders", "label": "calendar/query"}
+{"text": "what are the news stories on the cnn website", "label": "news/query"}
+{"text": "put an order in for two pizzas from dominoes", "label": "takeaway/order"}
+{"text": "can the latest news be pulled up on the latest weather forecast for the week", "label": "news/query"}
+{"text": "when do i need to leave to pick up my order", "label": "takeaway/query"}
+{"text": "is it sunny in gonbad now", "label": "weather/query"}
+{"text": "please mute the television for one hour", "label": "audio/volume_mute"}
+{"text": "schedule dinner with sara and jamie", "label": "calendar/set"}
+{"text": "can you speak louder", "label": "audio/volume_up"}
+{"text": "order pizza from domino's", "label": "takeaway/order"}
+{"text": "what is my schedule for june fourteenth two thousand and seventeen", "label": "calendar/query"}
+{"text": "delete an first event of twenty third of march twenty seventeen", "label": "calendar/remove"}
+{"text": "give me some recipes for sheperds pie", "label": "cooking/recipe"}
+{"text": "cancels lunch at the restaurant booked for march twenty five", "label": "calendar/remove"}
+{"text": "turn off sound", "label": "audio/volume_mute"}
+{"text": "show latest news about migration", "label": "news/query"}
+{"text": "please add shopping at mall on twenty six march at twelve pm", "label": "calendar/set"}
+{"text": "closest chipotle", "label": "takeaway/order"}
+{"text": "please takeaway of giving required of the restaurant", "label": "takeaway/query"}
+{"text": "silence for two hours", "label": "audio/volume_mute"}
+{"text": "off the speakers", "label": "audio/volume_mute"}
+{"text": "can you turn it up a little", "label": "audio/volume_up"}
+{"text": "can you remind me about the gym class in two hours", "label": "calendar/set"}
+{"text": "unmute the speaker now", "label": "audio/volume_up"}
+{"text": "what is the weather update for tuesday", "label": "weather/query"}
+{"text": "what are my reminders for this week", "label": "calendar/query"}
+{"text": "hey olly make sure my calendar is completely clear tomorrow", "label": "calendar/remove"}
+{"text": "find recipe chicken casserole", "label": "cooking/recipe"}
+{"text": "pull up the headlines please", "label": "news/query"}
+{"text": "i need you to be quiet until tomorrow", "label": "audio/volume_mute"}
+{"text": "remove all the events of last month from the calendar", "label": "calendar/remove"}
+{"text": "delete all events and content from my calendar", "label": "calendar/remove"}
+{"text": "add jane's birthday party at one hundred and twenty three main for two pm tomorrow on my calendar", "label": "calendar/set"}
+{"text": "does ming ten do take out", "label": "takeaway/query"}
+{"text": "i have a meeting with sean at four pm on wednesday can you remind me", "label": "calendar/set"}
+{"text": "the location is my office", "label": "calendar/set"}
+{"text": "add my car payment on the twelfth in my calendar", "label": "calendar/set"}
+{"text": "remind me to meet joe for lunch tomorrow", "label": "calendar/set"}
+{"text": "mute yourself when i am in a meeting", "label": "audio/volume_mute"}
+{"text": "order the best priced general tofu in nyack", "label": "takeaway/order"}
+{"text": "political news of importance for the day", "label": "news/query"}
+{"text": "do i need to pick up the kids from anything today", "label": "calendar/query"}
+{"text": "could you please confirm if paradise does takeaway", "label": "takeaway/query"}
+{"text": "on the music player set the volume level at sixty", "label": "audio/volume_up"}
+{"text": "what is the news today in polk county florida", "label": "news/query"}
+{"text": "find me a recipe of spaghetti", "label": "cooking/recipe"}
+{"text": "set music system to mute", "label": "audio/volume_mute"}
+{"text": "show me this week's forecast", "label": "weather/query"}
+{"text": "give me the latest on paul ryan", "label": "news/query"}
+{"text": "cooking recipe", "label": "cooking/recipe"}
+{"text": "get today's weather report", "label": "weather/query"}
+{"text": "how the list of upcoming events", "label": "calendar/query"}
+{"text": "what's the recipe for fish soup", "label": "cooking/recipe"}
+{"text": "cancel my meeting tomorrow", "label": "calendar/remove"}
+{"text": "what is the weather today", "label": "weather/query"}
+{"text": "find me the nearest chinese for delivery", "label": "takeaway/order"}
+{"text": "what are they saying about donald trump on this topic", "label": "news/query"}
+{"text": "are there any tornado warnings today", "label": "weather/query"}
+{"text": "i want you to remove this event", "label": "calendar/remove"}
+{"text": "what's happened in the news recently", "label": "news/query"}
+{"text": "i would like instructions on how to cook baked chicken", "label": "cooking/recipe"}
+{"text": "when is my doctor's appointment", "label": "calendar/query"}
+{"text": "what should i wear is it cold outside", "label": "weather/query"}
+{"text": "turn up volume of music", "label": "audio/volume_up"}
+{"text": "remind me to meet with steve at one pm tomorrow", "label": "calendar/set"}
+{"text": "can you make it a little quieter", "label": "audio/volume_down"}
+{"text": "let me know the recipe for preparing pasta", "label": "cooking/recipe"}
+{"text": "speak loudly", "label": "audio/volume_up"}
+{"text": "get rid of the first three events in my calendar", "label": "calendar/remove"}
+{"text": "set a reminder for twelve thirty meeting with the boss", "label": "calendar/set"}
+{"text": "please turn the volume down", "label": "audio/volume_down"}
+{"text": "order two cheeseburgers from wings n. ale on university drive", "label": "takeaway/order"}
+{"text": "is it going to rain in the next few days in tucson", "label": "weather/query"}
+{"text": "its cold outside", "label": "weather/query"}
+{"text": "give me the list of all events coming up in the next month and set notifications for all of them", "label": "calendar/set"}
+{"text": "flag two day after this day as my holiday", "label": "calendar/set"}
+{"text": "activate a one week notification before my anniversary please", "label": "calendar/set"}
+{"text": "Please lower the volume", "label": "audio/volume_down"}
+{"text": "move the volume up a little", "label": "audio/volume_up"}
+{"text": "turn up the volume on my speakers", "label": "audio/volume_up"}
+{"text": "please order take from jason's deli", "label": "takeaway/order"}
+{"text": "how much snow has fallen in maine since yesterday", "label": "weather/query"}
+{"text": "blot me all the phone calls planned for the morning of twenty three march", "label": "calendar/set"}
+{"text": "remove events from calendar", "label": "calendar/remove"}
+{"text": "what important dates are there in my calendar this month", "label": "calendar/query"}
+{"text": "what is my next event", "label": "calendar/query"}
+{"text": "what is happening in the world news", "label": "news/query"}
+{"text": "please speak quieter to me", "label": "audio/volume_down"}
+{"text": "turn off the speakers", "label": "audio/volume_mute"}
+{"text": "how do you pan sear a porterhouse steak", "label": "cooking/recipe"}
+{"text": "what is the cooking time for boiled eggs", "label": "cooking/recipe"}
+{"text": "i'm not doing thing this week", "label": "calendar/remove"}
+{"text": "usa today headlines", "label": "news/query"}
+{"text": "remind me to pay the electricity bill on this weekend at nine am", "label": "calendar/set"}
+{"text": "do i have a party tomorrow save on my calendar", "label": "calendar/query"}
+{"text": "what will be the temperature today for miami florida", "label": "weather/query"}
+{"text": "send me notice of meeting wednesday nine am", "label": "calendar/set"}
+{"text": "new reminder at three pm", "label": "calendar/set"}
+{"text": "i can't hear you can you say it again louder", "label": "audio/volume_up"}
+{"text": "open the grubhub app so i can order take out", "label": "takeaway/order"}
+{"text": "weather report of the week", "label": "weather/query"}
+{"text": "when the meeting start", "label": "calendar/query"}
+{"text": "tell me if an earthquake happens in the world", "label": "news/query"}
+{"text": "silence volume on speakers", "label": "audio/volume_mute"}
+{"text": "within the past three months how many meetings did i have with mr richards", "label": "calendar/query"}
+{"text": "please keep tabs on how the presidential debates are going", "label": "news/query"}
+{"text": "what is latest news about this world", "label": "news/query"}
+{"text": "has anything happened to mass effect", "label": "news/query"}
+{"text": "open the local news app", "label": "news/query"}
+{"text": "remind me of meeting five minutes before time", "label": "calendar/set"}
+{"text": "check the events on calendar and delete the next event", "label": "calendar/remove"}
+{"text": "can to please clear my calendar of all events", "label": "calendar/remove"}
+{"text": "make appointment for next friday", "label": "calendar/set"}
+{"text": "change the plan of meeting", "label": "calendar/remove"}
+{"text": "open calendar and erase all events for all months", "label": "calendar/remove"}
+{"text": "please remind me about the event later five pm", "label": "calendar/set"}
+{"text": "how was the weather this week", "label": "weather/query"}
+{"text": "what is the weather in utah", "label": "weather/query"}
+{"text": "show me what the ingredients are", "label": "cooking/recipe"}
+{"text": "what is on the agenda for today", "label": "calendar/query"}
+{"text": "please set a reminder for church services on sundays for eleven am", "label": "calendar/set"}
+{"text": "can you order me a pizza today from dominos", "label": "takeaway/order"}
+{"text": "please turn my speakers on google", "label": "audio/volume_up"}
+{"text": "weather this week", "label": "weather/query"}
+{"text": "call sarah", "label": "calendar/set"}
+{"text": "what is happening to my order", "label": "takeaway/query"}
+{"text": "please put me your input to know my schedule", "label": "calendar/set"}
+{"text": "find restaurant order food name", "label": "takeaway/order"}
+{"text": "cnn world news", "label": "news/query"}
+{"text": "hi please remind the next meeting with my boss it will be at eleven am next monday", "label": "calendar/set"}
+{"text": "what happened last week", "label": "news/query"}
+{"text": "is there any events planned for the next three months", "label": "calendar/query"}
+{"text": "please do not talk for thirty minutes", "label": "audio/volume_mute"}
+{"text": "alter lunch event to repeat every friday", "label": "calendar/set"}
+{"text": "tell me updates", "label": "news/query"}
+{"text": "delete from the calendar the next event", "label": "calendar/remove"}
+{"text": "tell me about the presidential race", "label": "news/query"}
+{"text": "mute speakers", "label": "audio/volume_mute"}
+{"text": "i have a meeting tomorrow morning at ten please remind me", "label": "calendar/set"}
+{"text": "i want to order a takeaway from papa john's", "label": "takeaway/order"}
+{"text": "increase volume to fifty percent", "label": "audio/volume_up"}
+{"text": "do you know how to cook risotto", "label": "cooking/recipe"}
+{"text": "cancel sam's party", "label": "calendar/remove"}
+{"text": "don't respond for fifty seconds", "label": "audio/volume_mute"}
+{"text": "rahul marriage reminder", "label": "calendar/query"}
+{"text": "i want to know the latest local news of the city", "label": "news/query"}
+{"text": "head lines today from news", "label": "news/query"}
+{"text": "give me best cooking ideas", "label": "cooking/recipe"}
+{"text": "hey i'd like you to order burger", "label": "takeaway/order"}
+{"text": "erase my appointment for march seven", "label": "calendar/remove"}
+{"text": "turn the vibrate off from speaker", "label": "audio/volume_mute"}
+{"text": "open takeout menus", "label": "takeaway/order"}
+{"text": "mute all responses now", "label": "audio/volume_mute"}
+{"text": "turn off speaker", "label": "audio/volume_mute"}
+{"text": "mute the music", "label": "audio/volume_mute"}
+{"text": "place an order for two pizzas from dominoes", "label": "takeaway/order"}
+{"text": "what's the latest news on donald trump", "label": "news/query"}
+{"text": "Show me articles about the new iphone eight", "label": "news/query"}
+{"text": "turn down the speakers", "label": "audio/volume_down"}
+{"text": "hello i would like to know whether you provide home delivery services", "label": "takeaway/query"}
+{"text": "could you speak a little more softly", "label": "audio/volume_up"}
+{"text": "from now on mute", "label": "audio/volume_mute"}
+{"text": "can you speak quieter please", "label": "audio/volume_down"}
+{"text": "do i need to carry umbrella for evening", "label": "weather/query"}
+{"text": "make an order for noodles one pack make it as takeaway order", "label": "takeaway/order"}
+{"text": "silent", "label": "audio/volume_mute"}
+{"text": "i would like the recipe for baked chicken", "label": "cooking/recipe"}
+{"text": "is snap doing good after the ipo", "label": "news/query"}
+{"text": "it seems cold", "label": "weather/query"}
+{"text": "go silent for a day", "label": "audio/volume_mute"}
+{"text": "schedule a meeting with al on tuesday", "label": "calendar/set"}
+{"text": "what is the current state of brexit negotiations", "label": "news/query"}
+{"text": "lower the volume please", "label": "audio/volume_down"}
+{"text": "turn off audio", "label": "audio/volume_mute"}
+{"text": "what can i substitute butter with", "label": "cooking/recipe"}
+{"text": "am i free between six to seven pm", "label": "calendar/query"}
+{"text": "food order from grubhub", "label": "takeaway/order"}
+{"text": "no speaking please", "label": "audio/volume_mute"}
+{"text": "is my order ready", "label": "takeaway/query"}
+{"text": "give me the weekly weather near me", "label": "weather/query"}
+{"text": "show current news from bbc", "label": "news/query"}
+{"text": "please remove dinner date scheduled for this friday at nine pm", "label": "calendar/remove"}
+{"text": "remind me after a month", "label": "calendar/set"}
+{"text": "get me the latest news in new york", "label": "news/query"}
+{"text": "what will the weather be like on saturday", "label": "weather/query"}
+{"text": "set a reminder for john's birthday next week", "label": "calendar/set"}
+{"text": "can you prepare a cheese sandwich", "label": "cooking/recipe"}
+{"text": "meetings from twenty to twenty five june", "label": "calendar/query"}
+{"text": "don't talk until i ask you to", "label": "audio/volume_mute"}
+{"text": "do i have any pending reminder", "label": "calendar/query"}
+{"text": "show me my calendar event this Friday afternoon", "label": "calendar/query"}
+{"text": "when and where is june's birthday party", "label": "calendar/query"}
+{"text": "remind me to water my plants every tuesday thursday and saturday", "label": "calendar/set"}
+{"text": "what type of cheese do i need for my enchiladas", "label": "cooking/recipe"}
+{"text": "i am need my hat today", "label": "weather/query"}
+{"text": "reset all events in calendar", "label": "calendar/remove"}
+{"text": "add event baseball practice five pm tonight", "label": "calendar/set"}
+{"text": "show me my meetings this Friday", "label": "calendar/query"}
+{"text": "i need to know how to make stuffed peppers", "label": "cooking/recipe"}
+{"text": "any recent news about north korea", "label": "news/query"}
+{"text": "i need a recipe for spaghetti", "label": "cooking/recipe"}
+{"text": "from wangs kitchen restaurant home delivery for a chicken manchow soup", "label": "takeaway/order"}
+{"text": "i would like to know the latest from nbc news", "label": "news/query"}
+{"text": "latest updates", "label": "news/query"}
+{"text": "whats the latest", "label": "news/query"}
+{"text": "change the speaker volume to sixty five percent", "label": "audio/volume_up"}
+{"text": "do i have enough ingredients in my refrigerator", "label": "cooking/recipe"}
+{"text": "please be silent", "label": "audio/volume_mute"}
+{"text": "remind me about the meeting", "label": "calendar/set"}
+{"text": "please be quiet for another hour", "label": "audio/volume_mute"}
+{"text": "can i get takeaway from pings", "label": "takeaway/query"}
+{"text": "what meetings are available in march", "label": "calendar/query"}
+{"text": "remove all upcoming events please", "label": "calendar/remove"}
+{"text": "what is the weather for this week", "label": "weather/query"}
+{"text": "can i order take out food at this time", "label": "takeaway/order"}
+{"text": "touch the mute button", "label": "audio/volume_mute"}
+{"text": "what are the top stories on cnn", "label": "news/query"}
+{"text": "what is the forecast for the week", "label": "weather/query"}
+{"text": "what are the ingredients in macaroni and cheese", "label": "cooking/recipe"}
+{"text": "decrease volume", "label": "audio/volume_down"}
+{"text": "set to silent for five minutes", "label": "audio/volume_mute"}
+{"text": "i'm in a meeting please do not speak", "label": "audio/volume_mute"}
+{"text": "please delete the meeting i have with john tonight", "label": "calendar/remove"}
+{"text": "how hot is it in miami", "label": "weather/query"}
+{"text": "mute for the next hour please", "label": "audio/volume_mute"}
+{"text": "order one burger", "label": "takeaway/order"}
+{"text": "what is happening in the world today", "label": "news/query"}
+{"text": "what is left for today", "label": "calendar/query"}
+{"text": "remind me everyday at two pm for lunch", "label": "calendar/set"}
+{"text": "tell the latest news about the trump", "label": "news/query"}
+{"text": "put a seven pm meeting time down for march fourteenth", "label": "calendar/set"}
+{"text": "quick meals", "label": "cooking/recipe"}
+{"text": "unmute after", "label": "audio/volume_up"}
+{"text": "google search the topic", "label": "news/query"}
+{"text": "how many calories did i burn between three and five today", "label": "calendar/query"}
+{"text": "don't make any sounds", "label": "audio/volume_mute"}
+{"text": "please see if the restaurant chili's has delivery as an option", "label": "takeaway/query"}
+{"text": "i want two burgers and one coke order it fast", "label": "takeaway/order"}
+{"text": "silence", "label": "audio/volume_mute"}
+{"text": "make my calendar empty", "label": "calendar/remove"}
+{"text": "can i carry out with this restaurant", "label": "takeaway/query"}
+{"text": "entertainment news", "label": "news/query"}
+{"text": "what's it like outside", "label": "weather/query"}
+{"text": "i will need a scarf in afternoon to overcome sunlight", "label": "weather/query"}
+{"text": "set the speakers to mute", "label": "audio/volume_mute"}
+{"text": "remind me about calendar", "label": "calendar/set"}
+{"text": "clear up my calendar", "label": "calendar/remove"}
+{"text": "speak as loud as you can", "label": "audio/volume_up"}
+{"text": "silence for certain amount of hours", "label": "audio/volume_mute"}
+{"text": "does chinese deliver", "label": "takeaway/query"}
+{"text": "what is the status on my latest order", "label": "takeaway/query"}
+{"text": "the meeting with justin and katrina has been changed put it on thursday", "label": "calendar/set"}
+{"text": "turn off media volume", "label": "audio/volume_mute"}
+{"text": "can you tell me about my meetings next week", "label": "calendar/query"}
+{"text": "keep me updated on the election results", "label": "news/query"}
+{"text": "i want you to mute", "label": "audio/volume_mute"}
+{"text": "cancel all my appointments after three pm today and inform me the details", "label": "calendar/remove"}
+{"text": "add event to date", "label": "calendar/set"}
+{"text": "is it going to snow tonight", "label": "weather/query"}
+{"text": "turn up the volume of my speakers", "label": "audio/volume_up"}
+{"text": "i need two pizzas stat", "label": "takeaway/order"}
+{"text": "clear off the vet appointment tomorrow", "label": "calendar/remove"}
+{"text": "am i gonna need rain boots", "label": "weather/query"}
+{"text": "mute for two hours", "label": "audio/volume_mute"}
+{"text": "raise speaker volume", "label": "audio/volume_up"}
+{"text": "mute the speaker please", "label": "audio/volume_mute"}
+{"text": "on every tuesday remind me to go shopping", "label": "calendar/set"}
+{"text": "hey call the nearest chinese restaurant for a takeaway", "label": "takeaway/order"}
+{"text": "get us spaghetti from pizza hut", "label": "takeaway/order"}
+{"text": "order a twelve piece honey mustard wing combo with seasonimg altnon the fries and a sprite as the drink", "label": "takeaway/order"}
+{"text": "do i have any appointments scheduled for march twenty four two thousand and seventeen", "label": "calendar/query"}
+{"text": "remember to remind me about client meet at four pm", "label": "calendar/set"}
+{"text": "can you empty my calendar", "label": "calendar/remove"}
+{"text": "please call the golden fork and tell them to deliver one portion of the fish risotto", "label": "takeaway/order"}
+{"text": "what's going on between three hundred and thirty and four", "label": "calendar/query"}
+{"text": "My weekly plan", "label": "calendar/query"}
+{"text": "cancel dentist appointment for this week", "label": "calendar/remove"}
+{"text": "please find me the pe most recent news on", "label": "news/query"}
+{"text": "lower speaker volume", "label": "audio/volume_down"}
+{"text": "delete all the events of today", "label": "calendar/remove"}
+{"text": "in my calendar delete all of my golf events for the current month", "label": "calendar/remove"}
+{"text": "remind me of this meeting soon", "label": "calendar/set"}
+{"text": "decrease the volume", "label": "audio/volume_down"}
+{"text": "mute sound on speakers please", "label": "audio/volume_mute"}
+{"text": "set a reminder on fifteenth march as meeting", "label": "calendar/set"}
+{"text": "can i get delivery from dominos", "label": "takeaway/query"}
+{"text": "check the status of my pizza hut order please", "label": "takeaway/query"}
+{"text": "will the temperature be higher than forty tomorrow", "label": "weather/query"}
+{"text": "when will by order from taco bell be delivered", "label": "takeaway/query"}
+{"text": "id like to put in an order for some chinese food with hunan wok", "label": "takeaway/order"}
+{"text": "who takes less of duration of time for delivery", "label": "takeaway/query"}
+{"text": "will they deliver to me", "label": "takeaway/query"}
+{"text": "how much meat should i buy to serve ten people", "label": "cooking/recipe"}
+{"text": "remind me at the start of each month", "label": "calendar/set"}
+{"text": "does louie's do take out", "label": "takeaway/query"}
+{"text": "remove twenty fourth march meeting from schedule", "label": "calendar/remove"}
+{"text": "how are things in the world", "label": "news/query"}
+{"text": "talk quieter please", "label": "audio/volume_down"}
+{"text": "what are meeting scheduled for today", "label": "calendar/query"}
+{"text": "what is the seattle city council doing about homelessness", "label": "news/query"}
+{"text": "please tell me some international news", "label": "news/query"}
+{"text": "i want to mute the speaker", "label": "audio/volume_mute"}
+{"text": "order me a cheese burger from tommy's burgers", "label": "takeaway/order"}
+{"text": "can you give me a recipe for homemade chicken noodle soup", "label": "cooking/recipe"}
+{"text": "increase volume by two levels", "label": "audio/volume_up"}
+{"text": "what and how is india's economy at the moment", "label": "news/query"}
+{"text": "one thousand two hundred and thirty pm already you will have a meeting in ten mins", "label": "calendar/query"}
+{"text": "what is an alternative to flour", "label": "cooking/recipe"}
+{"text": "please order some sushi for dinner", "label": "takeaway/order"}
+{"text": "remove standup on Friday at ten am", "label": "calendar/remove"}
+{"text": "cancel the plan of party", "label": "calendar/remove"}
+{"text": "show the method to prepare icecream", "label": "cooking/recipe"}
+{"text": "church with mom and dad on sunday", "label": "calendar/set"}
+{"text": "call for takeout", "label": "takeaway/order"}
+{"text": "does shibaru sushi deliver", "label": "takeaway/query"}
+{"text": "please speak up", "label": "audio/volume_up"}
+{"text": "down the volume", "label": "audio/volume_down"}
+{"text": "events happening between eight am and five pm today", "label": "calendar/query"}
+{"text": "hi olly please remove the birthday event on coming sunday", "label": "calendar/remove"}
+{"text": "i couldn't hear you repeat that louder", "label": "audio/volume_up"}
+{"text": "mute audio", "label": "audio/volume_mute"}
+{"text": "please turn the music up", "label": "audio/volume_up"}
+{"text": "i want to know how to make a chicken in the oven", "label": "cooking/recipe"}
+{"text": "tell me the current weather for danville il", "label": "weather/query"}
+{"text": "can you please order some food for me", "label": "takeaway/order"}
+{"text": "please delete all my calendar events", "label": "calendar/remove"}
+{"text": "i need you to have the volume louder", "label": "audio/volume_up"}
+{"text": "turn off the sounds", "label": "audio/volume_mute"}
+{"text": "please remove march nineteenth's scheduled event", "label": "calendar/remove"}
+{"text": "remind me tomorrow at four about an event", "label": "calendar/set"}
+{"text": "what's the news in politics", "label": "news/query"}
+{"text": "call domino's pizza", "label": "takeaway/order"}
+{"text": "is the weather bad in new york right now", "label": "weather/query"}
+{"text": "what is the news today", "label": "news/query"}
+{"text": "get me news on trump", "label": "news/query"}
+{"text": "notify me about the meetings over a period of some days", "label": "calendar/query"}
+{"text": "do they have takeout", "label": "takeaway/query"}
+{"text": "no lunch date tomorrow", "label": "calendar/remove"}
+{"text": "ask if deliver", "label": "takeaway/query"}
+{"text": "how much is one serving of broccoli", "label": "cooking/recipe"}
+{"text": "what will be the highest temperature this week", "label": "weather/query"}
+{"text": "give me an update on the election in one hour", "label": "calendar/set"}
+{"text": "when is the school dance junction marked", "label": "calendar/query"}
+{"text": "annie could you please search the internet and play the videos for cooking italian food", "label": "cooking/recipe"}
+{"text": "what events do i have scheduled today", "label": "calendar/query"}
+{"text": "any upcoming events", "label": "calendar/query"}
+{"text": "remove father's day from calendar", "label": "calendar/remove"}
+{"text": "do i need a rain coat today", "label": "weather/query"}
+{"text": "please tell me the latest news about politics", "label": "news/query"}
+{"text": "how can i cook pizza", "label": "cooking/recipe"}
+{"text": "help me to mute my speaker", "label": "audio/volume_mute"}
+{"text": "is the sun gonna shine in devon this weekend", "label": "weather/query"}
+{"text": "increase the volume to seventy percent", "label": "audio/volume_up"}
+{"text": "see if john is available for a meeting on Monday", "label": "calendar/set"}
+{"text": "create a repeating event on mondays at seven pm", "label": "calendar/set"}
+{"text": "access recipe book please", "label": "cooking/recipe"}
+{"text": "i want to know everything that breaks about the dam breaking in california", "label": "news/query"}
+{"text": "what are the estimated temperatures this afternoon", "label": "weather/query"}
+{"text": "schedule a sales meeting for wednesday at eleven am", "label": "calendar/set"}
+{"text": "be mute", "label": "audio/volume_mute"}
+{"text": "how's weather today", "label": "weather/query"}
+{"text": "put working out on my calendar for eight am every day this week", "label": "calendar/set"}
+{"text": "tell me the best recipes for a given dish", "label": "cooking/recipe"}
+{"text": "tell me about the current weather", "label": "weather/query"}
+{"text": "can you notify the event in my calendar", "label": "calendar/set"}
+{"text": "volume control", "label": "audio/volume_mute"}
+{"text": "can you delete the doctors appointment i had Tuesday", "label": "calendar/remove"}
+{"text": "set a meeting with hongbin", "label": "calendar/set"}
+{"text": "do the knicks have a game at home tonight", "label": "calendar/query"}
+{"text": "is it going to be cloudy or sunny today in bangalore", "label": "weather/query"}
+{"text": "what is a good vegan egg substitute", "label": "cooking/recipe"}
+{"text": "give me today's calendar events after six pm", "label": "calendar/query"}
+{"text": "how do i cook a medium rare steak", "label": "cooking/recipe"}
+{"text": "make the speaker volume on maximum", "label": "audio/volume_up"}
+{"text": "raise the volume of my music player by fifty percent", "label": "audio/volume_up"}
+{"text": "increase the volume to max please", "label": "audio/volume_up"}
+{"text": "order takeout from pizza restaurant", "label": "takeaway/order"}
+{"text": "pawel prepare the meeting with john", "label": "calendar/query"}
+{"text": "can you take off the next event on my calendar", "label": "calendar/remove"}
+{"text": "give me the latest updates", "label": "news/query"}
+{"text": "lower volume to half", "label": "audio/volume_down"}
+{"text": "order me chinese food", "label": "takeaway/order"}
+{"text": "delete my dentist appointment", "label": "calendar/remove"}
+{"text": "check the weather app to see if", "label": "weather/query"}
+{"text": "remind me to call my grandma this Sunday", "label": "calendar/set"}
+{"text": "please reduce the sound", "label": "audio/volume_down"}
+{"text": "am i going to swim or work today", "label": "weather/query"}
+{"text": "where can i order takeout", "label": "takeaway/query"}
+{"text": "delete all recurring staff meetings", "label": "calendar/remove"}
+{"text": "tell me the temperature in pheonix", "label": "weather/query"}
+{"text": "open grubhub", "label": "takeaway/order"}
+{"text": "what places can i order takeout from near by", "label": "takeaway/order"}
+{"text": "i am really craving for chinese food right now please let me order take out", "label": "takeaway/order"}
+{"text": "how many things do i have planned tonight", "label": "calendar/query"}
+{"text": "find me a recipe for chicken noodle soup", "label": "cooking/recipe"}
+{"text": "increase volume by one", "label": "audio/volume_up"}
+{"text": "does mr pizza deliver", "label": "takeaway/query"}
+{"text": "do i have any thing going on at five", "label": "calendar/query"}
+{"text": "slow down the speaker volume", "label": "audio/volume_down"}
+{"text": "what is the weather forecast for chicago", "label": "weather/query"}
+{"text": "i want to order some takeaway food", "label": "takeaway/order"}
+{"text": "what is recipe", "label": "cooking/recipe"}
+{"text": "lower the volume ten percent", "label": "audio/volume_down"}
+{"text": "give me the news on donald trump", "label": "news/query"}
+{"text": "show me tutorials on cooking food", "label": "cooking/recipe"}
+{"text": "hey sound is low can you tune it up", "label": "audio/volume_up"}
+{"text": "can you check the facts on this issue", "label": "calendar/query"}
+{"text": "order chinese food", "label": "takeaway/order"}
+{"text": "please mute my speaker", "label": "audio/volume_mute"}
+{"text": "find and order rasgulla of janta sweet home pvt ltd", "label": "takeaway/order"}
+{"text": "please you don't speak in eight to ten pm", "label": "audio/volume_mute"}
+{"text": "plan a meeting in office with all employees tomorrow morning at eight", "label": "calendar/set"}
+{"text": "check the status of my order", "label": "takeaway/query"}
+{"text": "macdonald shops", "label": "takeaway/order"}
+{"text": "delete my next scheduled event please", "label": "calendar/remove"}
+{"text": "when can i pick up my order", "label": "takeaway/query"}
+{"text": "remind me the upcoming meeting at four am today", "label": "calendar/set"}
+{"text": "search if the restaurant does take out", "label": "takeaway/query"}
+{"text": "i want to see the news", "label": "news/query"}
+{"text": "is there a takeout menu at the restaurant", "label": "takeaway/query"}
+{"text": "olly turn the volume up", "label": "audio/volume_up"}
+{"text": "find me the recipe for a cake", "label": "cooking/recipe"}
+{"text": "i need a recipe that is from ingredients on my shopping list", "label": "cooking/recipe"}
+{"text": "all rccg march event is to be added to my calendar", "label": "calendar/set"}
+{"text": "thirteenth june is a day of election result please set it", "label": "calendar/set"}
+{"text": "please tell me the news", "label": "news/query"}
+{"text": "what's up with my order", "label": "takeaway/query"}
+{"text": "i've got a meeting by tonight seven pm please mute the music for an hour", "label": "audio/volume_mute"}
+{"text": "increase the volume of the speaker", "label": "audio/volume_up"}
+{"text": "tell me the recipe for mashed potatoes", "label": "cooking/recipe"}
+{"text": "find me news about trumps speech", "label": "news/query"}
+{"text": "find easy recipe for almond milk", "label": "cooking/recipe"}
+{"text": "find my next event and delete it please", "label": "calendar/remove"}
+{"text": "can you deleted the current event", "label": "calendar/remove"}
+{"text": "Speak louder please", "label": "audio/volume_up"}
+{"text": "please mute yourself", "label": "audio/volume_mute"}
+{"text": "give me the reminders", "label": "calendar/query"}
+{"text": "turn the speakers down to five percent", "label": "audio/volume_down"}
+{"text": "tell me what was the temperature in our city at twelve pm", "label": "weather/query"}
+{"text": "increase the volume", "label": "audio/volume_up"}
+{"text": "hows many more reminders are left", "label": "calendar/query"}
+{"text": "invite people to the calendar event", "label": "calendar/set"}
+{"text": "how long should i simmer rice for", "label": "cooking/recipe"}
+{"text": "when my takeaway order will arrive", "label": "takeaway/query"}
+{"text": "order takeout pizza from domino's for seven pm", "label": "takeaway/order"}
+{"text": "can i order takeaway from spanish place", "label": "takeaway/order"}
+{"text": "what are the upcoming reminders", "label": "calendar/query"}
+{"text": "what is the weather next week", "label": "weather/query"}
+{"text": "hey order me some take out from jason's deli", "label": "takeaway/order"}
+{"text": "let me know when the next cold front is expected", "label": "weather/query"}
+{"text": "please speak loud", "label": "audio/volume_up"}
+{"text": "what is trending in tech today", "label": "news/query"}
+{"text": "does the restaurant have delivery", "label": "takeaway/query"}
+{"text": "can you pull up the latest time so i won't be late for my appointment", "label": "calendar/query"}
+{"text": "check delivery options for the restaurant", "label": "takeaway/query"}
+{"text": "delete all details in event", "label": "calendar/remove"}
+{"text": "show me the recipe of tandoori chicken", "label": "cooking/recipe"}
+{"text": "delete my appointment tomorrow", "label": "calendar/remove"}
+{"text": "update the calendar with the last event removed", "label": "calendar/remove"}
+{"text": "where is my meeting at nine am", "label": "calendar/query"}
+{"text": "remove the event from monday", "label": "calendar/remove"}
+{"text": "tell me the recipe for yellow rice", "label": "cooking/recipe"}
+{"text": "bring up a recipe for turkey meatballs", "label": "cooking/recipe"}
+{"text": "am i free on sunday day", "label": "calendar/query"}
+{"text": "delete my next meeting", "label": "calendar/remove"}
+{"text": "tell me what is on my schedule for today", "label": "calendar/query"}
+{"text": "turn up radio volume", "label": "audio/volume_up"}
+{"text": "anything interesting happening next friday", "label": "calendar/query"}
+{"text": "set a meeting with tom tomorrow at seven pm", "label": "calendar/set"}
+{"text": "how do you make pasta", "label": "cooking/recipe"}
+{"text": "remind me every year on this date of", "label": "calendar/set"}
+{"text": "find me any news from so clean the last six hours", "label": "news/query"}
+{"text": "is mysore going to be very hot and humid today whats the weather status", "label": "weather/query"}
+{"text": "whatever the next event is in the calendar delete it", "label": "calendar/remove"}
+{"text": "is there takeaway at papa john's", "label": "takeaway/query"}
+{"text": "please tell me to take my umbrella because it will be very hot today", "label": "calendar/set"}
+{"text": "what is today's weather in springfield", "label": "weather/query"}
+{"text": "what's the recipe for fried chicken", "label": "cooking/recipe"}
+{"text": "pull up the menu for the closest mexican restaurant", "label": "takeaway/order"}
+{"text": "notify me when the event is going to take place", "label": "calendar/set"}
+{"text": "can you set radio to mute", "label": "audio/volume_mute"}
+{"text": "is there any rains predicted for bangalore today", "label": "weather/query"}
+{"text": "what is new news for today", "label": "news/query"}
+{"text": "ask for the weather today morning", "label": "weather/query"}
+{"text": "lower the speak volume", "label": "audio/volume_down"}
+{"text": "what asian restaurants nearby offer to go food", "label": "takeaway/query"}
+{"text": "what events are going to happen in my city between two four pm today", "label": "calendar/query"}
+{"text": "clear everything off my calendar for the rest of the year", "label": "calendar/remove"}
+{"text": "increase the volume a bit", "label": "audio/volume_up"}
+{"text": "order a takeaway", "label": "takeaway/order"}
+{"text": "i need to cancel my rsvp for dinner this evening can you remove it on my calendar as well", "label": "calendar/remove"}
+{"text": "speaker volume increase", "label": "audio/volume_up"}
+{"text": "do i need pants", "label": "weather/query"}
+{"text": "turn my audio higher", "label": "audio/volume_up"}
+{"text": "is there anything i need to be aware of", "label": "calendar/query"}
+{"text": "whats happening in football today", "label": "news/query"}
+{"text": "automobiles", "label": "news/query"}
+{"text": "does pizza hut have delivery", "label": "takeaway/query"}
+{"text": "in the following week repeat this event at ten am every day", "label": "calendar/set"}
+{"text": "order food from applebees", "label": "takeaway/order"}
+{"text": "will i need my snow boots this afternoon", "label": "weather/query"}
+{"text": "delete an last event reminder of twenty ninth of march twenty seventeen", "label": "calendar/remove"}
+{"text": "how long should i cook a steak to be medium", "label": "cooking/recipe"}
+{"text": "get news about new foreign policy", "label": "news/query"}
+{"text": "please search for beginners guide to cooking", "label": "cooking/recipe"}
+{"text": "what time is the party tonight", "label": "calendar/query"}
+{"text": "what's an easy recipe to cook for food", "label": "cooking/recipe"}
+{"text": "could you speak louder", "label": "audio/volume_up"}
+{"text": "please add the meeting with ms boland on wednesday eight hundred am to my calendar", "label": "calendar/set"}
+{"text": "schedule lunch at tomo in arcata california tomorrow at noon", "label": "calendar/set"}
+{"text": "turn off the bass from the audio", "label": "audio/volume_down"}
+{"text": "hi there do you offer home delivery for orders", "label": "takeaway/query"}
+{"text": "mute for volume", "label": "audio/volume_mute"}
+{"text": "decrease the volume to ten", "label": "audio/volume_down"}
+{"text": "please erase the next birthday event", "label": "calendar/remove"}
+{"text": "lower all volume on speakers please", "label": "audio/volume_down"}
+{"text": "status of weather", "label": "weather/query"}
+{"text": "order ribs for dinner", "label": "takeaway/order"}
+{"text": "can i order out", "label": "takeaway/order"}
+{"text": "what on my calendar", "label": "calendar/query"}
+{"text": "any local news stories for my home city", "label": "news/query"}
+{"text": "freezing", "label": "cooking/recipe"}
+{"text": "does lechateau have delivery service or only takeaway", "label": "takeaway/query"}
+{"text": "maximum kilometer to delivery", "label": "takeaway/query"}
+{"text": "march one is susan's birthday right", "label": "calendar/query"}
+{"text": "please see if chili's has delivery", "label": "takeaway/query"}
+{"text": "this event needs to be deleted", "label": "calendar/remove"}
+{"text": "weather forecast please", "label": "weather/query"}
+{"text": "on twenty third february rahul will come with me on india cricket match", "label": "calendar/set"}
+{"text": "please put in an order from red thai fpr this evening", "label": "takeaway/order"}
+{"text": "hackernews", "label": "news/query"}
+{"text": "clear all data from calendar", "label": "calendar/remove"}
+{"text": "quiet please", "label": "audio/volume_mute"}
+{"text": "speak softer please", "label": "audio/volume_down"}
+{"text": "checkout domino centre near me and order cheese pizza", "label": "takeaway/order"}
+{"text": "how to cook spaghetti squash", "label": "cooking/recipe"}
+{"text": "tell me what is on my calendar for tomorrow", "label": "calendar/query"}
+{"text": "repeating event meeting on mondays", "label": "calendar/set"}
+{"text": "Show chicken tikka recipe", "label": "cooking/recipe"}
+{"text": "please check my reminders", "label": "calendar/query"}
+{"text": "how do you make sunny side up eggs", "label": "cooking/recipe"}
+{"text": "any restaurant in the beautiful", "label": "takeaway/query"}
+{"text": "does that restaurant allow take out orders", "label": "takeaway/query"}
+{"text": "up the volume the sound is too low", "label": "audio/volume_up"}
+{"text": "remove my calendar event at one pm today", "label": "calendar/remove"}
+{"text": "is it going to be cloudy in london during the weekend", "label": "weather/query"}
+{"text": "get large pizza with pepperoni", "label": "takeaway/order"}
+{"text": "i am gonna need an umbrella today after sunset", "label": "weather/query"}
+{"text": "is there takeaway at donut junction", "label": "takeaway/query"}
+{"text": "hey does open sesame do take out", "label": "takeaway/query"}
+{"text": "what is my schedule for tomorrow morning", "label": "calendar/query"}
+{"text": "order pizza", "label": "takeaway/order"}
+{"text": "turn the sound up", "label": "audio/volume_up"}
+{"text": "open events this week", "label": "calendar/query"}
+{"text": "i want to cook pasta in american style show me how", "label": "cooking/recipe"}
+{"text": "did the yankees win last night", "label": "news/query"}
+{"text": "which is the next event coming up", "label": "calendar/query"}
+{"text": "does peking garden do orders online", "label": "takeaway/query"}
+{"text": "do remove next event from the calendar", "label": "calendar/remove"}
+{"text": "what are the steps for biriyani meal", "label": "cooking/recipe"}
+{"text": "is there valet service at the event", "label": "calendar/query"}
+{"text": "ask peking garden when my food will arrive", "label": "takeaway/query"}
+{"text": "domino's delivery status", "label": "takeaway/query"}
+{"text": "where is the closest spot to order food for pickup", "label": "takeaway/query"}
+{"text": "please stop for a bit", "label": "audio/volume_mute"}
+{"text": "please check my coming up events", "label": "calendar/query"}
+{"text": "where is tuesday's morning meeting", "label": "calendar/query"}
+{"text": "show me delivery near me", "label": "takeaway/order"}
+{"text": "i want all my events deleted", "label": "calendar/remove"}
+{"text": "can you turn up the volume on itunes", "label": "audio/volume_up"}
+{"text": "tell me about the latest sports news", "label": "news/query"}
+{"text": "remove dinner with mike from my calendar", "label": "calendar/remove"}
+{"text": "i need you to say that last information again but much louder", "label": "audio/volume_up"}
+{"text": "boiled", "label": "cooking/recipe"}
+{"text": "what does the analysts say about the new immigration policies", "label": "news/query"}
+{"text": "set the music volume to ninety", "label": "audio/volume_up"}
+{"text": "will the restaurant deliver the order", "label": "takeaway/query"}
+{"text": "what is trending", "label": "news/query"}
+{"text": "activate silent", "label": "audio/volume_mute"}
+{"text": "lower audio", "label": "audio/volume_down"}
+{"text": "i would like to pickup a veggie sub with a cookie from subway", "label": "takeaway/order"}
+{"text": "find the recipe for sambar in cookingforu application", "label": "cooking/recipe"}
+{"text": "how soon is my anniversary", "label": "calendar/query"}
+{"text": "check to see if pizza hut has my order on the way", "label": "takeaway/query"}
+{"text": "what temperature should a baked chicken be", "label": "cooking/recipe"}
+{"text": "please remind to sleep at nine pm", "label": "calendar/set"}
+{"text": "what is a good way to make steak", "label": "cooking/recipe"}
+{"text": "turn the volume down a little please", "label": "audio/volume_down"}
+{"text": "can you remind me to check my clothes in a hour", "label": "calendar/set"}
+{"text": "order me the fish risotto from the golden fork", "label": "takeaway/order"}
+{"text": "set reminder for tennis game with peter on Sunday at four pm", "label": "calendar/set"}
+{"text": "what temperature should the oil be for frying french fries", "label": "cooking/recipe"}
+{"text": "first week of march meetings", "label": "calendar/query"}
+{"text": "which restaurants offer take out food", "label": "takeaway/query"}
+{"text": "turn down the noise", "label": "audio/volume_mute"}
+{"text": "twelveth july is bola's birthday and my calendar to be updated with this date", "label": "calendar/set"}
+{"text": "please block off friday at eight am on my calendar", "label": "calendar/set"}
+{"text": "please turn the music volume up", "label": "audio/volume_up"}
+{"text": "can you take out dentist appointment from my calendar", "label": "calendar/remove"}
+{"text": "let me know if anything happens on that subject", "label": "news/query"}
+{"text": "please share up to the minute details on sprint", "label": "news/query"}
+{"text": "open cnn app", "label": "news/query"}
+{"text": "set a reminder for fifteen minutes to change laundry loads", "label": "calendar/set"}
+{"text": "i can't hear just increase the volume", "label": "audio/volume_up"}
+{"text": "show me the events in my work calendar for next week", "label": "calendar/set"}
+{"text": "where can i order pizza for delivery", "label": "takeaway/query"}
+{"text": "i need the recipe for hot cross buns", "label": "cooking/recipe"}
+{"text": "disable music player", "label": "audio/volume_mute"}
+{"text": "erase my next event", "label": "calendar/remove"}
+{"text": "what mexican restaurants are there nearby for takeout", "label": "takeaway/order"}
+{"text": "pull up peking garden online", "label": "takeaway/order"}
+{"text": "is my calendar free for Thursday", "label": "calendar/query"}
+{"text": "find and order handi paneer in pavitra", "label": "takeaway/order"}
+{"text": "please decrease the volume of this song", "label": "audio/volume_up"}
+{"text": "weather forecast for this week", "label": "weather/query"}
+{"text": "is mary's birthday party tonight", "label": "calendar/query"}
+{"text": "please increase volume", "label": "audio/volume_up"}
+{"text": "can I get the recipe for chocolate brownies", "label": "cooking/recipe"}
+{"text": "schedule a lunch meeting with brent on Wednesday at noon", "label": "calendar/set"}
+{"text": "order pizza for delivery", "label": "takeaway/order"}
+{"text": "increase volume please", "label": "audio/volume_up"}
+{"text": "does the nearby pizza hut deliver in my area", "label": "takeaway/query"}
+{"text": "where is my pizza from domino's at", "label": "takeaway/query"}
+{"text": "google please be extra quiet the baby is sleeping", "label": "audio/volume_mute"}
+{"text": "what is the best recipe for tacos", "label": "cooking/recipe"}
+{"text": "tell me when the hockey game tickets are for", "label": "calendar/query"}
+{"text": "is it going to rain today in san diego", "label": "weather/query"}
+{"text": "call pizza hut and find out if my order is ready", "label": "takeaway/query"}
+{"text": "should i bring an umbrella today", "label": "weather/query"}
+{"text": "how is this weeks weather", "label": "weather/query"}
+{"text": "please decrease the volume of music player", "label": "audio/volume_down"}
+{"text": "what is the phone number for the nearest location of church's chicken", "label": "takeaway/query"}
+{"text": "quiet on", "label": "audio/volume_mute"}
+{"text": "whats with my dinner order", "label": "takeaway/query"}
+{"text": "i want to eat two pita gyros please and some diet coke", "label": "takeaway/order"}
+{"text": "i want to order some takeout food", "label": "takeaway/order"}
+{"text": "what went on in the world today", "label": "news/query"}
+{"text": "am i busy on Wednesday evening", "label": "calendar/query"}
+{"text": "find apple pie recipe", "label": "cooking/recipe"}
+{"text": "on my calendar are there any birthdays", "label": "calendar/query"}
+{"text": "what are the offers in uber eats", "label": "takeaway/order"}
+{"text": "shut up", "label": "audio/volume_mute"}
+{"text": "what time am i supposed to pick up john again", "label": "calendar/query"}
+{"text": "please quiet the speaker", "label": "audio/volume_mute"}
+{"text": "what ingredients do i need for tomato soup", "label": "cooking/recipe"}
+{"text": "do i need boots today", "label": "weather/query"}
+{"text": "how long do i need to cook a brisket for it to be medium", "label": "cooking/recipe"}
+{"text": "can you remind me of sunday gym every saturday evening", "label": "calendar/set"}
+{"text": "how long until i receive my food", "label": "takeaway/query"}
+{"text": "set a reminder for my shopping trip tomorrow at five pm", "label": "calendar/set"}
+{"text": "Show me news from cnn", "label": "news/query"}
+{"text": "hey order two wings with french fries from the chinese food store", "label": "takeaway/order"}
+{"text": "is the restaurant having delivery facility", "label": "takeaway/query"}
+{"text": "is it supposed to rain tomorrow", "label": "weather/query"}
+{"text": "no notifications for five minutes", "label": "audio/volume_mute"}
+{"text": "hey order a side of hot wings with my previous order", "label": "takeaway/order"}
+{"text": "let me know the latest weather news", "label": "news/query"}
+{"text": "show me how to cook lasagna", "label": "cooking/recipe"}
+{"text": "is the meeting scheduled for tomorrow", "label": "calendar/query"}
+{"text": "will i need an umbrella today", "label": "weather/query"}
+{"text": "does fongs do carry out", "label": "takeaway/query"}
+{"text": "erase all events", "label": "calendar/remove"}
+{"text": "what is the current weather in denver", "label": "weather/query"}
+{"text": "set event on recurring", "label": "calendar/set"}
+{"text": "every wednesday night at five pm remind me to meet phil", "label": "calendar/set"}
+{"text": "alert me at the time of the event", "label": "calendar/set"}
+{"text": "quiet mode on until i am home from work", "label": "audio/volume_mute"}
+{"text": "do i have a sales meeting today", "label": "calendar/query"}
+{"text": "i am in need of some pizza what's the closest place that delivers", "label": "takeaway/order"}
+{"text": "turn the music lower", "label": "audio/volume_down"}
+{"text": "what events are scheduled for me to do today", "label": "calendar/query"}
+{"text": "how many degrees is it in orange tx right now", "label": "weather/query"}
+{"text": "can you delete all events from my calendar", "label": "calendar/remove"}
+{"text": "help me make brownies", "label": "cooking/recipe"}
+{"text": "please order me some takeout", "label": "takeaway/order"}
+{"text": "what have i got going on between three and four pm today", "label": "calendar/query"}
+{"text": "where am i supposed to be by this time tomorrow", "label": "calendar/query"}
+{"text": "noodles one pack make it as takeaway", "label": "takeaway/order"}
+{"text": "should i bring warm clothes", "label": "weather/query"}
+{"text": "Please pause the song", "label": "audio/volume_mute"}
+{"text": "give me a recipe for lasagne", "label": "cooking/recipe"}
+{"text": "what is the latest news from cbs", "label": "news/query"}
+{"text": "increase the volume of the left speaker by ten", "label": "audio/volume_up"}
+{"text": "decrease speaker volume", "label": "audio/volume_down"}
+{"text": "will it rain", "label": "weather/query"}
+{"text": "do i have any appointments coming up", "label": "calendar/query"}
+{"text": "when is taco bell going to arrive", "label": "takeaway/query"}
+{"text": "open the weather app", "label": "weather/query"}
+{"text": "what will the weather be for the next week", "label": "weather/query"}
+{"text": "can i go outing without any raincoat", "label": "weather/query"}
+{"text": "does restaurant has home delivery", "label": "takeaway/query"}
+{"text": "audio on", "label": "audio/volume_up"}
+{"text": "please be quiet for the next two hours", "label": "audio/volume_mute"}
+{"text": "what's the weather this week", "label": "weather/query"}
+{"text": "set a two day notification before maria's birthday please", "label": "calendar/set"}
+{"text": "what is home town weather", "label": "weather/query"}
+{"text": "find me a recipe for carrot soup", "label": "cooking/recipe"}
+{"text": "what is currently breaking news", "label": "news/query"}
+{"text": "from four to six when do i have a free break", "label": "calendar/query"}
+{"text": "tell me the meetings i have for the week", "label": "calendar/query"}
+{"text": "please lower music volume", "label": "audio/volume_down"}
+{"text": "please increase the volume of the music hips don't lie", "label": "audio/volume_up"}
+{"text": "am i on vacation this week", "label": "calendar/query"}
+{"text": "what is scheduled on my calendar today", "label": "calendar/query"}
+{"text": "i want to eat something will you order food for me", "label": "takeaway/order"}
+{"text": "be silent for thirty minutes", "label": "audio/volume_mute"}
+{"text": "order a takeaway sandwich and soup from the italian's", "label": "takeaway/order"}
+{"text": "how cold is today", "label": "weather/query"}
+{"text": "turn the sound off", "label": "audio/volume_mute"}
+{"text": "can you order me some buffalo chicken pizza", "label": "takeaway/order"}
+{"text": "show me nearby takeout restaurants", "label": "takeaway/order"}
+{"text": "Shut down the sound", "label": "audio/volume_mute"}
+{"text": "latest events", "label": "calendar/query"}
+{"text": "tell me what is on the schedule for july seventh", "label": "calendar/query"}
+{"text": "which day this week do i have plans", "label": "calendar/query"}
+{"text": "what day is the meeting on", "label": "calendar/query"}
+{"text": "celeb news", "label": "news/query"}
+{"text": "do i need to wear a coat today", "label": "weather/query"}
+{"text": "i need to know current weather in new york city", "label": "weather/query"}
+{"text": "remind me to move so there is no weight gain", "label": "calendar/set"}
+{"text": "show me pancakes", "label": "cooking/recipe"}
+{"text": "iphone", "label": "news/query"}
+{"text": "please lower the speaker volume", "label": "audio/volume_down"}
+{"text": "home town weather", "label": "weather/query"}
+{"text": "clear all events for this month", "label": "calendar/remove"}
+{"text": "your volume is too high please repeat that lower", "label": "audio/volume_down"}
+{"text": "remove meeting for wednesday morning", "label": "calendar/remove"}
+{"text": "please increase volume in music player", "label": "audio/volume_up"}
+{"text": "please slow down volume of speaker", "label": "audio/volume_down"}
+{"text": "how long until my takeaway", "label": "takeaway/query"}
+{"text": "sunny in oslo", "label": "weather/query"}
+{"text": "can you increase the volume of the speakers", "label": "audio/volume_up"}
+{"text": "find out if kfc delivers please", "label": "takeaway/query"}
+{"text": "order a large pepperoni pizza from dominos to go", "label": "takeaway/order"}
+{"text": "pull up my cnn app and read it to me", "label": "news/query"}
+{"text": "does it offer pick up", "label": "takeaway/query"}
+{"text": "take out available louies", "label": "takeaway/query"}
+{"text": "volume up", "label": "audio/volume_up"}
+{"text": "search for pizza nearby", "label": "takeaway/order"}
+{"text": "what time is the evening meeting i have with john", "label": "calendar/query"}
+{"text": "do i have anything scheduled in my events", "label": "calendar/query"}
+{"text": "list all the events in my march calendar", "label": "calendar/query"}
+{"text": "set volume to zero", "label": "audio/volume_mute"}
+{"text": "rise volume", "label": "audio/volume_up"}
+{"text": "make sound louder", "label": "audio/volume_up"}
+{"text": "please clear out my calendar completely", "label": "calendar/remove"}
+{"text": "new policies", "label": "news/query"}
+{"text": "tell me when taco bell can deliver my dinner", "label": "takeaway/query"}
+{"text": "can you remove that on my calendar", "label": "calendar/remove"}
+{"text": "mute sound", "label": "audio/volume_mute"}
+{"text": "i am no longer attending the wedding on the tenth so remove it from my calendar", "label": "calendar/remove"}
+{"text": "do you think i can wear sandals or should i wear sneakers tonight at seven pm", "label": "weather/query"}
+{"text": "order food", "label": "takeaway/order"}
+{"text": "let me know the weather for today", "label": "weather/query"}
+{"text": "prepare the order as soon as possible", "label": "takeaway/query"}
+{"text": "does pizza hut have my order ready", "label": "takeaway/query"}
+{"text": "reminders", "label": "calendar/set"}
+{"text": "how hot is it outside today", "label": "weather/query"}
+{"text": "what news updates are there from news express", "label": "news/query"}
+{"text": "show me chinese food near me", "label": "takeaway/order"}
+{"text": "is michael's a takeaway or delivery restaurant", "label": "takeaway/query"}
+{"text": "when will the match start", "label": "calendar/query"}
+{"text": "i want to know if the olive garden provides takeaway", "label": "takeaway/query"}
+{"text": "add dentist appointment for friday at five", "label": "calendar/set"}
+{"text": "delete my dinner tomorrow", "label": "calendar/remove"}
+{"text": "what are my plans for today", "label": "calendar/query"}
+{"text": "weather in home town", "label": "weather/query"}
+{"text": "how do i cook meatballs", "label": "cooking/recipe"}
+{"text": "delete my meeting event for march nineteen at one pm", "label": "calendar/remove"}
+{"text": "can i take food home here", "label": "takeaway/query"}
+{"text": "is gus's a take out place", "label": "takeaway/query"}
+{"text": "mute my speakers for a minute here i need to make a call", "label": "audio/volume_mute"}
+{"text": "remind me to take out the trash", "label": "calendar/set"}
+{"text": "goodnight", "label": "audio/volume_mute"}
+{"text": "set the volume higher", "label": "audio/volume_up"}
+{"text": "delete all my appointments for today", "label": "calendar/remove"}
+{"text": "provide wall street journal news", "label": "news/query"}
+{"text": "show up the events for me today", "label": "calendar/query"}
+{"text": "any low priced delicacies", "label": "takeaway/order"}
+{"text": "lower the volume of the speakers", "label": "audio/volume_down"}
+{"text": "down", "label": "audio/volume_down"}
+{"text": "delete the events from the calendar on twenty eighth march", "label": "calendar/remove"}
+{"text": "how do you zest a lime without a zester", "label": "cooking/recipe"}
+{"text": "set mute mode for one hour", "label": "audio/volume_mute"}
+{"text": "find new trump articles but not from fox news", "label": "news/query"}
+{"text": "what's the latest on the travel ban", "label": "news/query"}
+{"text": "order mcdonalds", "label": "takeaway/order"}
+{"text": "give me instructions on how to cook chicken", "label": "cooking/recipe"}
+{"text": "is it true that susan's birthday is on march first", "label": "calendar/query"}
+{"text": "tell me weather forecast", "label": "weather/query"}
+{"text": "can you sync my calendar with mark", "label": "calendar/set"}
+{"text": "does the nearby dominos have delivery", "label": "takeaway/query"}
+{"text": "what is the weather like outside", "label": "weather/query"}
+{"text": "i need help making pancakes", "label": "cooking/recipe"}
+{"text": "add new year with family next week", "label": "calendar/set"}
+{"text": "could you speak more softly", "label": "audio/volume_up"}
+{"text": "i'm in the mood to order takeaway", "label": "takeaway/order"}
+{"text": "what is today's weather forecast", "label": "weather/query"}
+{"text": "can it takeaway from ammi biryani", "label": "takeaway/query"}
+{"text": "i want the complete weather details of seventh march", "label": "weather/query"}
+{"text": "could you please yell the answer out to me", "label": "audio/volume_up"}
+{"text": "look to see if luigi's has takeaway", "label": "takeaway/query"}
+{"text": "how to make chicken tikka", "label": "cooking/recipe"}
+{"text": "remind me clock that i have a event", "label": "calendar/set"}
+{"text": "how cold is it outside", "label": "weather/query"}
+{"text": "hi olly please cancel all the programs for friday", "label": "calendar/remove"}
+{"text": "stop playing", "label": "audio/volume_mute"}
+{"text": "breaking news fox news", "label": "news/query"}
+{"text": "turn up", "label": "audio/volume_up"}
+{"text": "can you please be muted for a while", "label": "audio/volume_mute"}
+{"text": "can you tell me how to cook chocolate chip cookies", "label": "cooking/recipe"}
+{"text": "find weather report", "label": "weather/query"}
+{"text": "when will my food be ready", "label": "takeaway/query"}
+{"text": "louder please", "label": "audio/volume_up"}
+{"text": "raise the volume to fifty", "label": "audio/volume_up"}
+{"text": "turn it up", "label": "audio/volume_up"}
+{"text": "write down meeting at seven pm", "label": "calendar/set"}
+{"text": "call peking garden", "label": "takeaway/order"}
+{"text": "delete all my calendar events", "label": "calendar/remove"}
+{"text": "meeting this friday", "label": "calendar/set"}
+{"text": "can you please order me some mcdonalds", "label": "takeaway/order"}
+{"text": "mute volume", "label": "audio/volume_mute"}
+{"text": "could you please lower the tone", "label": "audio/volume_down"}
+{"text": "remind me on fifth march of every year to arrange wedding anniversary presents", "label": "calendar/set"}
+{"text": "what's going around in the world these days", "label": "news/query"}
+{"text": "tell me about my upcoming week", "label": "calendar/query"}
+{"text": "what will be the weather on monday this week", "label": "weather/query"}
+{"text": "remind me to go grocery shopping today", "label": "calendar/set"}
+{"text": "is there any good chinese takeout that's open late", "label": "takeaway/order"}
+{"text": "please empty my calendar", "label": "calendar/remove"}
+{"text": "what does one have to damage in cream to make butter", "label": "cooking/recipe"}
+{"text": "tell how vegetable is cooked", "label": "cooking/recipe"}
+{"text": "do i have any notifications from social media", "label": "calendar/query"}
+{"text": "latest reminder about meeting", "label": "calendar/set"}
+{"text": "please talk softer", "label": "audio/volume_down"}
+{"text": "quiet mode four hours", "label": "audio/volume_mute"}
+{"text": "recipes that can be cooked in an hour", "label": "cooking/recipe"}
+{"text": "turn sound off", "label": "audio/volume_mute"}
+{"text": "i want to eat some spicy thing", "label": "takeaway/order"}
+{"text": "what is the weather like in grand rapids mi", "label": "weather/query"}
+{"text": "set meeting with joanna on Saturday four pm", "label": "calendar/set"}
+{"text": "what's going on in the world these days", "label": "news/query"}
+{"text": "how is it outside", "label": "weather/query"}
+{"text": "order a pizza", "label": "takeaway/order"}
+{"text": "quiet time", "label": "audio/volume_mute"}
+{"text": "is it snowing in seattle", "label": "weather/query"}
+{"text": "whats the weather like", "label": "weather/query"}
+{"text": "turn the volume up on music player", "label": "audio/volume_up"}
+{"text": "it is cloudy today", "label": "weather/query"}
+{"text": "lower volume of music player", "label": "audio/volume_down"}
+{"text": "silently adjust", "label": "audio/volume_mute"}
+{"text": "remove next meeting today in my calendar", "label": "calendar/remove"}
+{"text": "what's the weather forecast for today", "label": "weather/query"}
+{"text": "my calendar is to be updated with all rccg event in march", "label": "calendar/set"}
+{"text": "please shut off", "label": "audio/volume_mute"}
+{"text": "remove all my engagements from calendar for tomorrow", "label": "calendar/remove"}
+{"text": "tell me all the takeaways nearby and i want to order food", "label": "takeaway/query"}
+{"text": "what's the latest news from xinhua", "label": "news/query"}
+{"text": "turn down volume twenty percent", "label": "audio/volume_down"}
+{"text": "where is an olive garden that does takeaway", "label": "takeaway/query"}
+{"text": "find my thai takeaways around grassmarket", "label": "takeaway/query"}
+{"text": "when monet's exhibition takes place", "label": "calendar/query"}
+{"text": "give me recipes", "label": "cooking/recipe"}
+{"text": "when is the doctor's appointment", "label": "calendar/query"}
+{"text": "can you eat sweet potato greens raw", "label": "cooking/recipe"}
+{"text": "is the anniversary event on twenty second of this month true", "label": "calendar/query"}
+{"text": "make a repeating reminder for my yoga practice every day at noon", "label": "calendar/set"}
+{"text": "what is happening this weekend", "label": "calendar/query"}
+{"text": "mute sound from speakers", "label": "audio/volume_mute"}
+{"text": "find dinner with mom on my calendar and delete it", "label": "calendar/remove"}
+{"text": "how do i steam rice", "label": "cooking/recipe"}
+{"text": "please remind me for the function at miami tomorrow", "label": "calendar/set"}
+{"text": "lower my music player volume by fifty percent of its current level", "label": "audio/volume_up"}
+{"text": "i need you to remind me to go to store tomorrow", "label": "calendar/set"}
+{"text": "remove calendar events for this week", "label": "calendar/remove"}
+{"text": "format data from calendar", "label": "calendar/remove"}
+{"text": "cancel future event from place i worked", "label": "calendar/remove"}
+{"text": "set on second january about soccer match of manchester", "label": "calendar/set"}
+{"text": "clean my calendar", "label": "calendar/remove"}
+{"text": "tell me the soup of the day at panera bread restaurant", "label": "takeaway/query"}
+{"text": "cancel everything on my calendar", "label": "calendar/remove"}
+{"text": "i dont want sound", "label": "audio/volume_mute"}
+{"text": "is the balloon festival this weekend", "label": "calendar/query"}
+{"text": "notify me an hour before my two pm appointment at the car dealership", "label": "calendar/set"}
+{"text": "please provide world hot news", "label": "news/query"}
+{"text": "on february fourteenth make dinner reservations at the restaurant", "label": "calendar/set"}
+{"text": "list out my upcoming events", "label": "calendar/query"}
+{"text": "i will no longer be joining mom for lunch tomorrow", "label": "calendar/remove"}
+{"text": "change the volume level to nineteen please", "label": "audio/volume_up"}
+{"text": "louder volume please", "label": "audio/volume_up"}
+{"text": "please unmute the settings", "label": "audio/volume_up"}
+{"text": "please remind me of all the nba scores in a week", "label": "calendar/set"}
+{"text": "is it going to rain later", "label": "weather/query"}
+{"text": "whats my schedule today", "label": "calendar/query"}
+{"text": "find me info on cars", "label": "news/query"}
+{"text": "who delivers near here", "label": "takeaway/order"}
+{"text": "how many teaspoons are in a cup", "label": "cooking/recipe"}
+{"text": "order a pizza for me", "label": "takeaway/order"}
+{"text": "i want the news about academy awards", "label": "news/query"}
+{"text": "clear all events on my calendar", "label": "calendar/remove"}
+{"text": "what's going on at the capitol", "label": "news/query"}
+{"text": "can you delete the dentist appointment", "label": "calendar/remove"}
+{"text": "how long do i chill an icebo pie", "label": "cooking/recipe"}
+{"text": "add a reminder for april twenty as my bro's birthday", "label": "calendar/set"}
+{"text": "turn up the volume on the music", "label": "audio/volume_up"}
+{"text": "show news of migration", "label": "news/query"}
+{"text": "where are my takeaway order", "label": "takeaway/query"}
+{"text": "will trump visit russia anytime soon", "label": "news/query"}
+{"text": "can i get delivery from this restaurant", "label": "takeaway/query"}
+{"text": "please find out of charley's steakhouse delivers", "label": "takeaway/query"}
+{"text": "call eastwind and order lomaine to go", "label": "takeaway/order"}
+{"text": "what are the ingredients necessary", "label": "cooking/recipe"}
+{"text": "remind me to pick up john from the airport tonight at eight", "label": "calendar/set"}
+{"text": "do i have any openings on my schedule for tomorrow", "label": "calendar/query"}
+{"text": "delete my calendar", "label": "calendar/remove"}
+{"text": "please set a monthly reminder for paying rent", "label": "calendar/set"}
+{"text": "how long until my order is ready", "label": "takeaway/query"}
+{"text": "how hot is it in quebec", "label": "weather/query"}
+{"text": "open calendar and make an event reminder", "label": "calendar/set"}
+{"text": "slow the volume speaker", "label": "audio/volume_down"}
+{"text": "do i have a meeting on saturday march twenty fifth", "label": "calendar/query"}
+{"text": "what is the recipe for apple pie", "label": "cooking/recipe"}
+{"text": "is india win today cricket match", "label": "news/query"}
+{"text": "are there any status updates on cnn news facebook page", "label": "news/query"}
+{"text": "set a reminder for tomorrow evening", "label": "calendar/set"}
+{"text": "order one pizza from pizza hut", "label": "takeaway/order"}
+{"text": "what is on the agenda for the four pm meeting with joe", "label": "calendar/query"}
+{"text": "please call china wok and order number seven", "label": "takeaway/order"}
+{"text": "tell me which catering packages are available", "label": "takeaway/query"}
+{"text": "set the event to recur on the first monday of the month", "label": "calendar/set"}
+{"text": "order general t'so eggroll to go", "label": "takeaway/order"}
+{"text": "how many minutes do i need to wait to pick up my food from china on the go", "label": "takeaway/query"}
+{"text": "does restaurant have takeaway", "label": "takeaway/query"}
+{"text": "can you order me some pizza", "label": "takeaway/order"}
+{"text": "turn up the speakers", "label": "audio/volume_up"}
+{"text": "latest updates on syrian civil war", "label": "news/query"}
+{"text": "delete all meetings for tomorrow", "label": "calendar/remove"}
+{"text": "take out event from calendar", "label": "calendar/remove"}
+{"text": "cancel the breakfast at tiffany's house", "label": "calendar/remove"}
+{"text": "cnn", "label": "news/query"}
+{"text": "please cancel my next hair cut", "label": "calendar/remove"}
+{"text": "hey olly tell my today's top news", "label": "news/query"}
+{"text": "find hotel order food name", "label": "takeaway/order"}
+{"text": "clean my entire calendar", "label": "calendar/remove"}
+{"text": "order chinese from china spring wonton soup and a small beef and broccoli", "label": "takeaway/order"}
+{"text": "add to calendar may two is mary's birthday repeat every year", "label": "calendar/set"}
+{"text": "mute for one hour", "label": "audio/volume_mute"}
+{"text": "order me postmates of mcdonald", "label": "takeaway/order"}
+{"text": "check and see what will be the weather condition in new jersey at eight am tomorrow", "label": "weather/query"}
+{"text": "any good fast food items", "label": "takeaway/order"}
+{"text": "order me some chipotle", "label": "takeaway/order"}
+{"text": "please find the recipe for meatballs", "label": "cooking/recipe"}
+{"text": "recipe for meal", "label": "cooking/recipe"}
+{"text": "please mute the speakers", "label": "audio/volume_mute"}
+{"text": "pause for ten seconds", "label": "audio/volume_mute"}
+{"text": "can they provide takeaway", "label": "takeaway/query"}
+{"text": "recipes", "label": "cooking/recipe"}
+{"text": "go to sleep", "label": "audio/volume_mute"}
+{"text": "will there be snow tomorrow", "label": "weather/query"}
+{"text": "sound off", "label": "audio/volume_mute"}
+{"text": "get yourself muted", "label": "audio/volume_mute"}
+{"text": "my events", "label": "calendar/query"}
+{"text": "speak louder", "label": "audio/volume_up"}
+{"text": "create a meeting event in my calendar", "label": "calendar/set"}
+{"text": "what is the forecast", "label": "weather/query"}
+{"text": "will i need an umbrella tomorrow", "label": "weather/query"}
+{"text": "does peking garden deliver", "label": "takeaway/query"}
+{"text": "any fast food meal offers", "label": "takeaway/order"}
+{"text": "add event to calendar", "label": "calendar/set"}
+{"text": "could you please schedule a meeting with this person", "label": "calendar/set"}
+{"text": "what meetings do i have next thursday", "label": "calendar/query"}
+{"text": "please hold for the next hour", "label": "audio/volume_mute"}
+{"text": "google what is the temperature outside", "label": "weather/query"}
+{"text": "what is the latest headline news from this newsource", "label": "news/query"}
+{"text": "how can a cook risotto", "label": "cooking/recipe"}
+{"text": "just increase the volume a little", "label": "audio/volume_up"}
+{"text": "when is dale's birthday", "label": "calendar/query"}
+{"text": "set the settings to mute", "label": "audio/volume_mute"}
+{"text": "what conducts heat better copper bottomed pots or cast iron", "label": "cooking/recipe"}
+{"text": "find the correct temperature for frying a whole turkey", "label": "cooking/recipe"}
+{"text": "please explain the rice recipe", "label": "cooking/recipe"}
+{"text": "hows the food order going", "label": "takeaway/query"}
+{"text": "take off the doctor's appointment on march twentieth", "label": "calendar/remove"}
+{"text": "remind me about my monday meeting with peter francis fifteen minutes before the meeting", "label": "calendar/set"}
+{"text": "what are the most recent headlines on cnn", "label": "news/query"}
+{"text": "does restaurant royale deliver takeaway", "label": "takeaway/query"}
+{"text": "unmute", "label": "audio/volume_up"}
+{"text": "down the speaker volume at the end of level", "label": "audio/volume_mute"}
+{"text": "keep me informed about bitcoin price", "label": "news/query"}
+{"text": "set a neighbor party for next week", "label": "calendar/set"}
+{"text": "will it rain in the noon", "label": "weather/query"}
+{"text": "I need the volume to be quieter", "label": "audio/volume_down"}
+{"text": "please confirm the weather for the thirteenth of this month", "label": "weather/query"}
+{"text": "make sure there is no events on my calendar", "label": "calendar/remove"}
+{"text": "search for your favorite meal", "label": "cooking/recipe"}
+{"text": "i feel like having soup for lunch order from wangs kitchen restaurant a chicken manchow soup", "label": "takeaway/order"}
+{"text": "don't speak for an hour", "label": "audio/volume_mute"}
+{"text": "whats the weather now", "label": "weather/query"}
+{"text": "tell me the weather for new york city", "label": "weather/query"}
+{"text": "can you direct me to the menu for the highest rated chinese carryout near me", "label": "takeaway/order"}
+{"text": "mute the living room speakers", "label": "audio/volume_mute"}
+{"text": "when is bank holiday", "label": "calendar/query"}
+{"text": "delete all my events for tomorrow", "label": "calendar/remove"}
+{"text": "turn off the sound", "label": "audio/volume_mute"}
+{"text": "find out if the restaurant does takeaway orders", "label": "takeaway/query"}
+{"text": "the current news", "label": "news/query"}
+{"text": "charges of delivery", "label": "takeaway/query"}
+{"text": "whats the average temperature in mangalore for this week", "label": "weather/query"}
+{"text": "let me know when you hear about france", "label": "news/query"}
+{"text": "when i get home can you please order a pizza", "label": "takeaway/order"}
+{"text": "i need to hear the volume of the current music", "label": "audio/volume_up"}
+{"text": "the music volume should increase to ninety", "label": "audio/volume_up"}
+{"text": "can you tell me the next scheduled event", "label": "calendar/query"}
+{"text": "crabmeat recipe", "label": "cooking/recipe"}
+{"text": "please add dinner with mary to my calendar on saturday", "label": "calendar/set"}
+{"text": "contact pizza hut and order a large pizza with ham and mushrooms", "label": "takeaway/order"}
+{"text": "do they deliver", "label": "takeaway/query"}
+{"text": "turn up sound", "label": "audio/volume_up"}
+{"text": "delete my dr k appointment in march", "label": "calendar/remove"}
+{"text": "show me my events", "label": "calendar/query"}
+{"text": "you're too loud", "label": "audio/volume_down"}
+{"text": "remind me to have launch with boss today at one pm", "label": "calendar/set"}
+{"text": "what's the news in politics on cnn", "label": "news/query"}
+{"text": "please keep quiet for the next hour", "label": "audio/volume_mute"}
+{"text": "should i take an umbrella today", "label": "weather/query"}
+{"text": "calendar event send invite bill malinda", "label": "calendar/set"}
+{"text": "order takeout", "label": "takeaway/order"}
+{"text": "Turn down volume", "label": "audio/volume_down"}
+{"text": "add my spin class to the calendar for Saturday at seven am", "label": "calendar/set"}
+{"text": "get me match highlights", "label": "news/query"}
+{"text": "what's happening in world news today", "label": "news/query"}
+{"text": "what temperature do you bake a potato", "label": "cooking/recipe"}
+{"text": "weather in chicago please", "label": "weather/query"}
+{"text": "what am i up to this weekend", "label": "calendar/query"}
+{"text": "set the alarm in my calendar events before five mins", "label": "calendar/set"}
+{"text": "what's my next appointment", "label": "calendar/query"}
+{"text": "don't let me forget i have a parent teacher conference this monday at four hundred pm", "label": "calendar/set"}
+{"text": "how is my order", "label": "takeaway/query"}
+{"text": "is dinner ready yet", "label": "takeaway/query"}
+{"text": "is it colder than yesterday", "label": "weather/query"}
+{"text": "notification regarding the new iphone release update", "label": "news/query"}
+{"text": "reviews of the restaurants", "label": "takeaway/query"}
+{"text": "add practice to calendar on feb four at king's park at two pm", "label": "calendar/set"}
+{"text": "could you please help me to order some sushi from deliveroo", "label": "takeaway/order"}
+{"text": "enter silence mode", "label": "audio/volume_mute"}
+{"text": "i want to read yahoo news", "label": "news/query"}
+{"text": "set a notification on third march about company meeting", "label": "calendar/set"}
+{"text": "what else is on the list", "label": "calendar/query"}
+{"text": "cancel tomorrow's meeting", "label": "calendar/remove"}
+{"text": "can you remind my next meeting with my boss one hour before it will happen", "label": "calendar/set"}
+{"text": "delete meeting", "label": "calendar/remove"}
+{"text": "can you please disregard the party that i will be going to this weekend on my calendar", "label": "calendar/remove"}
+{"text": "schedule a delivery from food at the nearby takeaway diner", "label": "takeaway/order"}
+{"text": "is my order ready for pick up now", "label": "takeaway/query"}
+{"text": "how to make cheesecake", "label": "cooking/recipe"}
+{"text": "remove all the events and schedules", "label": "calendar/remove"}
+{"text": "can you delete the not so important events", "label": "calendar/remove"}
+{"text": "what is next in my calendar", "label": "calendar/query"}
+{"text": "hello beef up the volume a little bit", "label": "audio/volume_up"}
+{"text": "how many eggs should i put in my cake mixture", "label": "cooking/recipe"}
+{"text": "what time can i pick up my food", "label": "takeaway/query"}
+{"text": "i cant hear a thing", "label": "audio/volume_up"}
+{"text": "i need to know if mr pizza delivers", "label": "takeaway/query"}
+{"text": "where is the event today", "label": "calendar/query"}
+{"text": "open news about bp oil", "label": "news/query"}
+{"text": "last take away order", "label": "takeaway/query"}
+{"text": "does fongs have delivery", "label": "takeaway/query"}
+{"text": "what should i make for dinner", "label": "cooking/recipe"}
+{"text": "what will be the weather update for monday noon", "label": "weather/query"}
+{"text": "show me a spaghetti recipe", "label": "cooking/recipe"}
+{"text": "next week my uncle birthday", "label": "calendar/set"}
+{"text": "checkout top restaurant near me and order shahi panner", "label": "takeaway/order"}
+{"text": "set mute until said otherwise", "label": "audio/volume_mute"}
+{"text": "look up news articles about trump", "label": "news/query"}
+{"text": "could you please recommend a mexican restaurant for take out", "label": "takeaway/query"}
+{"text": "can i get an order delivered from romero's", "label": "takeaway/query"}
+{"text": "how do i make meatloaf", "label": "cooking/recipe"}
+{"text": "when is my order ready", "label": "takeaway/query"}
+{"text": "i want to slow down my speaker", "label": "audio/volume_down"}
+{"text": "make a list of all the halloween events going around in new york", "label": "calendar/query"}
+{"text": "i need a high volume", "label": "audio/volume_up"}
+{"text": "what food is good", "label": "cooking/recipe"}
+{"text": "yo order take out from jason's deli on sixth ave", "label": "takeaway/order"}
+{"text": "please show me the local weather", "label": "weather/query"}
+{"text": "place a take out order at olive garden", "label": "takeaway/order"}
+{"text": "how do you make cookies", "label": "cooking/recipe"}
+{"text": "when is the next time it will rain", "label": "weather/query"}
+{"text": "set reminder notification for three o'clock", "label": "calendar/set"}
+{"text": "please do not respond", "label": "audio/volume_mute"}
+{"text": "does that restaurant allow call in orders", "label": "takeaway/query"}
+{"text": "get news from bbc", "label": "news/query"}
+{"text": "what will the weather be next week", "label": "weather/query"}
+{"text": "status for the pizza delivery from pizza hut", "label": "takeaway/query"}
+{"text": "show me the weather forecast for the next three three days", "label": "weather/query"}
+{"text": "please order my favorite dish from my favorite restaurant", "label": "takeaway/order"}
+{"text": "order me a byron from deliveroo", "label": "takeaway/order"}
+{"text": "please remove the doctor appointment in my calendar for february twelfth at nine am", "label": "calendar/remove"}
+{"text": "order me a large ham and olive pizza from dominos", "label": "takeaway/order"}
+{"text": "can you turn that down", "label": "audio/volume_down"}
+{"text": "tell me how to cook meatballs", "label": "cooking/recipe"}
+{"text": "turn_down speakers", "label": "audio/volume_down"}
+{"text": "raise the volume to sixty", "label": "audio/volume_up"}
+{"text": "thursday at three pm there is a teachers meeting i need to be reminded of", "label": "calendar/set"}
+{"text": "i want some curry to go any recommendations", "label": "takeaway/query"}
+{"text": "set a reminder for two days prior of the event", "label": "calendar/set"}
+{"text": "delete my meeting for one pm on march nineteenth", "label": "calendar/remove"}
+{"text": "bring back talking after", "label": "audio/volume_up"}
+{"text": "is the thanks giving event on fourteenth of this month true", "label": "calendar/query"}
+{"text": "please cook me a hamburger", "label": "cooking/recipe"}
+{"text": "just set me reminders about pending payment of children school fees", "label": "calendar/set"}
+{"text": "give me international news", "label": "news/query"}
+{"text": "what time do i have a doctors appointment on the twenty second", "label": "calendar/query"}
+{"text": "delete all events for the next five days", "label": "calendar/remove"}
+{"text": "play it louder", "label": "audio/volume_up"}
+{"text": "tell me if the olive garden allows takeaway", "label": "takeaway/query"}
+{"text": "when is my next appointment and who do i contact to reschedule", "label": "calendar/query"}
+{"text": "what can i cook with broccoli and chicken", "label": "cooking/recipe"}
+{"text": "mute yourself until i say otherwise", "label": "audio/volume_mute"}
+{"text": "cancel meeting at three", "label": "calendar/remove"}
+{"text": "whats needed to make pizza", "label": "cooking/recipe"}
+{"text": "order chinese for delivery", "label": "takeaway/order"}
+{"text": "does this restaurant deliver", "label": "takeaway/query"}
+{"text": "turn speaker volume down", "label": "audio/volume_down"}
+{"text": "mute immediately", "label": "audio/volume_mute"}
+{"text": "delete the next event in the calendar", "label": "calendar/remove"}
+{"text": "temperature this hour", "label": "weather/query"}
+{"text": "will it be nice at the beach on friday", "label": "weather/query"}
+{"text": "speaker volume decrease", "label": "audio/volume_down"}
+{"text": "what is new in politics today can you filter out trump news though", "label": "news/query"}
+{"text": "decrease volume to very soft", "label": "audio/volume_down"}
+{"text": "confirm the order and send me the confirmation", "label": "takeaway/order"}
+{"text": "remove the next event on my calendar", "label": "calendar/remove"}
+{"text": "what time does the dinner party start tonight", "label": "calendar/query"}
+{"text": "delete lunch tomorrow", "label": "calendar/remove"}
+{"text": "hey olly mute the speakers", "label": "audio/volume_mute"}
+{"text": "how is the weather of this place", "label": "weather/query"}
+{"text": "tell me how to cook pasta", "label": "cooking/recipe"}
+{"text": "i would like to attend church every sunday at eleven am", "label": "calendar/set"}
+{"text": "no no turn it down", "label": "audio/volume_down"}
+{"text": "please unmute yourself", "label": "audio/volume_mute"}
+{"text": "increase the volume so that i can hear it in other room", "label": "audio/volume_up"}
+{"text": "tell me the recipe to cook pav bhaji", "label": "cooking/recipe"}
+{"text": "what is my afternoon schedule tomorrow", "label": "calendar/query"}
+{"text": "remove my dinner event for monday", "label": "calendar/remove"}
+{"text": "what is latest on the recent events happening right now", "label": "news/query"}
+{"text": "is it currently raining", "label": "weather/query"}
+{"text": "remind me off about my tomorrow meeting sharply at ten", "label": "calendar/set"}
+{"text": "pause the music", "label": "audio/volume_mute"}
+{"text": "increase volume", "label": "audio/volume_up"}
+{"text": "how to cook yellow rice", "label": "cooking/recipe"}
+{"text": "what's coming up this week", "label": "calendar/query"}
+{"text": "i want to know the procedure of making thanksgiving turkey in five sentences", "label": "cooking/recipe"}
+{"text": "remind me to take the casserole out of the oven at seven hundred and forty five pm", "label": "calendar/set"}
+{"text": "give some of delete in today events", "label": "calendar/remove"}
+{"text": "change my plan erase my next event", "label": "calendar/remove"}
+{"text": "are there any cooking classes nearby my area", "label": "cooking/recipe"}
+{"text": "how soon can we expect rain", "label": "weather/query"}
+{"text": "what is the headline from today's morning local news", "label": "news/query"}
+{"text": "delete all events in calendar", "label": "calendar/remove"}
+{"text": "remind me if i miss my evening walk routine", "label": "calendar/set"}
+{"text": "could you please find me the latest news from a source that i do not usually go to", "label": "news/query"}
+{"text": "please check if paradise does takeaway", "label": "takeaway/query"}
+{"text": "increase the volume please", "label": "audio/volume_up"}
+{"text": "please change the volume to mute", "label": "audio/volume_mute"}
+{"text": "is it raining now", "label": "weather/query"}
+{"text": "can you mute my speaker", "label": "audio/volume_mute"}
+{"text": "it's time for junk food", "label": "takeaway/order"}
+{"text": "delete the party on june first from my calendar", "label": "calendar/remove"}
+{"text": "do i need a jacket today", "label": "weather/query"}
+{"text": "add to calendar an medical appointment for the first day of the next five months", "label": "calendar/set"}
+{"text": "please turn down the volume", "label": "audio/volume_down"}
+{"text": "please let me know about topic elections", "label": "news/query"}
+{"text": "place order to pizza takeout for seven pm", "label": "takeaway/order"}
+{"text": "tell me if taco bell delivers", "label": "takeaway/query"}
+{"text": "call the restaurant to see if the delivery is on the way", "label": "takeaway/query"}
+{"text": "give me the headline news", "label": "news/query"}
+{"text": "can i get a recipe for tuna", "label": "cooking/recipe"}
+{"text": "order a meal from a nice restaurant", "label": "takeaway/order"}
+{"text": "please set this date to repeat", "label": "calendar/set"}
+{"text": "what is the status of my order no", "label": "takeaway/query"}
+{"text": "more volume please", "label": "audio/volume_up"}
+{"text": "quieter", "label": "audio/volume_down"}
+{"text": "remind me about tomorrow meeting at ten am", "label": "calendar/set"}
+{"text": "dentist appointment today at nine am", "label": "calendar/set"}
+{"text": "cancel my event on june nineteenth", "label": "calendar/remove"}
+{"text": "turn down the sound", "label": "audio/volume_down"}
+{"text": "erase my appointment with ted", "label": "calendar/remove"}
+{"text": "what's going on in new york", "label": "news/query"}
+{"text": "are you sure its going to rain tomorrow", "label": "weather/query"}
+{"text": "is my schedule full for tomorrow from eight am to two pm", "label": "calendar/query"}
+{"text": "why do people use avocado seeds", "label": "cooking/recipe"}
+{"text": "please be quiet", "label": "audio/volume_mute"}
+{"text": "will i be able to get away with shorts today", "label": "weather/query"}
+{"text": "is it going to be nice tomorrow", "label": "weather/query"}
+{"text": "find my food", "label": "takeaway/query"}
+{"text": "do i need a light or heavy jacket today", "label": "weather/query"}
+{"text": "what's the weather in toronto today", "label": "weather/query"}
+{"text": "what's on my schedule this week", "label": "calendar/query"}
+{"text": "what is the status of my order", "label": "takeaway/query"}
+{"text": "will the pizza be here soon", "label": "takeaway/query"}
+{"text": "i can't hear you", "label": "audio/volume_up"}
+{"text": "turn the volume up", "label": "audio/volume_up"}
+{"text": "what is happening with brexit today", "label": "news/query"}
+{"text": "do not talk", "label": "audio/volume_mute"}
+{"text": "destroy all events", "label": "calendar/remove"}
+{"text": "i would like to order some takeout", "label": "takeaway/order"}
+{"text": "people canceling iowa vacations over congressman's words", "label": "news/query"}
+{"text": "check the dish price and all", "label": "takeaway/query"}
+{"text": "lower the volume on the speakers", "label": "audio/volume_down"}
+{"text": "can i get takeout from pf changs", "label": "takeaway/query"}
+{"text": "tell me the news about jallikattu in tamil nadu", "label": "news/query"}
+{"text": "get me some food", "label": "takeaway/order"}
+{"text": "tell me the preparation method for chicken sixty five", "label": "cooking/recipe"}
+{"text": "how do i make meal", "label": "cooking/recipe"}
+{"text": "i need to mute the speaker", "label": "audio/volume_mute"}
+{"text": "i have to go to a meting on friday at noon can you remind me", "label": "calendar/set"}
+{"text": "do i have free time next tuesday to schedule a meeting", "label": "calendar/query"}
+{"text": "call china king chinese restaurant", "label": "takeaway/order"}
+{"text": "what goes with risotto", "label": "cooking/recipe"}
+{"text": "do i have anything planned for the twenty first", "label": "calendar/query"}
+{"text": "order two large pizzas and pieces of hot wings from dominoes", "label": "takeaway/order"}
+{"text": "i want to order chinese takeout", "label": "takeaway/order"}
+{"text": "will it be raining on thursday", "label": "weather/query"}
+{"text": "what time is my domino's order expected to arrive", "label": "takeaway/query"}
+{"text": "i am unable to hear you can you speak little loud", "label": "audio/volume_up"}
+{"text": "can you please stop speaking", "label": "audio/volume_mute"}
+{"text": "clear my calendar for saturday", "label": "calendar/remove"}
+{"text": "delete everything on my calendar for the next two weeks", "label": "calendar/remove"}
+{"text": "how to cook this food", "label": "cooking/recipe"}
+{"text": "what is the weather for the school week", "label": "weather/query"}
+{"text": "call china wok", "label": "takeaway/order"}
+{"text": "how's the weather today", "label": "weather/query"}
+{"text": "volume louder please", "label": "audio/volume_up"}
+{"text": "is there any new news on trump", "label": "news/query"}
+{"text": "how do i bake a potato", "label": "cooking/recipe"}
+{"text": "hey please provide information about events by the end of the day", "label": "calendar/query"}
+{"text": "latest news update", "label": "news/query"}
+{"text": "please raise the volume of speaker", "label": "audio/volume_up"}
+{"text": "rm rf calendar", "label": "calendar/remove"}
+{"text": "what a sunny day", "label": "weather/query"}
+{"text": "make a repeating reminder for tomorrow", "label": "calendar/set"}
+{"text": "find if takeaway possible in restaurant pizzahouse", "label": "takeaway/query"}
+{"text": "place an order for a pepperoni pizza at papa johns", "label": "takeaway/order"}
+{"text": "i want to order a pizza from michael's pizza", "label": "takeaway/order"}
+{"text": "what's happening today", "label": "news/query"}
+{"text": "do i need a sweater today", "label": "weather/query"}
+{"text": "please remove this event from my calendar", "label": "calendar/remove"}
+{"text": "increase the volume of the music to ninety", "label": "audio/volume_up"}
+{"text": "speak louder please", "label": "audio/volume_up"}
+{"text": "what's the temperature", "label": "weather/query"}
+{"text": "delete every event", "label": "calendar/remove"}
+{"text": "remember dinner on thursday at bistro italia", "label": "calendar/set"}
+{"text": "do not speak today", "label": "audio/volume_mute"}
+{"text": "speak quieter", "label": "audio/volume_down"}
+{"text": "update me on the standing rock protest", "label": "news/query"}
+{"text": "do we add rosemary in pasta", "label": "cooking/recipe"}
+{"text": "will it get warmer here next week", "label": "weather/query"}
+{"text": "let me know when my meetings are on monday", "label": "calendar/set"}
+{"text": "tell me how to make garlic bread", "label": "cooking/recipe"}
+{"text": "give me the news", "label": "news/query"}
+{"text": "i dont want to carry an umbrella will we have rain today", "label": "weather/query"}
+{"text": "tell me about the meetings over a period of time", "label": "calendar/query"}
+{"text": "please tell me the chances of rain this week for zip code twenty nine thousand nine hundred and seventy eight", "label": "weather/query"}
+{"text": "who is scheduled for tomorrow's meeting", "label": "calendar/query"}
+{"text": "i just ordered food call and see it has been delivered", "label": "takeaway/query"}
+{"text": "it should spices", "label": "cooking/recipe"}
+{"text": "too loud", "label": "audio/volume_down"}
+{"text": "show me how to cook a recipe", "label": "cooking/recipe"}
+{"text": "what is the climate here today", "label": "weather/query"}
+{"text": "ordering food", "label": "takeaway/order"}
+{"text": "cancel all my appointments", "label": "calendar/remove"}
+{"text": "what's happening on bbc news today", "label": "news/query"}
+{"text": "places with pizza delivery near me", "label": "takeaway/order"}
+{"text": "order some takeaway food", "label": "takeaway/order"}
+{"text": "how does it feel outside", "label": "weather/query"}
+{"text": "call pf chang's to order me egg foo young", "label": "takeaway/order"}
+{"text": "is soft cheese better than hard", "label": "cooking/recipe"}
+{"text": "headline news for texas", "label": "news/query"}
+{"text": "does paradise has takeaway", "label": "takeaway/query"}
+{"text": "mute speaker", "label": "audio/volume_mute"}
+{"text": "i am so hungry and tired and i think i might order some food now", "label": "takeaway/order"}
+{"text": "does the nearby chinese restaurant do delivery", "label": "takeaway/query"}
+{"text": "any signs of rain", "label": "weather/query"}
+{"text": "evaporated", "label": "cooking/recipe"}
+{"text": "set the volume to low", "label": "audio/volume_down"}
+{"text": "will there be snow this week", "label": "weather/query"}
+{"text": "low the volume", "label": "audio/volume_down"}
+{"text": "clear my day on the twenty ninth", "label": "calendar/remove"}
+{"text": "delete that", "label": "calendar/remove"}
+{"text": "restaurant order status", "label": "takeaway/query"}
+{"text": "show me the latest news from the un", "label": "news/query"}
+{"text": "what's the latest news about us election", "label": "news/query"}
+{"text": "at what temperature should i bake cookies", "label": "cooking/recipe"}
+{"text": "current weather forecast", "label": "weather/query"}
+{"text": "can you speak a little louder", "label": "audio/volume_up"}
+{"text": "on january twenty five set meeting for twelve", "label": "calendar/set"}
+{"text": "what do i have scheduled for next week", "label": "calendar/query"}
+{"text": "check the news", "label": "news/query"}
+{"text": "please order me pizza and wings from papa johns now", "label": "takeaway/order"}
+{"text": "turn up speakers", "label": "audio/volume_up"}
+{"text": "i no longer need to see the doctor can that event be removed", "label": "calendar/remove"}
+{"text": "cnn headlines", "label": "news/query"}
+{"text": "does dominos has a delivery option", "label": "takeaway/query"}
+{"text": "do they deliver home", "label": "takeaway/query"}
+{"text": "top news", "label": "news/query"}
+{"text": "take away all events", "label": "calendar/remove"}
+{"text": "decrease the volume to ten percent", "label": "audio/volume_down"}
+{"text": "call and order pizza for delivery", "label": "takeaway/order"}
+{"text": "speakers off", "label": "audio/volume_mute"}
+{"text": "what events are this week", "label": "calendar/query"}
+{"text": "get me the latest news of world", "label": "news/query"}
+{"text": "what is the status on my takeout", "label": "takeaway/query"}
+{"text": "remove all the events on my calendar", "label": "calendar/remove"}
+{"text": "how many calories are in a one divided by of peanuts", "label": "cooking/recipe"}
+{"text": "shall we meet for today's party", "label": "calendar/query"}
+{"text": "lower the volume to twenty", "label": "audio/volume_down"}
+{"text": "call pizza hut and order a large pan pizza with ham and mushrooms", "label": "takeaway/order"}
+{"text": "can i get the food to go", "label": "takeaway/query"}
+{"text": "weather for the next week in new york", "label": "weather/query"}
+{"text": "clear all events from march seven", "label": "calendar/remove"}
+{"text": "order six chicken tacos from chipotle", "label": "takeaway/order"}
+{"text": "which teams are playing today in the premier league", "label": "news/query"}
+{"text": "please clear my calendar for tomorrow", "label": "calendar/remove"}
+{"text": "i would like to have a sushi can you order me a lunch", "label": "takeaway/order"}
+{"text": "is it going to rain on monday", "label": "weather/query"}
+{"text": "i want to see the recipe of veg biryani", "label": "cooking/recipe"}
+{"text": "does my calendar say i'm free on april one two thousand and seventeen", "label": "calendar/query"}
+{"text": "remove my meeting today at one pm", "label": "calendar/remove"}
+{"text": "whats going on in my calendar", "label": "calendar/query"}
+{"text": "reminder about meeting from eight am to twelve pm", "label": "calendar/set"}
+{"text": "search for the latest news about iphone", "label": "news/query"}
+{"text": "i want to cook italian dishes show me some", "label": "cooking/recipe"}
+{"text": "get me takeaway food", "label": "takeaway/order"}
+{"text": "find a recipe for homemade bread", "label": "cooking/recipe"}
+{"text": "remove my car payment on the fifteenth from my calendar", "label": "calendar/remove"}
+{"text": "remove my event at one pm in my calendar", "label": "calendar/remove"}
+{"text": "turn up music please", "label": "audio/volume_up"}
+{"text": "use google to show me how to cook", "label": "cooking/recipe"}
+{"text": "olly please read me today's news", "label": "news/query"}
+{"text": "set reminder for tomorrow for this item", "label": "calendar/set"}
+{"text": "turn on silent mode until my alarm goes off", "label": "audio/volume_mute"}
+{"text": "please turn up the speaker volume", "label": "audio/volume_up"}
+{"text": "do i have any undone tasks", "label": "calendar/query"}
+{"text": "remind me of my appointment on the fifteenth", "label": "calendar/set"}
+{"text": "remove john's birthday from the calendar", "label": "calendar/remove"}
+{"text": "Is it going to be windy on Saturday in denver", "label": "weather/query"}
+{"text": "hey olly on the twentieth clear my calendar", "label": "calendar/remove"}
+{"text": "am i going to need a jacket tomorrow", "label": "weather/query"}
+{"text": "cut down the volume", "label": "audio/volume_down"}
+{"text": "please tell me when's my financial meeting", "label": "calendar/query"}
+{"text": "what were the cities affected by the earthquake", "label": "news/query"}
+{"text": "do i have any off days this week", "label": "calendar/query"}
+{"text": "what happened to my pizza order it has been an hour since i ordered", "label": "takeaway/query"}
+{"text": "does fridays do takeaway", "label": "takeaway/query"}
+{"text": "is mr pizza on skip the dishes", "label": "takeaway/query"}
+{"text": "how long should i cook a hamburger on each side", "label": "cooking/recipe"}
+{"text": "how many cups of sugar in texas sheet cake frosting", "label": "cooking/recipe"}
+{"text": "will the weather be bad on Sunday", "label": "weather/query"}
+{"text": "give me election updates", "label": "news/query"}
+{"text": "please tell me what day this event reminder is set for", "label": "calendar/query"}
+{"text": "do i have any get togethers this week", "label": "calendar/query"}
+{"text": "reduce volume", "label": "audio/volume_down"}
+{"text": "will the temperature be in the today", "label": "weather/query"}
+{"text": "remove emma's birthday from events", "label": "calendar/remove"}
+{"text": "place order for a chicken manchow soup from wangs kitchen restaurant", "label": "takeaway/order"}
+{"text": "please turn up the volume to twenty one", "label": "audio/volume_up"}
+{"text": "should i wear a hat today", "label": "weather/query"}
+{"text": "order two pizzas from dominoes", "label": "takeaway/order"}
+{"text": "stop the audio", "label": "audio/volume_mute"}
+{"text": "i can barely hear you", "label": "audio/volume_up"}
+{"text": "what is the latest on donald trump", "label": "news/query"}
+{"text": "what is the best pizza near me that delivers", "label": "takeaway/order"}
+{"text": "please show today meting with clients", "label": "calendar/query"}
+{"text": "can i get delivery from here", "label": "takeaway/query"}
+{"text": "find the right amount of cinnamon for the garam masala", "label": "cooking/recipe"}
+{"text": "create an event gym day on monday and set it to repeat", "label": "calendar/set"}
+{"text": "remove the board meeting and reschedule for next wednesday", "label": "calendar/remove"}
+{"text": "how is the weather likely to be this week", "label": "weather/query"}
+{"text": "show me the recipe for cookies", "label": "cooking/recipe"}
+{"text": "what is the bbc's latest news", "label": "news/query"}
+{"text": "repeat birthday", "label": "calendar/set"}
+{"text": "in five sentences let me know the procedure of making thanksgiving turkey", "label": "cooking/recipe"}
+{"text": "what is the news about terrorist attack in afghanistan", "label": "news/query"}
+{"text": "how about the latest news", "label": "news/query"}
+{"text": "keep me up to date on the election news", "label": "news/query"}
+{"text": "remind me of my twelve oclock meeting by eleven thirty", "label": "calendar/set"}
+{"text": "what takeout places are near me", "label": "takeaway/order"}
+{"text": "cancel my birthday party", "label": "calendar/remove"}
+{"text": "write down that i am going to meet with jenny on the third okay", "label": "calendar/set"}
+{"text": "shall i change my car tyres to snow tyres soon", "label": "weather/query"}
+{"text": "can you get me news from ny times", "label": "news/query"}
+{"text": "is there any pending reminder for me", "label": "calendar/query"}
+{"text": "place a takeaway order for a cheeseburger and fries from burger king", "label": "takeaway/order"}
+{"text": "can i order olive garden to go", "label": "takeaway/query"}
+{"text": "delete event from mine", "label": "calendar/remove"}
+{"text": "please look up best recipes", "label": "cooking/recipe"}
+{"text": "find and order domino pizza at nearest store of domino", "label": "takeaway/order"}
+{"text": "i need the volume to be louder", "label": "audio/volume_up"}
+{"text": "lower the speakers", "label": "audio/volume_down"}
+{"text": "Volume louder softer", "label": "audio/volume_up"}
+{"text": "will i need sunblock this weekend", "label": "weather/query"}
+{"text": "what events are scheduled this week", "label": "calendar/query"}
+{"text": "Hey turn the volume high", "label": "audio/volume_up"}
+{"text": "list out my meetings today", "label": "calendar/query"}
+{"text": "hey does that restaurant have takeout", "label": "takeaway/query"}
+{"text": "tell me the latest news from bbc sports", "label": "news/query"}
+{"text": "what was the weather for the week", "label": "weather/query"}
+{"text": "what date is my anniversary", "label": "calendar/query"}
+{"text": "how do i make cookies", "label": "cooking/recipe"}
+{"text": "is today a sunscreen day", "label": "weather/query"}
+{"text": "add a reminder to april fourth to go to the dentist", "label": "calendar/set"}
+{"text": "order some fried chicken from church's chicken via grubhub", "label": "takeaway/order"}
+{"text": "don't speak for a while", "label": "audio/volume_mute"}
+{"text": "when will my chinese food arrive", "label": "takeaway/query"}
+{"text": "mute the sound", "label": "audio/volume_mute"}
+{"text": "restaurant delivery update", "label": "takeaway/query"}
+{"text": "please delete this calendar event", "label": "calendar/remove"}
+{"text": "be quiet", "label": "audio/volume_mute"}
+{"text": "how do i braise a pork loin", "label": "cooking/recipe"}
+{"text": "how to cook crabs", "label": "cooking/recipe"}
+{"text": "give me the weather for merced at three pm", "label": "weather/query"}
+{"text": "turn volume up to highest level", "label": "audio/volume_up"}
+{"text": "order a large plain pizza from mimo's for me", "label": "takeaway/order"}
+{"text": "time time is the holiday party at the office", "label": "calendar/query"}
+{"text": "it is too loud decrease the volume", "label": "audio/volume_down"}
+{"text": "do i have a busy day today", "label": "calendar/query"}
+{"text": "find easy recipe for corn bread", "label": "cooking/recipe"}
+{"text": "remove all the reminders from the calendar", "label": "calendar/remove"}
+{"text": "could you order sushi for tonight dinner", "label": "takeaway/order"}
+{"text": "call the closest mexican restaurant", "label": "takeaway/order"}
+{"text": "recipe for spaghetti", "label": "cooking/recipe"}
+{"text": "is calendar event true", "label": "calendar/query"}
+{"text": "loudly", "label": "audio/volume_up"}
+{"text": "how long should i cook chicken for", "label": "cooking/recipe"}
+{"text": "clear my next event", "label": "calendar/remove"}
+{"text": "silent mode", "label": "audio/volume_mute"}
+{"text": "is this program is scheduled", "label": "calendar/query"}
+{"text": "start a takeaway order for me", "label": "takeaway/order"}
+{"text": "whats the weather like right now in new york", "label": "weather/query"}
+{"text": "checkout subway food centre near me and order tandoori roti", "label": "takeaway/order"}
+{"text": "start the radio now on low volume", "label": "audio/volume_down"}
+{"text": "erase my next calendar event", "label": "calendar/remove"}
+{"text": "could you speak up", "label": "audio/volume_up"}
+{"text": "search for the best spagetti recipe", "label": "cooking/recipe"}
+{"text": "please could you tell me if george's geek restaurant can i order takeaway from there", "label": "takeaway/query"}
+{"text": "remove all events from my calendar", "label": "calendar/remove"}
+{"text": "can i order takeaway dinner from byron's", "label": "takeaway/order"}
+{"text": "what is the status of last take away order", "label": "takeaway/query"}
+{"text": "raise the volume of the speakers to fifty five percent", "label": "audio/volume_up"}
+{"text": "find the this week's news about emigration legislation in the us please", "label": "news/query"}
+{"text": "mute the volume", "label": "audio/volume_mute"}
+{"text": "tell me about current status of sunderland vs liverpool match", "label": "news/query"}
+{"text": "volume down", "label": "audio/volume_down"}
+{"text": "does arby's do takeaway", "label": "takeaway/query"}
+{"text": "have there been updates on abortion law", "label": "news/query"}
+{"text": "is my order at domino's ready", "label": "takeaway/query"}
+{"text": "can you remind me about my meeting tomorrow", "label": "calendar/set"}
+{"text": "tell me when my next doctors appointment is", "label": "calendar/set"}
+{"text": "look up whether or not charley's steakhouse delivers", "label": "takeaway/query"}
+{"text": "remove today's meeting at evening", "label": "calendar/remove"}
+{"text": "get me fresh news", "label": "news/query"}
+{"text": "delete the scheduled meeting on fourth october twelve pm", "label": "calendar/remove"}
+{"text": "what's happening around the world", "label": "news/query"}
+{"text": "remove the fundraiser for dolphines in april", "label": "calendar/remove"}
+{"text": "what's the weather supposed to be like on wednesday", "label": "weather/query"}
+{"text": "order me some chinese food", "label": "takeaway/order"}
+{"text": "Silence speakers", "label": "audio/volume_mute"}
+{"text": "do i have any events scheduled today", "label": "calendar/query"}
+{"text": "instructions to make a meal", "label": "cooking/recipe"}
+{"text": "meeting july calendar", "label": "calendar/query"}
+{"text": "do i have meeting with steve this week", "label": "calendar/query"}
+{"text": "can i pick up my large order at pizza hut", "label": "takeaway/query"}
+{"text": "add a reminder to my calendar every year on this date", "label": "calendar/set"}
+{"text": "please remove my next event", "label": "calendar/remove"}
+{"text": "will it be rainy tomorrow", "label": "weather/query"}
+{"text": "has the weather changed for wednesday at all", "label": "weather/query"}
+{"text": "how me the highest weather this week", "label": "weather/query"}
+{"text": "make this a bit louder", "label": "audio/volume_up"}
+{"text": "set a notification for june fifth every year", "label": "calendar/set"}
+{"text": "don't let me forget tomorrow's meeting with sheila", "label": "calendar/set"}
+{"text": "whats up with my takeaway", "label": "takeaway/query"}
+{"text": "what is a cookie recipe", "label": "cooking/recipe"}
+{"text": "when is my next appointment with dr smith", "label": "calendar/query"}
+{"text": "what is my schedule for tomorrow", "label": "calendar/query"}
+{"text": "how do i cook a pasta", "label": "cooking/recipe"}
+{"text": "takeaway noodles one pack", "label": "takeaway/order"}
+{"text": "delete my meeting for tomorrow", "label": "calendar/remove"}
+{"text": "near pizza shops", "label": "takeaway/order"}
+{"text": "what's the current temperature outside", "label": "weather/query"}
+{"text": "audio up", "label": "audio/volume_up"}
+{"text": "turn up your volume", "label": "audio/volume_up"}

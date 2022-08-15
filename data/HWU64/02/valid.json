@@ -1,0 +1,2672 @@
+{"text": "play today's podcast from the mi", "label": "play/podcasts"}
+{"text": "please provide current time in india", "label": "datetime/query"}
+{"text": "please play a podcast", "label": "play/podcasts"}
+{"text": "this item should be added to the list", "label": "lists/createoradd"}
+{"text": "how can i cook pizza", "label": "cooking/recipe"}
+{"text": "tell me who wrote this song", "label": "music/query"}
+{"text": "play music that are classical only", "label": "play/music"}
+{"text": "put pencil on a new grocery list", "label": "lists/createoradd"}
+{"text": "open this game", "label": "play/game"}
+{"text": "what song is on the radio", "label": "music/query"}
+{"text": "delete my groceries list", "label": "lists/remove"}
+{"text": "what time is it in another city", "label": "datetime/query"}
+{"text": "start reading book", "label": "play/audiobook"}
+{"text": "search for the correct game", "label": "play/game"}
+{"text": "please play my cricket game", "label": "play/game"}
+{"text": "give me name and type of this music", "label": "music/query"}
+{"text": "open tic tac toe", "label": "play/game"}
+{"text": "tell me the recipe for yellow rice", "label": "cooking/recipe"}
+{"text": "what music is being played right now", "label": "music/query"}
+{"text": "i would like to start this new audiobook", "label": "play/audiobook"}
+{"text": "we are going to play poker together", "label": "play/game"}
+{"text": "play next episode", "label": "play/podcasts"}
+{"text": "restart the audiobook heaven is for real", "label": "play/audiobook"}
+{"text": "play that podcast please", "label": "play/podcasts"}
+{"text": "i want to cook pasta in american style show me how", "label": "cooking/recipe"}
+{"text": "i want to play a game", "label": "play/game"}
+{"text": "is there anything on my list today", "label": "lists/query"}
+{"text": "play jingle bells", "label": "play/music"}
+{"text": "how do i cook a pasta", "label": "cooking/recipe"}
+{"text": "resume audio playback of twilight", "label": "play/audiobook"}
+{"text": "let's roll the dice", "label": "play/game"}
+{"text": "how long do i chill an icebo pie", "label": "cooking/recipe"}
+{"text": "give me the current time", "label": "datetime/query"}
+{"text": "what is the time for the eastern time zone", "label": "datetime/query"}
+{"text": "ten past seven", "label": "datetime/query"}
+{"text": "i want to hear yesterday's podcast from my favorite channel", "label": "play/podcasts"}
+{"text": "how do you make cookies", "label": "cooking/recipe"}
+{"text": "play the radio band with sports commentary", "label": "play/radio"}
+{"text": "let's play you'll be the keeper and never change position", "label": "play/game"}
+{"text": "what is on my to do list today", "label": "lists/query"}
+{"text": "open the davinci code where i left off", "label": "play/audiobook"}
+{"text": "what is today's day", "label": "datetime/query"}
+{"text": "what went on in the world today", "label": "news/query"}
+{"text": "begin radio play", "label": "play/radio"}
+{"text": "what is the time in canada now", "label": "datetime/query"}
+{"text": "buying of groceries new list", "label": "lists/createoradd"}
+{"text": "read out my shopping list for today", "label": "lists/query"}
+{"text": "how much later is new york than la", "label": "datetime/convert"}
+{"text": "play this audiobook for me", "label": "play/audiobook"}
+{"text": "favorite this music", "label": "music/likeness"}
+{"text": "tell me what's on my shopping list", "label": "lists/query"}
+{"text": "add paav bhaji in menu card", "label": "lists/createoradd"}
+{"text": "what's the recipe for fried chicken", "label": "cooking/recipe"}
+{"text": "what song am i listening to", "label": "music/query"}
+{"text": "what is the time in milwaukee", "label": "datetime/query"}
+{"text": "i want you to remove the item from the list", "label": "lists/remove"}
+{"text": "what kind of music am i into", "label": "music/query"}
+{"text": "play the radio", "label": "play/radio"}
+{"text": "it is nine here what time is it in california", "label": "datetime/convert"}
+{"text": "tell me the time in this time zone", "label": "datetime/query"}
+{"text": "get me resume of best seller audio book this month", "label": "play/audiobook"}
+{"text": "delete my list", "label": "lists/remove"}
+{"text": "how about playing a game of guess the word i'm thinking of", "label": "play/game"}
+{"text": "play that podcast i was listening to yesterday", "label": "play/podcasts"}
+{"text": "what time can i call from pennsylvania and it will be business hours in australia", "label": "datetime/convert"}
+{"text": "get rid of mike stein from contacts list", "label": "lists/remove"}
+{"text": "start playing ringcast", "label": "play/podcasts"}
+{"text": "go back to previous episode of podcast", "label": "play/podcasts"}
+{"text": "i love zydeco jams", "label": "music/likeness"}
+{"text": "that's a good song", "label": "music/likeness"}
+{"text": "play the electronic playlist", "label": "play/music"}
+{"text": "my favorite singer is shakira", "label": "music/likeness"}
+{"text": "find joel osteen's broadcast on sirius", "label": "play/radio"}
+{"text": "save this music to my favorites", "label": "music/likeness"}
+{"text": "i love that song", "label": "music/likeness"}
+{"text": "please remove my list of favorite albums", "label": "lists/remove"}
+{"text": "i like jazz", "label": "music/likeness"}
+{"text": "how long should i simmer rice for", "label": "cooking/recipe"}
+{"text": "i think i ran out of this can you add it to my list", "label": "lists/createoradd"}
+{"text": "find jazz music on my playlist", "label": "play/music"}
+{"text": "do we add rosemary in pasta", "label": "cooking/recipe"}
+{"text": "update work out list with new items", "label": "lists/createoradd"}
+{"text": "is there christmas on twenty second", "label": "datetime/query"}
+{"text": "what day is christmas", "label": "datetime/query"}
+{"text": "what's happened in the news recently", "label": "news/query"}
+{"text": "go to the next episode in this podcast", "label": "play/podcasts"}
+{"text": "give five stars to this song", "label": "music/likeness"}
+{"text": "book swan play", "label": "play/audiobook"}
+{"text": "find new trump articles but not from fox news", "label": "news/query"}
+{"text": "change the music mode to rock", "label": "music/settings"}
+{"text": "what time is it in central time zone", "label": "datetime/query"}
+{"text": "find list and remove apple", "label": "lists/remove"}
+{"text": "delete the list brads appointments", "label": "lists/remove"}
+{"text": "what's happening on bbc news today", "label": "news/query"}
+{"text": "i would like to hear heathens by twenty one pilots", "label": "play/music"}
+{"text": "give me the news", "label": "news/query"}
+{"text": "which date is on next monday", "label": "datetime/query"}
+{"text": "what's going around in the world these days", "label": "news/query"}
+{"text": "play next episode on podcast", "label": "play/podcasts"}
+{"text": "what are the jobs to be done today", "label": "lists/query"}
+{"text": "replay my last played podcast", "label": "play/podcasts"}
+{"text": "turn on pdr am", "label": "play/radio"}
+{"text": "olly skip two songs", "label": "music/settings"}
+{"text": "can you save this what a nice song for me", "label": "music/likeness"}
+{"text": "who is singing the song i am listening to right now", "label": "music/query"}
+{"text": "tell me if an earthquake happens in the world", "label": "news/query"}
+{"text": "play the program where i left off yesterday", "label": "play/audiobook"}
+{"text": "tell me a play list", "label": "music/query"}
+{"text": "play alex jones in radio", "label": "play/radio"}
+{"text": "store opinion on song", "label": "music/likeness"}
+{"text": "please use shuffle", "label": "music/settings"}
+{"text": "open chess app and begin game", "label": "play/game"}
+{"text": "can you tell me the time at san francisco", "label": "datetime/query"}
+{"text": "is there a national holiday on fifth december", "label": "datetime/query"}
+{"text": "remove milk from my grocery list", "label": "lists/remove"}
+{"text": "put this on my list", "label": "lists/createoradd"}
+{"text": "add grocery to list", "label": "lists/createoradd"}
+{"text": "i like this song please save", "label": "music/likeness"}
+{"text": "open harrypotter audiobook and play from last played", "label": "play/audiobook"}
+{"text": "start podcast mlb daily", "label": "play/podcasts"}
+{"text": "skip to next podcast", "label": "play/podcasts"}
+{"text": "tune to pandora", "label": "play/radio"}
+{"text": "what's going on at the capitol", "label": "news/query"}
+{"text": "play the college baseball game", "label": "play/radio"}
+{"text": "what lists are in my notebook", "label": "lists/query"}
+{"text": "my games to play in my phones", "label": "play/game"}
+{"text": "play the next episode of this series", "label": "play/podcasts"}
+{"text": "recommend songs based on my playlist", "label": "music/query"}
+{"text": "play for me the music by madonna", "label": "play/music"}
+{"text": "skip forward", "label": "play/podcasts"}
+{"text": "cook me some oats", "label": "cooking/recipe"}
+{"text": "whats the latest", "label": "news/query"}
+{"text": "delete last entry", "label": "lists/remove"}
+{"text": "what's the latest on the travel ban", "label": "news/query"}
+{"text": "what cd is this song on", "label": "music/query"}
+{"text": "play only particular singer songs", "label": "music/settings"}
+{"text": "what date is the third friday of this month", "label": "datetime/query"}
+{"text": "can you tell me the date today", "label": "datetime/query"}
+{"text": "please cook me a hamburger", "label": "cooking/recipe"}
+{"text": "new scenario time or calendar to new list", "label": "lists/createoradd"}
+{"text": "loop this track", "label": "music/settings"}
+{"text": "coordinate all pop song genres", "label": "play/music"}
+{"text": "shall we play a game", "label": "play/game"}
+{"text": "give me lists", "label": "lists/query"}
+{"text": "how much is one serving of broccoli", "label": "cooking/recipe"}
+{"text": "add broccoli to my grocery list", "label": "lists/createoradd"}
+{"text": "can you tell me the current time in dallas texas", "label": "datetime/query"}
+{"text": "how can i cook pasta", "label": "cooking/recipe"}
+{"text": "tell me the top stories in the news", "label": "news/query"}
+{"text": "resume audiobook", "label": "play/audiobook"}
+{"text": "i like music from when i was a teenager in the", "label": "music/likeness"}
+{"text": "let's play a game together", "label": "play/game"}
+{"text": "i'd love to hear any song that i've given five stars by serge gainsbourg", "label": "play/music"}
+{"text": "start the satellite music feed", "label": "play/music"}
+{"text": "play golf", "label": "play/game"}
+{"text": "shuffle the songs in the music library", "label": "music/settings"}
+{"text": "play neil sedaka", "label": "play/music"}
+{"text": "find me the name of the artist of this music", "label": "music/query"}
+{"text": "which song is currently playing", "label": "music/query"}
+{"text": "get rid of peas", "label": "lists/remove"}
+{"text": "my favourite music band is queen", "label": "music/likeness"}
+{"text": "play random radio station", "label": "play/radio"}
+{"text": "do you want to play monopoly with me", "label": "play/game"}
+{"text": "show news of migration", "label": "news/query"}
+{"text": "add pencil to school supplies list", "label": "lists/createoradd"}
+{"text": "i want to listen to one oh one point one the whiz", "label": "play/radio"}
+{"text": "play for me the game temple run", "label": "play/game"}
+{"text": "play papa pear saga", "label": "play/game"}
+{"text": "what did i put down already on the walmart list", "label": "lists/query"}
+{"text": "delete the dog list for me", "label": "lists/remove"}
+{"text": "show time in china", "label": "datetime/query"}
+{"text": "play all songs by martina mcbride", "label": "play/music"}
+{"text": "remove that event from list", "label": "lists/remove"}
+{"text": "play npr on this station", "label": "play/radio"}
+{"text": "please provide the contents of the list", "label": "lists/query"}
+{"text": "play the bjork album i've heard the least", "label": "play/music"}
+{"text": "please turn on repeat all", "label": "music/settings"}
+{"text": "please tell me what lists i have", "label": "lists/query"}
+{"text": "please remove a list", "label": "lists/remove"}
+{"text": "make sure my shuffles are always repeat and always shuffled", "label": "music/settings"}
+{"text": "what all lists are available", "label": "lists/query"}
+{"text": "please play help", "label": "play/music"}
+{"text": "please play for me elvis presley song again", "label": "play/music"}
+{"text": "start the podcast i was last listening to", "label": "play/podcasts"}
+{"text": "tell me my list names", "label": "lists/query"}
+{"text": "play the two towers", "label": "play/audiobook"}
+{"text": "what's happening in the news", "label": "news/query"}
+{"text": "can you backward an episode in the podcast", "label": "play/podcasts"}
+{"text": "if it is noon in virginia what time is it in california", "label": "datetime/convert"}
+{"text": "open up a new list", "label": "lists/createoradd"}
+{"text": "hips dont lie thats the song i would like you to play for me", "label": "play/music"}
+{"text": "hey olly play the radio", "label": "play/radio"}
+{"text": "add to list", "label": "lists/createoradd"}
+{"text": "forward to four twenty", "label": "play/podcasts"}
+{"text": "on my grocery list please add oranges", "label": "lists/createoradd"}
+{"text": "switch to los angeles time", "label": "datetime/convert"}
+{"text": "what is new", "label": "news/query"}
+{"text": "replay this song i really like it", "label": "music/likeness"}
+{"text": "start a new list", "label": "lists/createoradd"}
+{"text": "resume playing the miniaturist", "label": "play/audiobook"}
+{"text": "go to radio", "label": "play/radio"}
+{"text": "create a blank list", "label": "lists/createoradd"}
+{"text": "let me know the recipe for preparing pasta", "label": "cooking/recipe"}
+{"text": "please continue playing odd thomas by dean koontz", "label": "play/audiobook"}
+{"text": "remove list item", "label": "lists/remove"}
+{"text": "show me podcasts", "label": "play/podcasts"}
+{"text": "delete the old playlist and create new", "label": "lists/createoradd"}
+{"text": "read available lists", "label": "lists/query"}
+{"text": "please go to settings of the music player and make the equalizer in the flat sound mode", "label": "music/settings"}
+{"text": "play the song get happy by ella fitzgeral", "label": "play/music"}
+{"text": "change the station to eighty two point four", "label": "play/radio"}
+{"text": "keep me updated on the election results", "label": "news/query"}
+{"text": "play games", "label": "play/game"}
+{"text": "please tell me the name of this band", "label": "music/query"}
+{"text": "please delete this file", "label": "lists/remove"}
+{"text": "restart american gods", "label": "play/audiobook"}
+{"text": "add this song to my favorite list", "label": "music/likeness"}
+{"text": "play the next podcast episode", "label": "play/podcasts"}
+{"text": "if it's midnight in colorado what time is it in munich", "label": "datetime/convert"}
+{"text": "how many hours difference is there between london and new york", "label": "datetime/convert"}
+{"text": "open the two towers and play", "label": "play/audiobook"}
+{"text": "reset my locations list", "label": "lists/remove"}
+{"text": "set track twenty eight in music player on repeat", "label": "music/settings"}
+{"text": "have remainder of the program to listen", "label": "play/radio"}
+{"text": "remove pencil from stationary", "label": "lists/remove"}
+{"text": "remove list of due payment of rajesh", "label": "lists/remove"}
+{"text": "play by favorite radio station", "label": "play/radio"}
+{"text": "i would like to start a new list", "label": "lists/createoradd"}
+{"text": "how are things in the world", "label": "news/query"}
+{"text": "start words with friends", "label": "play/game"}
+{"text": "please program volume settings for sixteen when i'm in the room at fourteen for when i've gone to bed", "label": "music/settings"}
+{"text": "could you please create a pandora channel for adele", "label": "music/settings"}
+{"text": "i want to see the next podcast available", "label": "play/podcasts"}
+{"text": "what time is it in england", "label": "datetime/query"}
+{"text": "recipe for spaghetti", "label": "cooking/recipe"}
+{"text": "next episode", "label": "play/podcasts"}
+{"text": "time and date of today", "label": "datetime/query"}
+{"text": "what is on my to do list", "label": "lists/query"}
+{"text": "play hip hop songs", "label": "play/music"}
+{"text": "give me new york's current time", "label": "datetime/query"}
+{"text": "please save this song to my favorites", "label": "music/likeness"}
+{"text": "repeat jazz", "label": "music/settings"}
+{"text": "play new songs by barenaked ladies", "label": "play/music"}
+{"text": "how many events on my list", "label": "lists/query"}
+{"text": "select and play only christian rock from one thousand nine hundred and ninety upwards", "label": "play/music"}
+{"text": "rock", "label": "play/music"}
+{"text": "play fmod", "label": "play/game"}
+{"text": "any recent news about north korea", "label": "news/query"}
+{"text": "open spotify and play list five", "label": "play/music"}
+{"text": "what do i need to complete first from the list", "label": "lists/query"}
+{"text": "let me know if anything happens on that subject", "label": "news/query"}
+{"text": "keep that song for when i need cheering up", "label": "music/likeness"}
+{"text": "open my amazon music app and play my playlist", "label": "play/music"}
+{"text": "read me back whats on my shopping list", "label": "lists/query"}
+{"text": "what day of the week does the twenty second fall on this month", "label": "datetime/query"}
+{"text": "can you give me a recipe for homemade chicken noodle soup", "label": "cooking/recipe"}
+{"text": "can you play my favorite audio book of king kong", "label": "play/audiobook"}
+{"text": "latest updates on syrian civil war", "label": "news/query"}
+{"text": "shazam this music", "label": "music/settings"}
+{"text": "start radio play", "label": "play/radio"}
+{"text": "play podcast a", "label": "play/podcasts"}
+{"text": "can you do name that tune", "label": "play/game"}
+{"text": "play tennis for me", "label": "play/game"}
+{"text": "tell me how to make tacos", "label": "cooking/recipe"}
+{"text": "recipes that can be cooked in an hour", "label": "cooking/recipe"}
+{"text": "current date please", "label": "datetime/query"}
+{"text": "i need sport's news", "label": "news/query"}
+{"text": "delete the list please", "label": "lists/remove"}
+{"text": "tell me the time now", "label": "datetime/query"}
+{"text": "resume the last played audiobook", "label": "play/audiobook"}
+{"text": "what are the titles of the lists in contacts", "label": "lists/query"}
+{"text": "switch on the radio and play hello fm station", "label": "play/radio"}
+{"text": "play subway surfers with me", "label": "play/game"}
+{"text": "play solitaire", "label": "play/game"}
+{"text": "what day of the week does the fifteenth of march fall on", "label": "datetime/query"}
+{"text": "newest world news", "label": "news/query"}
+{"text": "what is the latest on donald trump", "label": "news/query"}
+{"text": "what is new in politics today can you filter out trump news though", "label": "news/query"}
+{"text": "play heavyweight podcast", "label": "play/podcasts"}
+{"text": "play npr through my living room stereo", "label": "play/radio"}
+{"text": "remove this from the list", "label": "lists/remove"}
+{"text": "clear this list", "label": "lists/remove"}
+{"text": "automobiles", "label": "news/query"}
+{"text": "when is the third monday of this month", "label": "datetime/query"}
+{"text": "what song is playing now", "label": "music/query"}
+{"text": "new policies", "label": "news/query"}
+{"text": "rewind to four twelve", "label": "play/podcasts"}
+{"text": "back one episode", "label": "play/podcasts"}
+{"text": "whats the date today", "label": "datetime/query"}
+{"text": "i don't need tesco item any more delete it", "label": "lists/remove"}
+{"text": "please continue reading the hunger games", "label": "play/audiobook"}
+{"text": "play my book", "label": "play/audiobook"}
+{"text": "open the two towers", "label": "play/audiobook"}
+{"text": "play my motivational playlist", "label": "play/music"}
+{"text": "play from this point from this audiobook", "label": "play/audiobook"}
+{"text": "i want to finish listening to the book one thousand nine hundred and eighty four from where i left off", "label": "play/audiobook"}
+{"text": "play program on xmtune please", "label": "play/radio"}
+{"text": "please open snooker game i would like to play with you", "label": "play/game"}
+{"text": "thumbs up this song", "label": "music/likeness"}
+{"text": "what is the time in china", "label": "datetime/query"}
+{"text": "what's the time in this time zone", "label": "datetime/query"}
+{"text": "save opinion on song", "label": "music/likeness"}
+{"text": "skip this one", "label": "play/podcasts"}
+{"text": "i really enjoy this song", "label": "music/likeness"}
+{"text": "find me the latest podcast about president trump and his immigration ban", "label": "play/podcasts"}
+{"text": "remove the guest list i created last week", "label": "lists/remove"}
+{"text": "i want to dance to the tune of raghu dixit", "label": "play/music"}
+{"text": "what items are on my shopping list", "label": "lists/query"}
+{"text": "i want to know the procedure of making thanksgiving turkey in five sentences", "label": "cooking/recipe"}
+{"text": "play biography of jackie kennedy", "label": "play/audiobook"}
+{"text": "what is the time in ajmer", "label": "datetime/query"}
+{"text": "look for this playback in audiobook and play for me", "label": "play/audiobook"}
+{"text": "what is the name of this musical group", "label": "music/query"}
+{"text": "play the last played audiobook", "label": "play/audiobook"}
+{"text": "play for me the game candy crush", "label": "play/game"}
+{"text": "remove event from my list", "label": "lists/remove"}
+{"text": "i want to listen to a new podcast on healthcare", "label": "play/podcasts"}
+{"text": "start play spider", "label": "play/game"}
+{"text": "i really ska music", "label": "music/likeness"}
+{"text": "what is the latest news about obamacare", "label": "news/query"}
+{"text": "tune into ninety nine point five fm", "label": "play/radio"}
+{"text": "keep me informed about bitcoin price", "label": "news/query"}
+{"text": "play for me jazz music", "label": "play/music"}
+{"text": "read me the front page of the new york times", "label": "news/query"}
+{"text": "add these documents to the things i need to travel with", "label": "lists/createoradd"}
+{"text": "play me harry potter from the place i last stopped listening on", "label": "play/audiobook"}
+{"text": "begin again book swan", "label": "play/audiobook"}
+{"text": "find me a recipe for carrot soup", "label": "cooking/recipe"}
+{"text": "current song rating three stars", "label": "music/likeness"}
+{"text": "tell me how to make garlic bread", "label": "cooking/recipe"}
+{"text": "add song to running list", "label": "music/likeness"}
+{"text": "which teams are playing today in the premier league", "label": "news/query"}
+{"text": "what are the lyrics to the song i will always love you by Dolly parton", "label": "music/query"}
+{"text": "when is boy band playing", "label": "music/query"}
+{"text": "play the most current episode of levin", "label": "play/podcasts"}
+{"text": "find me any news from so clean the last six hours", "label": "news/query"}
+{"text": "create a new shopping list", "label": "lists/createoradd"}
+{"text": "play the audiobook swan from first", "label": "play/audiobook"}
+{"text": "save the last radio stations of the last month", "label": "music/likeness"}
+{"text": "give me time", "label": "datetime/query"}
+{"text": "who is the singer of song", "label": "music/query"}
+{"text": "instructions to make a meal", "label": "cooking/recipe"}
+{"text": "let's play our favourite football match on tv", "label": "play/game"}
+{"text": "turn on spotify shuffle", "label": "music/settings"}
+{"text": "what is the time in australia right now", "label": "datetime/query"}
+{"text": "tell me my lists", "label": "lists/query"}
+{"text": "generate fresh list", "label": "lists/createoradd"}
+{"text": "quick meals", "label": "cooking/recipe"}
+{"text": "tell me what is on the list", "label": "lists/query"}
+{"text": "create appointment to list", "label": "lists/createoradd"}
+{"text": "resume lord of the rings", "label": "play/audiobook"}
+{"text": "resume pride and prejudice", "label": "play/audiobook"}
+{"text": "what is the current date today", "label": "datetime/query"}
+{"text": "list the lists i have", "label": "lists/query"}
+{"text": "tell me what lists i have", "label": "lists/query"}
+{"text": "let's play fmod", "label": "play/game"}
+{"text": "i like senatra songs", "label": "music/likeness"}
+{"text": "remove this list from the others", "label": "lists/remove"}
+{"text": "i need more milk", "label": "lists/createoradd"}
+{"text": "please put bread on the grocery list", "label": "lists/createoradd"}
+{"text": "play audiobook", "label": "play/audiobook"}
+{"text": "what genre is this song currently playing", "label": "music/query"}
+{"text": "remember metallica selections for next time", "label": "music/likeness"}
+{"text": "i need to make a list", "label": "lists/createoradd"}
+{"text": "give me the news on donald trump", "label": "news/query"}
+{"text": "play the serial podcast", "label": "play/podcasts"}
+{"text": "erase that item from my list", "label": "lists/remove"}
+{"text": "music traking", "label": "music/query"}
+{"text": "what the time difference from here to ottawa", "label": "datetime/convert"}
+{"text": "show me pancakes", "label": "cooking/recipe"}
+{"text": "hey what's today's date", "label": "datetime/query"}
+{"text": "give me the names of my lists", "label": "lists/query"}
+{"text": "can you turn msnbc on in the car", "label": "play/radio"}
+{"text": "favourite podcast", "label": "play/podcasts"}
+{"text": "start from my last session of joes book", "label": "play/audiobook"}
+{"text": "play let me love you by ariana grande", "label": "play/music"}
+{"text": "i'd like to listen to ninety nine point five", "label": "play/radio"}
+{"text": "please play songs i've purchased and favorited", "label": "play/music"}
+{"text": "turn on flappy bird", "label": "play/game"}
+{"text": "what do you use to make cookies", "label": "cooking/recipe"}
+{"text": "what is the seattle city council doing about homelessness", "label": "news/query"}
+{"text": "play the previous podcast", "label": "play/podcasts"}
+{"text": "tell me the best recipes for a given dish", "label": "cooking/recipe"}
+{"text": "please repeat the last sentence from that book", "label": "play/audiobook"}
+{"text": "new list please", "label": "lists/createoradd"}
+{"text": "what can i substitute butter with", "label": "cooking/recipe"}
+{"text": "what movie is this song from", "label": "music/query"}
+{"text": "what time is it in a city", "label": "datetime/query"}
+{"text": "it is ten am in eastern standard time what time it is now it pacific standard time", "label": "datetime/convert"}
+{"text": "add bruno mars to my favorites", "label": "music/likeness"}
+{"text": "delete mike stein from contacts list", "label": "lists/remove"}
+{"text": "resume animal farm", "label": "play/audiobook"}
+{"text": "open podcast player", "label": "play/podcasts"}
+{"text": "create a list of books to be ordered", "label": "lists/createoradd"}
+{"text": "save this post about the song that i just listened to", "label": "music/likeness"}
+{"text": "economic affairs", "label": "news/query"}
+{"text": "next episode in the podcast please", "label": "play/podcasts"}
+{"text": "let's play space invaders together", "label": "play/game"}
+{"text": "lets have a break for five minutes", "label": "play/audiobook"}
+{"text": "open subway surfers", "label": "play/game"}
+{"text": "after this song play atmosphere", "label": "play/music"}
+{"text": "play jumper by third eye blind", "label": "play/music"}
+{"text": "start me a new list", "label": "lists/createoradd"}
+{"text": "delete shopping list", "label": "lists/remove"}
+{"text": "delete shopping from my list", "label": "lists/remove"}
+{"text": "tell me about the presidential race", "label": "news/query"}
+{"text": "repeat previous song", "label": "music/settings"}
+{"text": "list me the audiobooks i have already listened to", "label": "play/audiobook"}
+{"text": "open up tetris", "label": "play/game"}
+{"text": "repeat song number ten from main list", "label": "music/settings"}
+{"text": "how can we prepare biriyani", "label": "cooking/recipe"}
+{"text": "scan the radio for howard stern", "label": "play/radio"}
+{"text": "what are all my lists", "label": "lists/query"}
+{"text": "would you please turn on the am radio", "label": "play/radio"}
+{"text": "let us play millionaires", "label": "play/game"}
+{"text": "are there any cooking classes nearby my area", "label": "cooking/recipe"}
+{"text": "what day of the week does christmas fall on this year", "label": "datetime/query"}
+{"text": "play racing", "label": "play/game"}
+{"text": "play some boy band music", "label": "play/music"}
+{"text": "can you locate some gospel music for me", "label": "music/query"}
+{"text": "who sings this", "label": "music/query"}
+{"text": "delete call newspaper from my vacation list", "label": "lists/remove"}
+{"text": "i want to listen arijit singh song once again", "label": "play/music"}
+{"text": "crabmeat recipe", "label": "cooking/recipe"}
+{"text": "hey i like music by sigur ros", "label": "music/likeness"}
+{"text": "give me the time in london", "label": "datetime/query"}
+{"text": "can you create new list for me", "label": "lists/createoradd"}
+{"text": "can you change my time zone from central time to pacific", "label": "datetime/convert"}
+{"text": "please let me know about topic elections", "label": "news/query"}
+{"text": "open saga", "label": "play/game"}
+{"text": "get rid of a list", "label": "lists/remove"}
+{"text": "will trump visit russia anytime soon", "label": "news/query"}
+{"text": "start audiobook again", "label": "play/audiobook"}
+{"text": "what time is it in denver", "label": "datetime/query"}
+{"text": "what do i need to pick up at the grocery store", "label": "lists/query"}
+{"text": "can you remove this item from the list", "label": "lists/remove"}
+{"text": "can we play a game of hangman", "label": "play/game"}
+{"text": "play the list from my favorites", "label": "play/music"}
+{"text": "load up ghost recon wildlands", "label": "play/game"}
+{"text": "how many hours distance is between my location and new york", "label": "datetime/convert"}
+{"text": "can i see the previous episode", "label": "play/podcasts"}
+{"text": "olly what songs have i listened to at least ten times", "label": "music/query"}
+{"text": "put that song in my favourite list", "label": "music/likeness"}
+{"text": "open news about bp oil", "label": "news/query"}
+{"text": "i want to finally read the mars trilogy", "label": "play/audiobook"}
+{"text": "play the song title", "label": "play/music"}
+{"text": "what is happening in the world today", "label": "news/query"}
+{"text": "twenty ninth march comes on what day", "label": "datetime/query"}
+{"text": "change song", "label": "music/settings"}
+{"text": "please start my podcast", "label": "play/podcasts"}
+{"text": "please play some jazz music", "label": "play/music"}
+{"text": "give me all my lists", "label": "lists/query"}
+{"text": "angry bird", "label": "play/game"}
+{"text": "play a party music list", "label": "play/music"}
+{"text": "resume the audiobook i listened to last", "label": "play/audiobook"}
+{"text": "what time is it in akron", "label": "datetime/query"}
+{"text": "can you prepare a cheese sandwich", "label": "cooking/recipe"}
+{"text": "will you please show me my lists", "label": "lists/query"}
+{"text": "can i know what i on the list", "label": "lists/query"}
+{"text": "best rap music", "label": "play/music"}
+{"text": "hey put carrots on that", "label": "lists/createoradd"}
+{"text": "add cereal to my shopping list", "label": "lists/createoradd"}
+{"text": "show me how to cook lasagna", "label": "cooking/recipe"}
+{"text": "i would like to play tetris", "label": "play/game"}
+{"text": "play the next episode of the BBC tech podcast", "label": "play/podcasts"}
+{"text": "what are todays top podcasts", "label": "play/podcasts"}
+{"text": "load sirius and play a rock and roll show", "label": "play/radio"}
+{"text": "how do i make mashed potatoes", "label": "cooking/recipe"}
+{"text": "can i get a recipe for tuna", "label": "cooking/recipe"}
+{"text": "hey play my favourite podcast from list", "label": "play/podcasts"}
+{"text": "resume the last kingdom for me", "label": "play/audiobook"}
+{"text": "i want to listen to the radio", "label": "play/radio"}
+{"text": "play candy crush", "label": "play/game"}
+{"text": "start podcasts on nfl", "label": "play/podcasts"}
+{"text": "add a tab to the shopping list", "label": "lists/createoradd"}
+{"text": "i am the living blues", "label": "music/likeness"}
+{"text": "do you hear songs of arrahman music", "label": "music/query"}
+{"text": "change this time to ist", "label": "datetime/convert"}
+{"text": "create a playing teams and play with them", "label": "play/game"}
+{"text": "tell me the song that is currently playing", "label": "music/query"}
+{"text": "i've heard this riff before what song stole this riff it's exactly the same", "label": "music/query"}
+{"text": "can you play my favorite audio book of tarzan", "label": "play/audiobook"}
+{"text": "playback tom clancy splinter cell", "label": "play/audiobook"}
+{"text": "i want to listen to rock", "label": "play/music"}
+{"text": "what's next song on my playlist", "label": "music/query"}
+{"text": "list items on my work list", "label": "lists/query"}
+{"text": "repeat the song playing now", "label": "music/settings"}
+{"text": "rate five", "label": "music/likeness"}
+{"text": "start playing my most recent podcast", "label": "play/podcasts"}
+{"text": "play my rock station on pandora", "label": "play/radio"}
+{"text": "nice music", "label": "music/likeness"}
+{"text": "what's my favorite music at the moment", "label": "music/query"}
+{"text": "would you like to play a game with me", "label": "play/game"}
+{"text": "add toothpaste to my shopping list", "label": "lists/createoradd"}
+{"text": "games", "label": "play/game"}
+{"text": "i need the time zone from london england instead of central time zone", "label": "datetime/convert"}
+{"text": "can you play the next podcast", "label": "play/podcasts"}
+{"text": "can you get me news from ny times", "label": "news/query"}
+{"text": "pull up list", "label": "lists/query"}
+{"text": "what's the time for neighboring city", "label": "datetime/query"}
+{"text": "remove my grocery list", "label": "lists/remove"}
+{"text": "who wrote the song i just wanna dance with you", "label": "music/query"}
+{"text": "add this to a list", "label": "lists/createoradd"}
+{"text": "access latest news", "label": "news/query"}
+{"text": "turn on wfrn ninety nine point one", "label": "play/radio"}
+{"text": "show me the name of the song playing right now", "label": "music/query"}
+{"text": "can you put on the next i heart music radio show", "label": "play/radio"}
+{"text": "play miley cyrus radio", "label": "play/radio"}
+{"text": "what time is twelve pm eastern time in pacific time", "label": "datetime/convert"}
+{"text": "please add new item to list", "label": "lists/createoradd"}
+{"text": "find me a podcast on wrestling", "label": "play/podcasts"}
+{"text": "delete butterfly clips from my wish list", "label": "lists/remove"}
+{"text": "who is the singer", "label": "music/query"}
+{"text": "list of playback of ar rahman collections", "label": "music/query"}
+{"text": "can you put on the giver", "label": "play/audiobook"}
+{"text": "what is today", "label": "datetime/query"}
+{"text": "get the next episode", "label": "play/podcasts"}
+{"text": "what is the title of this song and please shuffle songs from the artist that sang it", "label": "music/query"}
+{"text": "i have to done it on the post important music file", "label": "music/likeness"}
+{"text": "is there anything left on my list", "label": "lists/query"}
+{"text": "please play recently paused audio", "label": "play/audiobook"}
+{"text": "please turn on radio on seven am", "label": "play/radio"}
+{"text": "send me the last list uploaded", "label": "lists/query"}
+{"text": "it's eight fifty five here what time is it in england", "label": "datetime/convert"}
+{"text": "please play back some important points summary", "label": "play/audiobook"}
+{"text": "play new radio channel", "label": "play/radio"}
+{"text": "can you search trump", "label": "news/query"}
+{"text": "i want to play the audiobook good grief", "label": "play/audiobook"}
+{"text": "start my bible study book again", "label": "play/audiobook"}
+{"text": "play the health show on the television in the living room", "label": "play/radio"}
+{"text": "play the local r. n. b. radio station", "label": "play/radio"}
+{"text": "tell the latest news about the trump", "label": "news/query"}
+{"text": "what is the time difference between california and michegan", "label": "datetime/convert"}
+{"text": "please add list of friends to invite for the party", "label": "lists/createoradd"}
+{"text": "i want to know everything that breaks about the dam breaking in california", "label": "news/query"}
+{"text": "please resume my music", "label": "play/music"}
+{"text": "show me the previous episode", "label": "play/podcasts"}
+{"text": "who sing we are the world", "label": "music/query"}
+{"text": "repeat music", "label": "music/settings"}
+{"text": "play bbc radio four", "label": "play/radio"}
+{"text": "delete sherlock holmes from library", "label": "lists/remove"}
+{"text": "what is happening with brexit today", "label": "news/query"}
+{"text": "play the podcast of barack obama saved in device", "label": "play/podcasts"}
+{"text": "could you create a new list for me", "label": "lists/createoradd"}
+{"text": "tell me the date when this song was recorded", "label": "music/query"}
+{"text": "what is the time difference between central and eastern", "label": "datetime/convert"}
+{"text": "please skip two songs", "label": "music/settings"}
+{"text": "who's playing the oboe on this piece", "label": "music/query"}
+{"text": "can i get the time", "label": "datetime/query"}
+{"text": "start audio playback of twilight again", "label": "play/audiobook"}
+{"text": "check my to do list", "label": "lists/query"}
+{"text": "delete everything on the menu", "label": "lists/remove"}
+{"text": "scratch that one from the list", "label": "lists/remove"}
+{"text": "play my preferred song", "label": "play/music"}
+{"text": "open jazz", "label": "play/music"}
+{"text": "love me some brad paisley", "label": "music/likeness"}
+{"text": "what does the analysts say about the new immigration policies", "label": "news/query"}
+{"text": "Put milk on my shopping list", "label": "lists/createoradd"}
+{"text": "read the audiobook of war of the roses", "label": "play/audiobook"}
+{"text": "play what live", "label": "play/music"}
+{"text": "could you please play the fm station which plays pop songs", "label": "play/radio"}
+{"text": "please start the next podcast episode", "label": "play/podcasts"}
+{"text": "turn shuffle on music player on", "label": "music/settings"}
+{"text": "set list", "label": "lists/createoradd"}
+{"text": "press play on the radio", "label": "play/radio"}
+{"text": "play lady by kenny roger", "label": "play/music"}
+{"text": "shuffle the current album of songs", "label": "music/settings"}
+{"text": "tune in to my favorite radio station please", "label": "play/radio"}
+{"text": "give me the latest on paul ryan", "label": "news/query"}
+{"text": "can you play a game with me", "label": "play/game"}
+{"text": "please tell me how can I remove the item", "label": "lists/remove"}
+{"text": "let's play a game of truth or dare", "label": "play/game"}
+{"text": "what is the title of the song", "label": "music/query"}
+{"text": "this is a five star song", "label": "music/likeness"}
+{"text": "i like rock music", "label": "music/likeness"}
+{"text": "search and play a radio station with news", "label": "play/radio"}
+{"text": "play hoizer radio station from my pandora app", "label": "play/radio"}
+{"text": "my favorite music is rock from the early two thousands", "label": "music/likeness"}
+{"text": "let me know the time", "label": "datetime/query"}
+{"text": "remove night night playlist", "label": "lists/remove"}
+{"text": "play the podcast named ringcast", "label": "play/podcasts"}
+{"text": "i want to listen to be more chill by ned vizzini", "label": "play/audiobook"}
+{"text": "cross out bread from shopping list", "label": "lists/remove"}
+{"text": "i want to play a trivia game", "label": "play/game"}
+{"text": "what is the bbc's latest news", "label": "news/query"}
+{"text": "when is easter in the year two thousand and eighteen", "label": "datetime/query"}
+{"text": "play tic tac toe with me", "label": "play/game"}
+{"text": "start playing from where i left off on the goblet of fire", "label": "play/audiobook"}
+{"text": "can you play rfi", "label": "play/music"}
+{"text": "what time is it on the west coast", "label": "datetime/query"}
+{"text": "what is on my rap playlist", "label": "lists/query"}
+{"text": "stop after current song", "label": "music/settings"}
+{"text": "i enjoy listening to this song it really calms me down", "label": "music/likeness"}
+{"text": "display available lists", "label": "lists/query"}
+{"text": "play seven habits of effective people", "label": "play/audiobook"}
+{"text": "rate this song five stars and save the rating", "label": "music/likeness"}
+{"text": "remove books from list", "label": "lists/remove"}
+{"text": "let's play space invaders", "label": "play/game"}
+{"text": "who is this", "label": "music/query"}
+{"text": "play the radio for me", "label": "play/radio"}
+{"text": "please continue reading audiobook", "label": "play/audiobook"}
+{"text": "can you remove remove buying eggs item from my to do list", "label": "lists/remove"}
+{"text": "add the song to my favorites", "label": "music/likeness"}
+{"text": "can i have my list", "label": "lists/query"}
+{"text": "would like to see the time zone", "label": "datetime/query"}
+{"text": "add grocery shopping to today's to do list", "label": "lists/createoradd"}
+{"text": "please start the podcast", "label": "play/podcasts"}
+{"text": "open radia", "label": "play/radio"}
+{"text": "play the radio station", "label": "play/radio"}
+{"text": "start angry bird", "label": "play/game"}
+{"text": "what's the time in new york", "label": "datetime/query"}
+{"text": "please open blokus game i would like to play with you", "label": "play/game"}
+{"text": "what is a good rap album that came out this year", "label": "music/query"}
+{"text": "lets hear wgrr one hundred and three point five", "label": "play/radio"}
+{"text": "most viewed list", "label": "lists/query"}
+{"text": "what is the best tasting cut of beef", "label": "cooking/recipe"}
+{"text": "do i have any music by lady antebellum", "label": "music/query"}
+{"text": "please play james altucher's podcast", "label": "play/podcasts"}
+{"text": "play radio ninety five point five", "label": "play/radio"}
+{"text": "what day of the week is the first of march", "label": "datetime/query"}
+{"text": "end pause on audio book history of rome", "label": "play/audiobook"}
+{"text": "play one more time", "label": "play/music"}
+{"text": "who is the music director of this song", "label": "music/query"}
+{"text": "i wish i could play video games together", "label": "play/game"}
+{"text": "what are today's headlines", "label": "news/query"}
+{"text": "please note on song title good tune", "label": "music/likeness"}
+{"text": "what is the time difference between here and dakar", "label": "datetime/query"}
+{"text": "i want to start a new list of power tools on sale at true value", "label": "lists/createoradd"}
+{"text": "remove that from my list", "label": "lists/remove"}
+{"text": "what is the current central time", "label": "datetime/query"}
+{"text": "what ingredient can be used to replace white wine", "label": "cooking/recipe"}
+{"text": "what song is this", "label": "music/query"}
+{"text": "tell me the time in g. m. t. plus five", "label": "datetime/convert"}
+{"text": "add wine to list", "label": "lists/createoradd"}
+{"text": "convert twenty one thirty from gtm four to g. m. t. four thirty", "label": "datetime/convert"}
+{"text": "create a list of monthly groceries to be bought", "label": "lists/createoradd"}
+{"text": "what playlist is on shuffle", "label": "music/query"}
+{"text": "please start the radio", "label": "play/radio"}
+{"text": "book swan resume", "label": "play/audiobook"}
+{"text": "convert new york time to london", "label": "datetime/convert"}
+{"text": "can you give me the latest sports news", "label": "news/query"}
+{"text": "recommend artists similar to rihanna", "label": "music/query"}
+{"text": "move forward ten minutes in this podcast", "label": "play/podcasts"}
+{"text": "what time in las vegas", "label": "datetime/query"}
+{"text": "what is the name of the artist that created this song", "label": "music/query"}
+{"text": "please explain the rice recipe", "label": "cooking/recipe"}
+{"text": "what's happening today", "label": "news/query"}
+{"text": "read my list to me", "label": "lists/query"}
+{"text": "show me music by that artist", "label": "music/query"}
+{"text": "what genre is most played on my music player", "label": "music/query"}
+{"text": "add new item", "label": "lists/createoradd"}
+{"text": "play my favourite podcast", "label": "play/podcasts"}
+{"text": "there are anything in my list", "label": "lists/query"}
+{"text": "what lists available", "label": "lists/query"}
+{"text": "reopen groceries and add milk", "label": "lists/createoradd"}
+{"text": "tell me the list about", "label": "lists/query"}
+{"text": "what's going on in new york", "label": "news/query"}
+{"text": "skip to the next song", "label": "play/music"}
+{"text": "show me my playlist", "label": "music/query"}
+{"text": "play random music", "label": "play/music"}
+{"text": "i find rap music really enjoyable", "label": "music/likeness"}
+{"text": "please search for beginners guide to cooking", "label": "cooking/recipe"}
+{"text": "show me the top rated podcasts", "label": "play/podcasts"}
+{"text": "who is the song writer", "label": "music/query"}
+{"text": "start up league of legends for me", "label": "play/game"}
+{"text": "record the opinion of each individual about this song", "label": "music/likeness"}
+{"text": "please add item to list", "label": "lists/createoradd"}
+{"text": "play jack johnson playlist music", "label": "play/music"}
+{"text": "how to cook this food", "label": "cooking/recipe"}
+{"text": "equalize the bass of this music", "label": "music/settings"}
+{"text": "please add deodorant to my shopping list", "label": "lists/createoradd"}
+{"text": "what is on my playlist of movies on the the dvr", "label": "lists/query"}
+{"text": "what is the time difference between new york and lagos", "label": "datetime/convert"}
+{"text": "olly please read me today's news", "label": "news/query"}
+{"text": "what is name of the song currently playing", "label": "music/query"}
+{"text": "is the song by shakira", "label": "music/query"}
+{"text": "Song next please", "label": "play/music"}
+{"text": "radio play nine hundred and eighty nine please", "label": "play/radio"}
+{"text": "i have already given mark his gift today please remove him on my christmas gift list", "label": "lists/remove"}
+{"text": "convert current time from g. m. t. to est", "label": "datetime/convert"}
+{"text": "what are all my lists please", "label": "lists/query"}
+{"text": "remember that this is my favorite music", "label": "music/likeness"}
+{"text": "resume harry potter book four", "label": "play/audiobook"}
+{"text": "let's have the radio on", "label": "play/radio"}
+{"text": "what's on my list to do today", "label": "lists/query"}
+{"text": "can you find the dave ramsey podcast that aired earlier today", "label": "play/podcasts"}
+{"text": "play flappy bird", "label": "play/game"}
+{"text": "can you give me the time in this time zone", "label": "datetime/query"}
+{"text": "let me know the latest weather news", "label": "news/query"}
+{"text": "i want the news about academy awards", "label": "news/query"}
+{"text": "what is the time difference between eastern and pacific time zones", "label": "datetime/convert"}
+{"text": "do we have thirty first day on this month", "label": "datetime/query"}
+{"text": "the twenty second is on what day of the week", "label": "datetime/query"}
+{"text": "what music is playing", "label": "music/query"}
+{"text": "play solitaire with me", "label": "play/game"}
+{"text": "play the next episode of a podcast", "label": "play/podcasts"}
+{"text": "repeat same song for ten times", "label": "music/settings"}
+{"text": "put classic rock on", "label": "play/music"}
+{"text": "when was this song recorded", "label": "music/query"}
+{"text": "can you play call me by aretha franklin after this song is finished playing", "label": "play/music"}
+{"text": "find songs from my big band playlist", "label": "play/music"}
+{"text": "add ketchup to the list", "label": "lists/createoradd"}
+{"text": "how is the news in ireland", "label": "news/query"}
+{"text": "olly schedule a news update for tomorrow morning at seven am", "label": "news/query"}
+{"text": "please continue with the next podcast episode", "label": "play/podcasts"}
+{"text": "i need ninety nine point five please", "label": "play/radio"}
+{"text": "to do list for today please", "label": "lists/query"}
+{"text": "play game with me", "label": "play/game"}
+{"text": "what is the track information currently", "label": "music/query"}
+{"text": "current time new york", "label": "datetime/query"}
+{"text": "i would like to hear the theme song to this is us", "label": "play/music"}
+{"text": "what am i listening to", "label": "music/query"}
+{"text": "can we play twenty questions", "label": "play/game"}
+{"text": "play me the bbc radio podcast", "label": "play/podcasts"}
+{"text": "please keep everything i have on this song", "label": "music/likeness"}
+{"text": "put the item on the list", "label": "lists/createoradd"}
+{"text": "please save my rating on this song it is five stars please", "label": "music/likeness"}
+{"text": "create a new list by tomorrow", "label": "lists/createoradd"}
+{"text": "i want to hear sleeptime playlist next", "label": "play/music"}
+{"text": "create a new list", "label": "lists/createoradd"}
+{"text": "play the client by john grisham", "label": "play/audiobook"}
+{"text": "play for me american idol show", "label": "play/radio"}
+{"text": "restart bill nye book", "label": "play/audiobook"}
+{"text": "go to the station fm ninety six point five", "label": "play/radio"}
+{"text": "a new list to be created by tomorrow", "label": "lists/createoradd"}
+{"text": "start a list of dog names", "label": "lists/createoradd"}
+{"text": "i don't need the shopping list delete it", "label": "lists/remove"}
+{"text": "network podcast", "label": "play/podcasts"}
+{"text": "switch on radio mango", "label": "play/radio"}
+{"text": "add detergent to the list of things i need to buy", "label": "lists/createoradd"}
+{"text": "what are my available lists", "label": "lists/query"}
+{"text": "take out the milk from the shopping list", "label": "lists/remove"}
+{"text": "show the method to prepare icecream", "label": "cooking/recipe"}
+{"text": "please tell me the latest news about politics", "label": "news/query"}
+{"text": "please play football with me", "label": "play/game"}
+{"text": "switch to eastern time zone", "label": "datetime/convert"}
+{"text": "show me the time in new york city", "label": "datetime/query"}
+{"text": "play my midnight love playlist", "label": "play/music"}
+{"text": "activate radio and tune into nine hundred and eighty nine", "label": "play/radio"}
+{"text": "iphone", "label": "news/query"}
+{"text": "what is the date and time", "label": "datetime/query"}
+{"text": "remove cereal from my shopping list", "label": "lists/remove"}
+{"text": "get news from bbc", "label": "news/query"}
+{"text": "just let me know the current date today", "label": "datetime/query"}
+{"text": "get me the latest on current events going on in the world", "label": "news/query"}
+{"text": "open the radio app", "label": "play/radio"}
+{"text": "what music do i usually like after work", "label": "music/query"}
+{"text": "turn on radio now", "label": "play/radio"}
+{"text": "play my video game news podcast starting where i left off", "label": "play/podcasts"}
+{"text": "play poker with me", "label": "play/game"}
+{"text": "describe your list", "label": "lists/query"}
+{"text": "add eggs to my grocery's shopping list", "label": "lists/createoradd"}
+{"text": "read some more of the daisy goodwin book for me", "label": "play/audiobook"}
+{"text": "tune into the joe rogan show in ten minutes", "label": "play/radio"}
+{"text": "tell me current time", "label": "datetime/query"}
+{"text": "what is the title and artist of this song", "label": "music/query"}
+{"text": "shuffle music by aaron carter", "label": "music/settings"}
+{"text": "play audiobook snow white", "label": "play/audiobook"}
+{"text": "make this my favorite", "label": "music/likeness"}
+{"text": "please remove item a from my list", "label": "lists/remove"}
+{"text": "aib podcast on kashmirstart it", "label": "play/podcasts"}
+{"text": "please give me today's date", "label": "datetime/query"}
+{"text": "please find all name start with alphabetic of a and create a list", "label": "lists/createoradd"}
+{"text": "let's play canasta", "label": "play/game"}
+{"text": "will you put on the music", "label": "play/music"}
+{"text": "what year did this song come out", "label": "music/query"}
+{"text": "make a catalogue", "label": "lists/createoradd"}
+{"text": "please tell me the name of this song that is currently playing", "label": "music/query"}
+{"text": "how do i cook meatballs", "label": "cooking/recipe"}
+{"text": "play r and b", "label": "play/music"}
+{"text": "good food", "label": "cooking/recipe"}
+{"text": "add milk to grocery list", "label": "lists/createoradd"}
+{"text": "create a new list of my due bills", "label": "lists/createoradd"}
+{"text": "remove the santana music list", "label": "lists/remove"}
+{"text": "what is a good vegan egg substitute", "label": "cooking/recipe"}
+{"text": "what is the day on twenty third march", "label": "datetime/query"}
+{"text": "show me the best podcast of folk songs having good rating and play it", "label": "play/music"}
+{"text": "get rid of item on the list", "label": "lists/remove"}
+{"text": "next episode in podcast", "label": "play/podcasts"}
+{"text": "what is a good way to make steak", "label": "cooking/recipe"}
+{"text": "delete item", "label": "lists/remove"}
+{"text": "play for me the game cricket", "label": "play/game"}
+{"text": "can you find the the preacher joe show on gospel radio", "label": "play/radio"}
+{"text": "play songs by adele", "label": "play/music"}
+{"text": "keep reading", "label": "play/audiobook"}
+{"text": "how to cook yellow rice", "label": "cooking/recipe"}
+{"text": "if it's five am in berlin what time is it here", "label": "datetime/convert"}
+{"text": "what day does my birthday fall on next year", "label": "datetime/query"}
+{"text": "create a list of jewels to be bought", "label": "lists/createoradd"}
+{"text": "turn on some music", "label": "play/music"}
+{"text": "what is the time difference between pacific and central", "label": "datetime/convert"}
+{"text": "remove apples from my shopping list", "label": "lists/remove"}
+{"text": "what day is it today", "label": "datetime/query"}
+{"text": "search for your favorite meal", "label": "cooking/recipe"}
+{"text": "list my lists please", "label": "lists/query"}
+{"text": "could you play poker with me", "label": "play/game"}
+{"text": "take me to music player", "label": "play/music"}
+{"text": "i'd like to listen to my favorite morning show in the car on the way to work please", "label": "play/radio"}
+{"text": "tell me what lists i currently have", "label": "lists/query"}
+{"text": "skip to next", "label": "play/podcasts"}
+{"text": "start playing podcast about books", "label": "play/podcasts"}
+{"text": "play this game with me", "label": "play/game"}
+{"text": "open the list", "label": "lists/query"}
+{"text": "please save the remarks i have on this current song", "label": "music/likeness"}
+{"text": "save my last playlist", "label": "music/likeness"}
+{"text": "what time is it in the other time zones", "label": "datetime/query"}
+{"text": "open temple run game", "label": "play/game"}
+{"text": "who has covered this song", "label": "music/query"}
+{"text": "please play only sad song in music player", "label": "play/music"}
+{"text": "delete list", "label": "lists/remove"}
+{"text": "add this song to my catalogue", "label": "music/likeness"}
+{"text": "play radio mirchi for me", "label": "play/radio"}
+{"text": "what's the news from source", "label": "news/query"}
+{"text": "get me to my friends list", "label": "lists/query"}
+{"text": "remove last played song", "label": "lists/remove"}
+{"text": "erase my grocery list", "label": "lists/remove"}
+{"text": "please can i know what time will it be at six pm here in australia", "label": "datetime/convert"}
+{"text": "start my favourite podcast", "label": "play/podcasts"}
+{"text": "add a new list", "label": "lists/createoradd"}
+{"text": "tell me what is on my list", "label": "lists/query"}
+{"text": "add appointment in the list", "label": "lists/createoradd"}
+{"text": "go to the third episode of this podcast", "label": "play/podcasts"}
+{"text": "play wuthering heights from where i left off", "label": "play/audiobook"}
+{"text": "hotel california is sung by whom", "label": "music/query"}
+{"text": "what is an alternative to flour", "label": "cooking/recipe"}
+{"text": "tell me the names on the list", "label": "lists/query"}
+{"text": "what time is it in the eastern half of the us right now", "label": "datetime/query"}
+{"text": "play new rihanna song", "label": "play/music"}
+{"text": "what is my grocery list", "label": "lists/query"}
+{"text": "open my list", "label": "lists/query"}
+{"text": "i like jazz you should know", "label": "music/likeness"}
+{"text": "isn't keith urban wonderful", "label": "music/likeness"}
+{"text": "provide wall street journal news", "label": "news/query"}
+{"text": "i want to hear this podcast", "label": "play/podcasts"}
+{"text": "what lists do you have on you right now", "label": "lists/query"}
+{"text": "save my music choices", "label": "music/likeness"}
+{"text": "i favorite singer is arijit singh find his voice on radio", "label": "music/likeness"}
+{"text": "play song over the rainbow", "label": "play/music"}
+{"text": "i like it", "label": "music/likeness"}
+{"text": "play a game of chess with me", "label": "play/game"}
+{"text": "what is on my shopping list", "label": "lists/query"}
+{"text": "what lists do i have", "label": "lists/query"}
+{"text": "time to workout", "label": "play/music"}
+{"text": "all food items with the prefix dry should be taken away from the list", "label": "lists/remove"}
+{"text": "play the kansas city hip hop station", "label": "play/radio"}
+{"text": "can you find animal crossing", "label": "play/game"}
+{"text": "show list items", "label": "lists/remove"}
+{"text": "remove item four", "label": "lists/remove"}
+{"text": "play the next episode of adele's podcast", "label": "play/podcasts"}
+{"text": "i would like the recipe for baked chicken", "label": "cooking/recipe"}
+{"text": "if i was in the eastern time zone what time would it be", "label": "datetime/convert"}
+{"text": "what is the current song called", "label": "music/query"}
+{"text": "what are they saying about donald trump on this topic", "label": "news/query"}
+{"text": "resume audio book history of rome", "label": "play/audiobook"}
+{"text": "now playing", "label": "play/music"}
+{"text": "can you tell how many hours of difference are between boston and los angeles", "label": "datetime/convert"}
+{"text": "whats the time in denver", "label": "datetime/query"}
+{"text": "i'm thinking of a number one to ten", "label": "play/game"}
+{"text": "all i ever want to hear is rap", "label": "music/likeness"}
+{"text": "check the news", "label": "news/query"}
+{"text": "what kind of lists do i have", "label": "lists/query"}
+{"text": "at what temperature should i bake cookies", "label": "cooking/recipe"}
+{"text": "turn on shuffle", "label": "music/settings"}
+{"text": "let me know when you hear about france", "label": "news/query"}
+{"text": "what is the time difference between my location and hong kong", "label": "datetime/convert"}
+{"text": "what is the time difference between eastern time and pacific time", "label": "datetime/convert"}
+{"text": "show the playlist", "label": "music/query"}
+{"text": "do a tournament with me in candy crush", "label": "play/game"}
+{"text": "the list should not contain all food items with the prefix dry", "label": "lists/remove"}
+{"text": "start bbc radio", "label": "play/radio"}
+{"text": "how many lists do i have in contacts", "label": "lists/query"}
+{"text": "how do i prepare all my food for cooking", "label": "cooking/recipe"}
+{"text": "repeat song", "label": "music/settings"}
+{"text": "would you like to play never have i ever", "label": "play/game"}
+{"text": "who wrote this song", "label": "music/query"}
+{"text": "open google keep", "label": "lists/query"}
+{"text": "read my lists to me", "label": "lists/query"}
+{"text": "is india win today cricket match", "label": "news/query"}
+{"text": "find out what song this is and tell me the name", "label": "music/query"}
+{"text": "i want to listen to today's hits", "label": "play/radio"}
+{"text": "i need a break start it after five minutes", "label": "play/audiobook"}
+{"text": "save this song as a favorite", "label": "music/likeness"}
+{"text": "play song aces high", "label": "play/music"}
+{"text": "save all songs from katy perry", "label": "music/likeness"}
+{"text": "slow rock it's ok", "label": "music/likeness"}
+{"text": "save my song preferences on playlist", "label": "music/likeness"}
+{"text": "i like the background song", "label": "music/likeness"}
+{"text": "what items did i plan to buy", "label": "lists/query"}
+{"text": "remove item three from the list", "label": "lists/remove"}
+{"text": "what do i have on my shopping list", "label": "lists/query"}
+{"text": "book please", "label": "play/audiobook"}
+{"text": "what day is the fifteenth", "label": "datetime/query"}
+{"text": "play audio", "label": "play/audiobook"}
+{"text": "remove the item from list", "label": "lists/remove"}
+{"text": "save settings", "label": "music/settings"}
+{"text": "let me know the list", "label": "lists/query"}
+{"text": "move to next section", "label": "play/podcasts"}
+{"text": "play last reason podcast", "label": "play/podcasts"}
+{"text": "i want to make this week's shopping list", "label": "lists/createoradd"}
+{"text": "cnn headlines", "label": "news/query"}
+{"text": "give me instructions on how to cook chicken", "label": "cooking/recipe"}
+{"text": "play radio", "label": "play/radio"}
+{"text": "change this time zone to washington", "label": "datetime/convert"}
+{"text": "recipes", "label": "cooking/recipe"}
+{"text": "is that the song from spectre", "label": "music/query"}
+{"text": "add bob to my list of contacts", "label": "lists/createoradd"}
+{"text": "add to my groceries", "label": "lists/createoradd"}
+{"text": "on the radio it is time for good music", "label": "play/radio"}
+{"text": "what's the latest news from xinhua", "label": "news/query"}
+{"text": "play radia", "label": "play/radio"}
+{"text": "can you play back to december", "label": "play/podcasts"}
+{"text": "play the jungle book", "label": "play/audiobook"}
+{"text": "show me upcoming programmes on one hundred and five point one", "label": "play/radio"}
+{"text": "i want to have a new playlist of songs", "label": "lists/createoradd"}
+{"text": "can you play tic tac toe", "label": "play/game"}
+{"text": "keep playing war and peace", "label": "play/audiobook"}
+{"text": "resume the art of war", "label": "play/audiobook"}
+{"text": "start music", "label": "play/music"}
+{"text": "tell me the recipe for mashed potatoes", "label": "cooking/recipe"}
+{"text": "make a things to do list", "label": "lists/createoradd"}
+{"text": "continue audiobook playback", "label": "play/audiobook"}
+{"text": "put on the screen the lists i have available", "label": "lists/query"}
+{"text": "fight me in street fighter", "label": "play/game"}
+{"text": "what day of the week does the next holiday fall on", "label": "datetime/query"}
+{"text": "tell me the name of my lists", "label": "lists/query"}
+{"text": "how many lists do i have", "label": "lists/query"}
+{"text": "whose song is this", "label": "music/query"}
+{"text": "please open and play chess with me", "label": "play/game"}
+{"text": "which week is twenty third", "label": "datetime/query"}
+{"text": "please play the song joy to the world", "label": "play/music"}
+{"text": "please play the podcast from happypeoplecom", "label": "play/podcasts"}
+{"text": "remove the list called party time", "label": "lists/remove"}
+{"text": "delete an item", "label": "lists/remove"}
+{"text": "the music of this song is very melodious and relaxing", "label": "music/likeness"}
+{"text": "that song was awesome can you repeat", "label": "music/likeness"}
+{"text": "next podcast play", "label": "play/podcasts"}
+{"text": "i would like to listen to this mornings mike and mike podcast", "label": "play/podcasts"}
+{"text": "i'm into music", "label": "music/likeness"}
+{"text": "tell me the music that is playing", "label": "music/query"}
+{"text": "remember that this song is good but too slow to exercise to", "label": "music/likeness"}
+{"text": "start radio and go to frequency on nine hundred and forty three", "label": "play/radio"}
+{"text": "repeat album", "label": "music/settings"}
+{"text": "play news in fm", "label": "play/radio"}
+{"text": "i want to hear the book written by the mother of the shooter at columbine", "label": "play/audiobook"}
+{"text": "give me a company for playing football", "label": "play/game"}
+{"text": "play the song for me", "label": "play/music"}
+{"text": "resume harry potter book one", "label": "play/audiobook"}
+{"text": "please provide world hot news", "label": "news/query"}
+{"text": "find a recipe for chicken alfredo", "label": "cooking/recipe"}
+{"text": "play the billboard top ten", "label": "play/music"}
+{"text": "hey play me a popular country song", "label": "play/music"}
+{"text": "delete this from list", "label": "lists/remove"}
+{"text": "can you play my favorite music", "label": "play/music"}
+{"text": "Show chicken tikka recipe", "label": "cooking/recipe"}
+{"text": "open solitaire play with me", "label": "play/game"}
+{"text": "what is that on the list", "label": "lists/query"}
+{"text": "can you please play the next episode of food stuff", "label": "play/podcasts"}
+{"text": "let me hear some music", "label": "play/music"}
+{"text": "how do i cook a meatloaf", "label": "cooking/recipe"}
+{"text": "i want to see the recipe of veg biryani", "label": "cooking/recipe"}
+{"text": "put the playlist on shuffle", "label": "music/settings"}
+{"text": "resume play where i left off in book on audible", "label": "play/audiobook"}
+{"text": "set the time zone to g. m. t.", "label": "datetime/convert"}
+{"text": "what time is it in karachi right now", "label": "datetime/query"}
+{"text": "i want you to play this game for me", "label": "play/game"}
+{"text": "what is the day today", "label": "datetime/query"}
+{"text": "open book", "label": "play/audiobook"}
+{"text": "what a wonderful song can you save what i just said for me", "label": "music/likeness"}
+{"text": "healthy foods", "label": "cooking/recipe"}
+{"text": "what is the name of that song that just went off", "label": "music/query"}
+{"text": "i love this song", "label": "music/likeness"}
+{"text": "i would like it to be able to find recipes i have", "label": "cooking/recipe"}
+{"text": "find easy recipe for corn bread", "label": "cooking/recipe"}
+{"text": "what time i sit in china right now", "label": "datetime/query"}
+{"text": "current time please", "label": "datetime/query"}
+{"text": "i want to play a game with you", "label": "play/game"}
+{"text": "add mop to hardware store list", "label": "lists/createoradd"}
+{"text": "what's the latest news about us election", "label": "news/query"}
+{"text": "can you turn on pandora", "label": "play/radio"}
+{"text": "which time zone are we in please change to current", "label": "datetime/convert"}
+{"text": "play music in library", "label": "play/music"}
+{"text": "how to make sausage", "label": "cooking/recipe"}
+{"text": "get me the latest news of world", "label": "news/query"}
+{"text": "which songs do i listen to most", "label": "music/query"}
+{"text": "i want the time for another city outside us", "label": "datetime/query"}
+{"text": "tell me what's on my holiday list", "label": "lists/query"}
+{"text": "hello what time it is now", "label": "datetime/query"}
+{"text": "what is the time in hyderabad", "label": "datetime/query"}
+{"text": "what music genre do i listen to the most", "label": "music/query"}
+{"text": "please thumbs up this song", "label": "music/likeness"}
+{"text": "is snap doing good after the ipo", "label": "news/query"}
+{"text": "re add eggs to the list", "label": "lists/createoradd"}
+{"text": "pull up my party playlist", "label": "play/music"}
+{"text": "turn on repeat", "label": "music/settings"}
+{"text": "take bread out from the shopping list", "label": "lists/remove"}
+{"text": "try to play old nineties classic music", "label": "play/music"}
+{"text": "play the book which i heard on some particular day", "label": "play/audiobook"}
+{"text": "tune into my selected station", "label": "play/radio"}
+{"text": "it should spices", "label": "cooking/recipe"}
+{"text": "that song is my favorite", "label": "music/likeness"}
+{"text": "Show me news from cnn", "label": "news/query"}
+{"text": "skip to next nyt podcast", "label": "play/podcasts"}
+{"text": "add oil change to my to do list", "label": "lists/createoradd"}
+{"text": "open chess game", "label": "play/game"}
+{"text": "remind me that i like that song", "label": "music/likeness"}
+{"text": "please tell me the date", "label": "datetime/query"}
+{"text": "give me election updates", "label": "news/query"}
+{"text": "tell me about current status of sunderland vs liverpool match", "label": "news/query"}
+{"text": "find the this week's news about emigration legislation in the us please", "label": "news/query"}
+{"text": "let me hear that podcast", "label": "play/podcasts"}
+{"text": "whats on my list for the time being", "label": "lists/query"}
+{"text": "play only songs by the beatles please", "label": "play/music"}
+{"text": "resume playing you are joking mr feynman", "label": "play/audiobook"}
+{"text": "find and queue all songs of kate perry and play all without shuffling", "label": "play/music"}
+{"text": "we need milk", "label": "lists/createoradd"}
+{"text": "what goes with risotto", "label": "cooking/recipe"}
+{"text": "can the latest news be pulled up on the latest weather forecast for the week", "label": "news/query"}
+{"text": "i want to listen to the bob and tom show", "label": "play/radio"}
+{"text": "lower battery consumption to save setting", "label": "music/settings"}
+{"text": "play the miami heat and warriors game", "label": "play/radio"}
+{"text": "add this song to favorites playlist", "label": "music/likeness"}
+{"text": "change channel to one hundred and three", "label": "play/radio"}
+{"text": "select shuffle all", "label": "music/settings"}
+{"text": "tell me the name of the song", "label": "music/query"}
+{"text": "give me some recipes for sheperds pie", "label": "cooking/recipe"}
+{"text": "show me rediff masala", "label": "news/query"}
+{"text": "skip to next episode", "label": "play/podcasts"}
+{"text": "show me the picture of the singer", "label": "music/query"}
+{"text": "i want to listen to podcast", "label": "play/podcasts"}
+{"text": "turn it to frequency nine hundred and ninety seven", "label": "play/radio"}
+{"text": "play for me the music by the beatles", "label": "play/music"}
+{"text": "i want to play blackjack", "label": "play/game"}
+{"text": "is soft cheese better than hard", "label": "cooking/recipe"}
+{"text": "start my audio book from where i left off", "label": "play/audiobook"}
+{"text": "which film the music comes from what is the name of the music", "label": "music/query"}
+{"text": "what is the month day and year", "label": "datetime/query"}
+{"text": "start the podcast over that i started last night", "label": "play/podcasts"}
+{"text": "play me john's podcast", "label": "play/podcasts"}
+{"text": "open the local news app", "label": "news/query"}
+{"text": "olly skip song", "label": "music/settings"}
+{"text": "play for me the game harry potter and the chamber of secrets", "label": "play/game"}
+{"text": "play music from workout playlist", "label": "play/music"}
+{"text": "play uno together", "label": "play/game"}
+{"text": "tune in some radio", "label": "play/radio"}
+{"text": "what's the time difference between here and queensland", "label": "datetime/convert"}
+{"text": "i need to set up a new list", "label": "lists/createoradd"}
+{"text": "what's the time in china right now", "label": "datetime/query"}
+{"text": "play the last next episode", "label": "play/podcasts"}
+{"text": "do i have anything lists made for christmas shopping", "label": "lists/query"}
+{"text": "can you tell me a latest news", "label": "news/query"}
+{"text": "hey what is the time", "label": "datetime/query"}
+{"text": "who sung this", "label": "music/query"}
+{"text": "is there any rap that doesn't involve sex money and drugs", "label": "music/query"}
+{"text": "skip", "label": "play/podcasts"}
+{"text": "what is the current time right now", "label": "datetime/query"}
+{"text": "initiate the music on the electronic playlist", "label": "play/music"}
+{"text": "what are my top played podcasts", "label": "play/podcasts"}
+{"text": "when it is nine in the east what time is it in the west", "label": "datetime/convert"}
+{"text": "resume war and peace", "label": "play/audiobook"}
+{"text": "continue with my audiobook please", "label": "play/audiobook"}
+{"text": "the radio should play only on nine hundred and ninety nine fm", "label": "play/radio"}
+{"text": "we should play nfs at high speed", "label": "play/game"}
+{"text": "i like soft rock music", "label": "music/likeness"}
+{"text": "remind me to buy jeans on my shopping list", "label": "lists/createoradd"}
+{"text": "add the item to a list", "label": "lists/createoradd"}
+{"text": "let's play", "label": "play/game"}
+{"text": "please play clash of clans", "label": "play/game"}
+{"text": "find a recipe that uses ground beef and zucchini", "label": "cooking/recipe"}
+{"text": "uh what does the current date happen to be", "label": "datetime/query"}
+{"text": "start the audiobook file for where i left off in a tale of two cities", "label": "play/audiobook"}
+{"text": "can you please download my podcast file available in internet and play it once", "label": "play/podcasts"}
+{"text": "play the twilight book", "label": "play/audiobook"}
+{"text": "convert current time from ist to est", "label": "datetime/convert"}
+{"text": "Play something random from google play", "label": "play/music"}
+{"text": "who wrote the song that is playing", "label": "music/query"}
+{"text": "next one please", "label": "play/podcasts"}
+{"text": "play this podcast", "label": "play/podcasts"}
+{"text": "make new list", "label": "lists/createoradd"}
+{"text": "how time is it", "label": "datetime/query"}
+{"text": "tell me about the list", "label": "lists/query"}
+{"text": "please open chess game i would like to play with you", "label": "play/game"}
+{"text": "i want you to play the podcast", "label": "play/podcasts"}
+{"text": "can you start my saved podcast", "label": "play/podcasts"}
+{"text": "tell me how to cook meatballs", "label": "cooking/recipe"}
+{"text": "how to cook crabs", "label": "cooking/recipe"}
+{"text": "do i have coffee on the grocery list", "label": "lists/query"}
+{"text": "i want to see the news", "label": "news/query"}
+{"text": "please create a new list", "label": "lists/createoradd"}
+{"text": "let's hear ninety two point one", "label": "play/radio"}
+{"text": "start playing my most played podcast", "label": "play/podcasts"}
+{"text": "what is on my shopping list today", "label": "lists/query"}
+{"text": "remove the list of apps which started with letter a", "label": "lists/remove"}
+{"text": "resume story", "label": "play/audiobook"}
+{"text": "create a list for today's tasks", "label": "lists/createoradd"}
+{"text": "add something to my list", "label": "lists/createoradd"}
+{"text": "i want to hear radio head please", "label": "play/music"}
+{"text": "tell me updates", "label": "news/query"}
+{"text": "what and how is india's economy at the moment", "label": "news/query"}
+{"text": "what the singer meant by the title of the song bohemian rhapsody", "label": "music/query"}
+{"text": "recipe for meal", "label": "cooking/recipe"}
+{"text": "play the jazz station", "label": "play/radio"}
+{"text": "bring up a new shopping list", "label": "lists/createoradd"}
+{"text": "please clean my shopping list", "label": "lists/remove"}
+{"text": "how many hours difference is hong kong from new york city", "label": "datetime/convert"}
+{"text": "find the best rock station near my location and turn it on", "label": "play/radio"}
+{"text": "go to beginning of previous episode", "label": "play/podcasts"}
+{"text": "do i have enough ingredients in my refrigerator", "label": "cooking/recipe"}
+{"text": "repeat this list in random order", "label": "play/music"}
+{"text": "remove item three", "label": "lists/remove"}
+{"text": "delete my grocery list in my notes", "label": "lists/remove"}
+{"text": "jazz could be choice for me", "label": "play/music"}
+{"text": "what groups are listed in my contacts", "label": "lists/query"}
+{"text": "play podcast episode new", "label": "play/podcasts"}
+{"text": "who is singing this song", "label": "music/query"}
+{"text": "resume the two towers", "label": "play/audiobook"}
+{"text": "please play trivial pursuit with me", "label": "play/game"}
+{"text": "i want to hear purple haze", "label": "play/music"}
+{"text": "cnn", "label": "news/query"}
+{"text": "i want to hear program one on lastfm", "label": "play/radio"}
+{"text": "i would like to listen to my audiobook", "label": "play/audiobook"}
+{"text": "from which movie is the song", "label": "music/query"}
+{"text": "lets listen to hunt for read october", "label": "play/audiobook"}
+{"text": "remove pepper from my grocery list", "label": "lists/remove"}
+{"text": "what do i need to make lamb pathia", "label": "cooking/recipe"}
+{"text": "how many teaspoons are in a cup", "label": "cooking/recipe"}
+{"text": "show me the newest podcasts", "label": "play/podcasts"}
+{"text": "continue playing where I left off", "label": "play/audiobook"}
+{"text": "head lines today from news", "label": "news/query"}
+{"text": "play the last radio channel", "label": "play/radio"}
+{"text": "play real racing three game", "label": "play/game"}
+{"text": "start play road rash", "label": "play/game"}
+{"text": "erase spaghetti from list", "label": "lists/remove"}
+{"text": "please find the radio station currently playing howard stern", "label": "play/radio"}
+{"text": "can you tell me what list i have", "label": "lists/query"}
+{"text": "play me the new podcast from npr", "label": "play/podcasts"}
+{"text": "take off this list", "label": "lists/remove"}
+{"text": "play me some melody song", "label": "play/music"}
+{"text": "i need oranges added to my grocery list", "label": "lists/createoradd"}
+{"text": "date in new york", "label": "datetime/query"}
+{"text": "what music genre do i play most", "label": "music/query"}
+{"text": "start a match of chess", "label": "play/game"}
+{"text": "save the information which is provided by aman on this song", "label": "music/likeness"}
+{"text": "speak all items for to day", "label": "lists/query"}
+{"text": "what is the time in geneva", "label": "datetime/query"}
+{"text": "count the number of food items on the list", "label": "lists/query"}
+{"text": "please go to the local sports talk show on the radio", "label": "play/radio"}
+{"text": "i want to read yahoo news", "label": "news/query"}
+{"text": "what are the names of the lists that i have created", "label": "lists/query"}
+{"text": "please proceed to the next available rock song", "label": "music/settings"}
+{"text": "i really enjoy rock and roll", "label": "music/likeness"}
+{"text": "add wash jeans to laundry list", "label": "lists/createoradd"}
+{"text": "please begin clash of clans", "label": "play/game"}
+{"text": "i love anything by elton john", "label": "music/likeness"}
+{"text": "play the next show on podcast", "label": "play/podcasts"}
+{"text": "please read me my current lists", "label": "lists/query"}
+{"text": "what day of the month is next tuesday", "label": "datetime/query"}
+{"text": "what's the news in politics on cnn", "label": "news/query"}
+{"text": "how to make chicken tikka", "label": "cooking/recipe"}
+{"text": "how many items are on my list", "label": "lists/query"}
+{"text": "help me start my kitchen list", "label": "lists/createoradd"}
+{"text": "do you know about this lyrics", "label": "music/query"}
+{"text": "i like this song", "label": "music/likeness"}
+{"text": "hey play the songs from my playlist named good tunes", "label": "play/music"}
+{"text": "delete happy dance playlist", "label": "lists/remove"}
+{"text": "play compassionate cook episode twenty three", "label": "play/podcasts"}
+{"text": "play scabble with me", "label": "play/game"}
+{"text": "play me news radio channel", "label": "play/radio"}
+{"text": "add that song to my playlist", "label": "music/likeness"}
+{"text": "cancel list", "label": "lists/remove"}
+{"text": "make a laundry setting for the volume at twenty", "label": "music/settings"}
+{"text": "resuming playing my current audio book", "label": "play/audiobook"}
+{"text": "remove mike stein from contacts list", "label": "lists/remove"}
+{"text": "please show my list", "label": "lists/query"}
+{"text": "erase shopping list", "label": "lists/remove"}
+{"text": "start radio", "label": "play/radio"}
+{"text": "read me some more deadly death killers", "label": "play/audiobook"}
+{"text": "how long do i roast chicken breasts", "label": "cooking/recipe"}
+{"text": "tell me what is song is playing now", "label": "music/query"}
+{"text": "have there been updates on abortion law", "label": "news/query"}
+{"text": "please convert the time of here at nine pm to brasil time zone", "label": "datetime/convert"}
+{"text": "play hot ninety seven", "label": "play/radio"}
+{"text": "please delete bananas from my shopping list", "label": "lists/remove"}
+{"text": "i need to know how to make stuffed peppers", "label": "cooking/recipe"}
+{"text": "delete list for groceries", "label": "lists/remove"}
+{"text": "add this song to my music", "label": "music/likeness"}
+{"text": "i challenge you to a game", "label": "play/game"}
+{"text": "play tonic", "label": "play/music"}
+{"text": "please delete what i just typed", "label": "lists/remove"}
+{"text": "rewind button", "label": "play/podcasts"}
+{"text": "get the duet game", "label": "play/game"}
+{"text": "could you tell me what time it is", "label": "datetime/query"}
+{"text": "headlines from dhaka tribune", "label": "news/query"}
+{"text": "remove the bank transaction list", "label": "lists/remove"}
+{"text": "delete the following list", "label": "lists/remove"}
+{"text": "how do i bake a potato", "label": "cooking/recipe"}
+{"text": "listen to this song", "label": "music/query"}
+{"text": "play any song of arijit singh", "label": "play/music"}
+{"text": "play the barney theme song", "label": "play/music"}
+{"text": "how about the latest news", "label": "news/query"}
+{"text": "please set the equalizer in the party mode", "label": "music/settings"}
+{"text": "resume my audiobook from the beginning of the last chapter i started", "label": "play/audiobook"}
+{"text": "what is the date for next tuesday", "label": "datetime/query"}
+{"text": "play all third day", "label": "play/music"}
+{"text": "save this songs genre for me", "label": "music/likeness"}
+{"text": "this is the best band ever", "label": "music/likeness"}
+{"text": "i would like to continue my audiobook", "label": "play/audiobook"}
+{"text": "play true love next", "label": "play/music"}
+{"text": "please put this playlist on shuffle", "label": "music/settings"}
+{"text": "let's play tic tac toe", "label": "play/game"}
+{"text": "i want to know the latest local news of the city", "label": "news/query"}
+{"text": "resume audio", "label": "play/audiobook"}
+{"text": "what is the difference between bake and broil", "label": "cooking/recipe"}
+{"text": "clear all from my iphone", "label": "lists/remove"}
+{"text": "whats on your list right now", "label": "lists/query"}
+{"text": "add my opinion to this song great", "label": "music/likeness"}
+{"text": "what ingredients do i need for tomato soup", "label": "cooking/recipe"}
+{"text": "can you please change the time zone to us", "label": "datetime/convert"}
+{"text": "what is the name of the singer", "label": "music/query"}
+{"text": "what's the name of the piece you are playing", "label": "music/query"}
+{"text": "what is my list", "label": "lists/query"}
+{"text": "go back to the midnight series", "label": "play/audiobook"}
+{"text": "switch on the radio", "label": "play/radio"}
+{"text": "today is which date", "label": "datetime/query"}
+{"text": "is this song ed sheeran", "label": "music/query"}
+{"text": "play be warned by tech n9ne", "label": "play/music"}
+{"text": "what day does easter fall on", "label": "datetime/query"}
+{"text": "play sam harris audiobook", "label": "play/audiobook"}
+{"text": "i want to hear this week's midweek motorsport", "label": "play/radio"}
+{"text": "play this audiobook", "label": "play/audiobook"}
+{"text": "play latest reason podcast", "label": "play/podcasts"}
+{"text": "play me a random audio book that has to do with love", "label": "play/audiobook"}
+{"text": "make sure bread is on my grocery list", "label": "lists/query"}
+{"text": "now it's five thirty pm in india what about the time in ivory coast", "label": "datetime/convert"}
+{"text": "give me the shopping list", "label": "lists/query"}
+{"text": "tell me the preparation method for chicken sixty five", "label": "cooking/recipe"}
+{"text": "go to next episode", "label": "play/podcasts"}
+{"text": "play hopsin from my latest playlist", "label": "play/music"}
+{"text": "check item five on my to do list", "label": "lists/query"}
+{"text": "whats the schedule for today", "label": "lists/query"}
+{"text": "want to play a game", "label": "play/game"}
+{"text": "rj raunak programme play on ninety two point seven fm", "label": "play/radio"}
+{"text": "tell me the name of this song", "label": "music/query"}
+{"text": "evaluate today's schedule", "label": "lists/query"}
+{"text": "move to next episode", "label": "play/podcasts"}
+{"text": "start podcast", "label": "play/podcasts"}
+{"text": "find my shopping list and delete it", "label": "lists/remove"}
+{"text": "tell me how to cook pasta", "label": "cooking/recipe"}
+{"text": "remove cheese from my list", "label": "lists/remove"}
+{"text": "repeat the last song", "label": "music/settings"}
+{"text": "please resume this playback in audiobook", "label": "play/audiobook"}
+{"text": "play my country playlist", "label": "play/music"}
+{"text": "what's in my list of tasks", "label": "lists/query"}
+{"text": "give me the headline news", "label": "news/query"}
+{"text": "remove my shopping list", "label": "lists/remove"}
+{"text": "start the gilmore guys", "label": "play/podcasts"}
+{"text": "give me recipes", "label": "cooking/recipe"}
+{"text": "what is my most played song", "label": "music/query"}
+{"text": "i love this music can you please save this to my dance playlist and remember that i like it", "label": "music/likeness"}
+{"text": "what is this music called", "label": "music/query"}
+{"text": "tell me the details of the music playing", "label": "music/query"}
+{"text": "delete my to do list", "label": "lists/remove"}
+{"text": "play yesterday's hot ninety seven morning show", "label": "play/radio"}
+{"text": "initiate celine dion music", "label": "play/music"}
+{"text": "add rice on the list", "label": "lists/createoradd"}
+{"text": "annie could you please search the internet and play the videos for cooking italian food", "label": "cooking/recipe"}
+{"text": "create a new list please", "label": "lists/createoradd"}
+{"text": "i want to cook italian dishes show me some", "label": "cooking/recipe"}
+{"text": "what time will it be locally at nine am bangalore india time", "label": "datetime/convert"}
+{"text": "save the opinion that i just posted to this song", "label": "music/likeness"}
+{"text": "can you tell me the time in new york", "label": "datetime/query"}
+{"text": "vitaly channel", "label": "play/podcasts"}
+{"text": "what is time now in california", "label": "datetime/query"}
+{"text": "let's play checkers", "label": "play/game"}
+{"text": "set a classic music", "label": "play/music"}
+{"text": "show me the recipe of tandoori chicken", "label": "cooking/recipe"}
+{"text": "cooking recipe", "label": "cooking/recipe"}
+{"text": "i need to make a list of bills that are due", "label": "lists/createoradd"}
+{"text": "ally please play pandora radio", "label": "play/radio"}
+{"text": "play anything by cat stevens and i'll be happy", "label": "play/music"}
+{"text": "make a new list of dog breeds", "label": "lists/createoradd"}
+{"text": "what time is it on the east coast of the united states", "label": "datetime/query"}
+{"text": "create a new list for school supplies", "label": "lists/createoradd"}
+{"text": "play my favorite station", "label": "play/radio"}
+{"text": "continue from where we left off in divergent", "label": "play/audiobook"}
+{"text": "get me fresh news", "label": "news/query"}
+{"text": "what is the current state of brexit negotiations", "label": "news/query"}
+{"text": "start reading that alan partridge book", "label": "play/audiobook"}
+{"text": "save this song", "label": "music/likeness"}
+{"text": "make a list of all the clothing range available on ralph and lauren", "label": "lists/query"}
+{"text": "i want you to go to hot one hundred and five on the radio", "label": "play/radio"}
+{"text": "please tell me the current date", "label": "datetime/query"}
+{"text": "download the latest folk songs having rating of four star or above and play all without shuffle", "label": "play/music"}
+{"text": "is today march sixth", "label": "datetime/query"}
+{"text": "play it after five minutes", "label": "play/audiobook"}
+{"text": "lets play poker", "label": "play/game"}
+{"text": "can you give me the time in new delhi", "label": "datetime/query"}
+{"text": "play closer music track", "label": "play/music"}
+{"text": "play football news from radio one", "label": "play/radio"}
+{"text": "remove my list of contacts from work", "label": "lists/remove"}
+{"text": "google find and play florida georgia line the one with nelly", "label": "play/music"}
+{"text": "time difference between uk and us", "label": "datetime/convert"}
+{"text": "i am ready to hear the next episode of podcast", "label": "play/podcasts"}
+{"text": "start from last time on my audio book", "label": "play/audiobook"}
+{"text": "date today", "label": "datetime/query"}
+{"text": "what to do lists do i have", "label": "lists/query"}
+{"text": "play next episode of harry potter by j. k. rowling", "label": "play/audiobook"}
+{"text": "start next episode playing", "label": "play/podcasts"}
+{"text": "move to the next episode of hipsterhood", "label": "play/podcasts"}
+{"text": "play the romantic songs", "label": "play/music"}
+{"text": "what week of the year does the summer season start", "label": "datetime/query"}
+{"text": "show me what day the thirty first is on", "label": "datetime/query"}
+{"text": "could you please tell me what time is in singapore", "label": "datetime/query"}
+{"text": "can you add cups to my grocery list", "label": "lists/createoradd"}
+{"text": "do i have anything on my to do list", "label": "lists/query"}
+{"text": "what's the recipe for fish soup", "label": "cooking/recipe"}
+{"text": "name the lists available", "label": "lists/query"}
+{"text": "start the league of legends game", "label": "play/game"}
+{"text": "give me the headlines from sky news", "label": "news/query"}
+{"text": "march tenth lands on what day of the week", "label": "datetime/query"}
+{"text": "delete item four", "label": "lists/remove"}
+{"text": "delete the famous actors list", "label": "lists/remove"}
+{"text": "please repeat the current song is being played", "label": "music/settings"}
+{"text": "resume mind reading book", "label": "play/audiobook"}
+{"text": "play one thousand and thirty seven fm", "label": "play/radio"}
+{"text": "this song is amazing is not it", "label": "music/likeness"}
+{"text": "bring up papa pear saga", "label": "play/game"}
+{"text": "what date is today", "label": "datetime/query"}
+{"text": "give me a classical radio station", "label": "play/radio"}
+{"text": "what temperature do you bake a potato", "label": "cooking/recipe"}
+{"text": "keep playing the episodes in order", "label": "play/podcasts"}
+{"text": "what is the current day month and year", "label": "datetime/query"}
+{"text": "latest updates", "label": "news/query"}
+{"text": "what are the news stories on the cnn website", "label": "news/query"}
+{"text": "nine hundred and ninety nine fm is currently playing what music", "label": "music/query"}
+{"text": "rewind the episode of podcast", "label": "play/podcasts"}
+{"text": "please run this game", "label": "play/game"}
+{"text": "can you find my lists", "label": "lists/query"}
+{"text": "create packing checklist", "label": "lists/createoradd"}
+{"text": "i'd like you to remember that i like this song", "label": "music/likeness"}
+{"text": "start playing fm ninety six point five when it is one pm", "label": "play/radio"}
+{"text": "what's on my todo list", "label": "lists/query"}
+{"text": "lists i have", "label": "lists/query"}
+{"text": "please put radio in shuffle", "label": "music/settings"}
+{"text": "put the last song on repeat", "label": "music/settings"}
+{"text": "please find me the pe most recent news on", "label": "news/query"}
+{"text": "google search the topic", "label": "news/query"}
+{"text": "remove eggs for the shopping list", "label": "lists/remove"}
+{"text": "how long should i cook chicken for", "label": "cooking/recipe"}
+{"text": "what music is playing now nine hundred and ninety nine fm", "label": "music/query"}
+{"text": "tell me the name of the composer", "label": "music/query"}
+{"text": "when was this song released", "label": "music/query"}
+{"text": "is it Monday today", "label": "datetime/query"}
+{"text": "tag this song with five stars", "label": "music/likeness"}
+{"text": "what lists are open", "label": "lists/query"}
+{"text": "is there any new environmental news", "label": "news/query"}
+{"text": "what song do i play most", "label": "music/query"}
+{"text": "what is latest news about this world", "label": "news/query"}
+{"text": "what's on my list", "label": "lists/query"}
+{"text": "i need you to start fm eight hundred and ninety radio channel", "label": "play/radio"}
+{"text": "change the time zone from irish time zone to moscow time zone", "label": "datetime/convert"}
+{"text": "start a new shopping list", "label": "lists/createoradd"}
+{"text": "let's play nine ball against me adapt with my skill level always let me win", "label": "play/game"}
+{"text": "what are my favorite types of music", "label": "music/query"}
+{"text": "when did pop it like it's hot come out", "label": "music/query"}
+{"text": "The latest climate and weather news", "label": "news/query"}
+{"text": "please add this song to work out playlist", "label": "music/settings"}
+{"text": "go to favourite list", "label": "play/podcasts"}
+{"text": "i need you to put walk the dog on my list to do", "label": "lists/createoradd"}
+{"text": "what's going on in the world these days", "label": "news/query"}
+{"text": "start new list", "label": "lists/createoradd"}
+{"text": "delete last item listed", "label": "lists/remove"}
+{"text": "let's play workout playlist", "label": "play/music"}
+{"text": "clear the list", "label": "lists/remove"}
+{"text": "what is available in your stock of lists", "label": "lists/query"}
+{"text": "current news cnn", "label": "news/query"}
+{"text": "play musician play list", "label": "play/podcasts"}
+{"text": "save this channel on pandora please", "label": "music/likeness"}
+{"text": "this is my favorite song", "label": "music/likeness"}
+{"text": "play all songs by metallica on shuffle", "label": "play/music"}
+{"text": "convert one oh two from gtm four thirty to g. m. t. one thirty", "label": "datetime/convert"}
+{"text": "can you forward an episode in the podcast", "label": "play/podcasts"}
+{"text": "what date is easter sunday this year", "label": "datetime/query"}
+{"text": "what's the time in dubai", "label": "datetime/query"}
+{"text": "tell me the artist name", "label": "music/query"}
+{"text": "super song", "label": "music/likeness"}
+{"text": "please add oranges to my grocery list", "label": "lists/createoradd"}
+{"text": "what do i need to get done today", "label": "lists/query"}
+{"text": "open audio book history of rome", "label": "play/audiobook"}
+{"text": "play lady now", "label": "play/music"}
+{"text": "add coffee to the grocery list", "label": "lists/createoradd"}
+{"text": "what is the list type", "label": "lists/query"}
+{"text": "let's play never have i ever", "label": "play/game"}
+{"text": "run indian folk song", "label": "play/music"}
+{"text": "start my playlist on i heart radio", "label": "play/radio"}
+{"text": "how do i make meatloaf", "label": "cooking/recipe"}
+{"text": "i want to hear chopin now", "label": "play/music"}
+{"text": "learn to cut potatoes correctly", "label": "cooking/recipe"}
+{"text": "turn on radio", "label": "play/radio"}
+{"text": "i like a song sing by arijit singh", "label": "music/likeness"}
+{"text": "new list", "label": "lists/createoradd"}
+{"text": "play any pop fm channel", "label": "play/radio"}
+{"text": "i want to see the previous episode", "label": "play/podcasts"}
+{"text": "play most recent podcast upload", "label": "play/podcasts"}
+{"text": "email me the lyrics to this song", "label": "music/query"}
+{"text": "trash the open list google", "label": "lists/remove"}
+{"text": "play me a podcast", "label": "play/podcasts"}
+{"text": "please give me detail of o zaalima song", "label": "music/query"}
+{"text": "hackernews", "label": "news/query"}
+{"text": "please delete list titled kickball", "label": "lists/remove"}
+{"text": "let's play a game how about tic tac toe", "label": "play/game"}
+{"text": "play purple haze", "label": "play/music"}
+{"text": "can you play hunt for red october", "label": "play/audiobook"}
+{"text": "show the list that are available with numbers", "label": "lists/query"}
+{"text": "whats today", "label": "datetime/query"}
+{"text": "is there room on my grocery list for an extra item", "label": "lists/createoradd"}
+{"text": "remove the list please", "label": "lists/remove"}
+{"text": "find a recipe for homemade bread", "label": "cooking/recipe"}
+{"text": "how do i braise a pork loin", "label": "cooking/recipe"}
+{"text": "i'm really enjoying this song", "label": "music/likeness"}
+{"text": "play foke", "label": "play/music"}
+{"text": "pick up we left off on battle royale", "label": "play/audiobook"}
+{"text": "headline news for texas", "label": "news/query"}
+{"text": "please show me the list that i have", "label": "lists/query"}
+{"text": "let me know today's date in american format", "label": "datetime/query"}
+{"text": "do i have banana in my shopping list", "label": "lists/query"}
+{"text": "play stuff you should know", "label": "play/podcasts"}
+{"text": "include an item to a list", "label": "lists/createoradd"}
+{"text": "please play the radio", "label": "play/radio"}
+{"text": "please remove tricep pulldown from my workout list", "label": "lists/remove"}
+{"text": "play music i have liked", "label": "play/music"}
+{"text": "what album is this song on", "label": "music/query"}
+{"text": "please play michael jackson album", "label": "play/music"}
+{"text": "can you start fm eight hundred and ninety radio channel", "label": "play/radio"}
+{"text": "load a fun game that i can play with you", "label": "play/game"}
+{"text": "give me the latest updates", "label": "news/query"}
+{"text": "how to make fried rice", "label": "cooking/recipe"}
+{"text": "can you pause the audio", "label": "play/audiobook"}
+{"text": "the song playing now is released by which artist", "label": "music/query"}
+{"text": "lets play tic tac toe", "label": "play/game"}
+{"text": "what is on my playlist", "label": "lists/query"}
+{"text": "can you eat sweet potato greens raw", "label": "cooking/recipe"}
+{"text": "do you want to play solitaire", "label": "play/game"}
+{"text": "what did she just sing", "label": "music/query"}
+{"text": "what is the time difference between here and there", "label": "datetime/convert"}
+{"text": "play animal farm", "label": "play/audiobook"}
+{"text": "stop audiobook", "label": "play/audiobook"}
+{"text": "resume my audiobook where we paused last", "label": "play/audiobook"}
+{"text": "play power one oh two point three", "label": "play/radio"}
+{"text": "pause the audiobook", "label": "play/audiobook"}
+{"text": "please add note to this file good tune", "label": "music/likeness"}
+{"text": "open fishdom game", "label": "play/game"}
+{"text": "open note pad", "label": "lists/query"}
+{"text": "search for the latest news about iphone", "label": "news/query"}
+{"text": "please play red fm", "label": "play/radio"}
+{"text": "show me the latest news from the un", "label": "news/query"}
+{"text": "what are the news notification", "label": "news/query"}
+{"text": "what is latest on the recent events happening right now", "label": "news/query"}
+{"text": "what's that the album is current music from", "label": "music/query"}
+{"text": "find me info on cars", "label": "news/query"}
+{"text": "what does the list contain", "label": "lists/query"}
+{"text": "get rid of tax list from nineteen ninety", "label": "lists/remove"}
+{"text": "what is the current time in delhi", "label": "datetime/query"}
+{"text": "produce a new register", "label": "lists/createoradd"}
+{"text": "note current song as awesome please", "label": "music/likeness"}
+{"text": "please lower the shuffle rate of hips don't lie", "label": "music/settings"}
+{"text": "show me how to cook a recipe", "label": "cooking/recipe"}
+{"text": "did i make a shopping list", "label": "lists/query"}
+{"text": "remove grocery list", "label": "lists/remove"}
+{"text": "could you harvest the crops in farmvile", "label": "play/game"}
+{"text": "start up bejeweled", "label": "play/game"}
+{"text": "what is the temperature i am supposed to cook this lasagna at", "label": "cooking/recipe"}
+{"text": "play all the programs pertaining to rock songs on the radio", "label": "play/radio"}
+{"text": "nice lyrics", "label": "music/likeness"}
+{"text": "make a list of numbers for me", "label": "lists/createoradd"}
+{"text": "pull up the shopping list", "label": "lists/query"}
+{"text": "what is the time in india when the time in us is twelve pm", "label": "datetime/convert"}
+{"text": "what's on the list", "label": "lists/query"}
+{"text": "start my most recently played podcast", "label": "play/podcasts"}
+{"text": "what genre is this", "label": "music/query"}
+{"text": "resume last played audiobook", "label": "play/audiobook"}
+{"text": "turn on my michael jackson playlist", "label": "play/music"}
+{"text": "is anything different today about blank", "label": "news/query"}
+{"text": "remove events from my list", "label": "lists/remove"}
+{"text": "what do i need to make pot roast", "label": "cooking/recipe"}
+{"text": "shuffle song", "label": "music/settings"}
+{"text": "what is the latest news from cbs", "label": "news/query"}
+{"text": "play any country music station", "label": "play/radio"}
+{"text": "remove the list of person starting from letter m in my contact list", "label": "lists/remove"}
+{"text": "can you please tell me what i have on my list", "label": "lists/query"}
+{"text": "what is the name of this song", "label": "music/query"}
+{"text": "what is the recipe for apple pie", "label": "cooking/recipe"}
+{"text": "check for recent news stories on msnbc", "label": "news/query"}
+{"text": "i don't want eggs", "label": "lists/remove"}
+{"text": "tell me what is in your list", "label": "lists/query"}
+{"text": "turn off shuffle", "label": "music/settings"}
+{"text": "lets go nazi hunting", "label": "play/game"}
+{"text": "what music do i like", "label": "music/query"}
+{"text": "show current track in music player", "label": "music/settings"}
+{"text": "continue onto the next podcast", "label": "play/podcasts"}
+{"text": "what are the new rock radio stations", "label": "play/radio"}
+{"text": "move to the next song in the list", "label": "music/settings"}
+{"text": "give me the time in phoenix az", "label": "datetime/query"}
+{"text": "pause resume", "label": "play/audiobook"}
+{"text": "delete the item two from the list", "label": "lists/remove"}
+{"text": "what is today's date", "label": "datetime/query"}
+{"text": "could you open my list app and check for groceries please", "label": "lists/query"}
+{"text": "you like the song", "label": "music/likeness"}
+{"text": "i like the songs of yeshudas please play it", "label": "music/likeness"}
+{"text": "play the breakfast club", "label": "play/radio"}
+{"text": "what is the time difference between here and japan", "label": "datetime/convert"}
+{"text": "play for me american idol on television", "label": "play/radio"}
+{"text": "display volume strength on current track", "label": "music/settings"}
+{"text": "read that back", "label": "play/audiobook"}
+{"text": "please show me detail of previous played song", "label": "music/query"}
+{"text": "get sia's cheap thrills ready to play next", "label": "play/music"}
+{"text": "please show me lists", "label": "lists/query"}
+{"text": "how do i make tuna casserole from scratch", "label": "cooking/recipe"}
+{"text": "open music player settings", "label": "music/settings"}
+{"text": "can you convert my time zone to the time zone i'm currently in", "label": "datetime/convert"}
+{"text": "make a note please i like modern alternative rock music", "label": "music/likeness"}
+{"text": "what is the nine am cst to est", "label": "datetime/convert"}
+{"text": "great song for the commute", "label": "music/likeness"}
+{"text": "play a song that will make me smile", "label": "play/music"}
+{"text": "delete list blank", "label": "lists/remove"}
+{"text": "play melody songs", "label": "play/music"}
+{"text": "will you please play a podcast", "label": "play/podcasts"}
+{"text": "open pandora app", "label": "play/radio"}
+{"text": "what food is good", "label": "cooking/recipe"}
+{"text": "any local news stories for my home city", "label": "news/query"}
+{"text": "who is the artist of the song playing now", "label": "music/query"}
+{"text": "hold", "label": "play/audiobook"}
+{"text": "new item for list", "label": "lists/createoradd"}
+{"text": "launch game", "label": "play/game"}
+{"text": "take milk off my grocery list", "label": "lists/remove"}
+{"text": "what lists do i have queried", "label": "lists/query"}
+{"text": "start dune from where i left off", "label": "play/audiobook"}
+{"text": "find me a recipe for chicken noodle soup", "label": "cooking/recipe"}
+{"text": "i want the music to be saved can you do it for me", "label": "music/likeness"}
+{"text": "what's next on the list", "label": "lists/query"}
+{"text": "i want to hear tum hi ho next", "label": "play/music"}
+{"text": "add new item to list", "label": "lists/createoradd"}
+{"text": "grocery list add eggs", "label": "lists/createoradd"}
+{"text": "play music by taylor swift", "label": "play/music"}
+{"text": "time in chicago", "label": "datetime/query"}
+{"text": "please play me a song from my favourite list", "label": "play/music"}
+{"text": "let's hear some indie rock okay", "label": "play/music"}
+{"text": "what is eastern standard time right noe", "label": "datetime/query"}
+{"text": "turn on my pandora radio", "label": "play/radio"}
+{"text": "what does the clock say", "label": "datetime/query"}
+{"text": "play sam harris please", "label": "play/radio"}
+{"text": "how do i deglaze a pan", "label": "cooking/recipe"}
+{"text": "what music do i prefer", "label": "music/query"}
+{"text": "find list in my pda", "label": "lists/query"}
+{"text": "rate this song to the maximum", "label": "music/likeness"}
+{"text": "send this song to my favorites", "label": "music/likeness"}
+{"text": "play game", "label": "play/game"}
+{"text": "search for the best spagetti recipe", "label": "cooking/recipe"}
+{"text": "delete this item", "label": "lists/remove"}
+{"text": "can you pause and rewind the audio then resume", "label": "play/audiobook"}
+{"text": "read the list", "label": "lists/query"}
+{"text": "please play some songs for kids", "label": "play/radio"}
+{"text": "play the latest seahawks podcast", "label": "play/podcasts"}
+{"text": "create a new to do list", "label": "lists/createoradd"}
+{"text": "what is the news about terrorist attack in afghanistan", "label": "news/query"}
+{"text": "please find all name start with alphabetic of g and create a list", "label": "lists/createoradd"}
+{"text": "tell me the time", "label": "datetime/query"}
+{"text": "play me an upbeat song through your speakers", "label": "play/music"}
+{"text": "play my playlist", "label": "play/music"}
+{"text": "please play next episode of bbc history podcast", "label": "play/podcasts"}
+{"text": "what song do i listen to the most", "label": "music/query"}
+{"text": "add juice to my grocery list", "label": "lists/createoradd"}
+{"text": "read list for me please", "label": "lists/query"}
+{"text": "start a game and play with me", "label": "play/game"}
+{"text": "usa today headlines", "label": "news/query"}
+{"text": "please keep tabs on how the presidential debates are going", "label": "news/query"}
+{"text": "the song touches my heart", "label": "music/likeness"}
+{"text": "i want to listen jazz", "label": "play/music"}
+{"text": "want to play a game of trivia", "label": "play/game"}
+{"text": "who sings the song that i am listening to right now", "label": "music/query"}
+{"text": "resume inkheart", "label": "play/audiobook"}
+{"text": "delete that item from my list", "label": "lists/remove"}
+{"text": "save chhana mereya song in my playlist", "label": "music/likeness"}
+{"text": "in five sentences let me know the procedure of making thanksgiving turkey", "label": "cooking/recipe"}
+{"text": "what should i make for dinner", "label": "cooking/recipe"}
+{"text": "tell me items that are on my shopping list", "label": "lists/query"}
+{"text": "how long should i cook a hamburger on each side", "label": "cooking/recipe"}
+{"text": "please delete the shopping list", "label": "lists/remove"}
+{"text": "check the current playing music title", "label": "music/query"}
+{"text": "yes i like to save opinion on song playing and which player support that song", "label": "music/likeness"}
+{"text": "open radio frequency ninety nine point five", "label": "play/radio"}
+{"text": "add that song to my top ten favorites list", "label": "music/likeness"}
+{"text": "remove the grocery list from my active lists", "label": "lists/remove"}
+{"text": "show me the current time", "label": "datetime/query"}
+{"text": "open songs by prince", "label": "play/music"}
+{"text": "this is a good song put it on repeat", "label": "music/likeness"}
+{"text": "give me some bowie", "label": "music/query"}
+{"text": "let me hear my list", "label": "lists/query"}
+{"text": "filter all arijit singh sad song and save or create playlist of sad songs of arijit singh", "label": "music/likeness"}
+{"text": "i want to remove apples from list", "label": "lists/remove"}
+{"text": "i finished my to do list", "label": "lists/query"}
+{"text": "can you put on the chuck palhunik audio book", "label": "play/audiobook"}
+{"text": "skip ahead to the next podcast", "label": "play/podcasts"}
+{"text": "play my game", "label": "play/game"}
+{"text": "show latest news about migration", "label": "news/query"}
+{"text": "play football match for myself now", "label": "play/game"}
+{"text": "music change", "label": "music/settings"}
+{"text": "next episode please", "label": "play/podcasts"}
+{"text": "groceries list", "label": "lists/query"}
+{"text": "want to play a game with me", "label": "play/game"}
+{"text": "please share up to the minute details on sprint", "label": "news/query"}
+{"text": "pick up wuthering heights where we left off", "label": "play/audiobook"}
+{"text": "tune into the nearest english fm station", "label": "play/radio"}
+{"text": "it is five forty five am in liverpool what time is now new york", "label": "datetime/convert"}
+{"text": "when it's ten pm here what time is it in brisbane", "label": "datetime/convert"}
+{"text": "what type of music do i enjoy", "label": "music/query"}
+{"text": "play previous episode", "label": "play/podcasts"}
+{"text": "continue pride and prejudice", "label": "play/audiobook"}
+{"text": "what open lists do i have", "label": "lists/query"}
+{"text": "save this song to playlist", "label": "music/likeness"}
+{"text": "save this song in my great songs category", "label": "music/likeness"}
+{"text": "i need to create a new to do list", "label": "lists/createoradd"}
+{"text": "i feel like playing chess can you play that", "label": "play/game"}
+{"text": "if it is four pm in missouri what time is it in london", "label": "datetime/convert"}
+{"text": "notification regarding the new iphone release update", "label": "news/query"}
+{"text": "delete bread from shopping list", "label": "lists/remove"}
+{"text": "include this", "label": "lists/createoradd"}
+{"text": "set notification from world news", "label": "news/query"}
+{"text": "what is the song currently playing", "label": "music/query"}
+{"text": "twenty second april day", "label": "datetime/query"}
+{"text": "given it is four thirty five pm in london what time is it in melbourne", "label": "datetime/convert"}
+{"text": "find me a recipe of spaghetti", "label": "cooking/recipe"}
+{"text": "what are the current lists i have", "label": "lists/query"}
+{"text": "put poker face by lady gaga next in the play queue", "label": "play/music"}
+{"text": "let me listen to the latest lovett or leave it podcast", "label": "play/podcasts"}
+{"text": "please tell me the news", "label": "news/query"}
+{"text": "please clear the list", "label": "lists/remove"}
+{"text": "find me the local npr station", "label": "play/radio"}
+{"text": "get me resume of newest release audio book", "label": "play/audiobook"}
+{"text": "i need you to convert nine am cst to est time", "label": "datetime/convert"}
+{"text": "find the right amount of cinnamon for the garam masala", "label": "cooking/recipe"}
+{"text": "i would like to know the latest from nbc news", "label": "news/query"}
+{"text": "if it's ten pm in california what time is it in alabama", "label": "datetime/convert"}
+{"text": "change my clock to central time zone from my current zone", "label": "datetime/convert"}
+{"text": "begin playing the audiobook beauty and the beast", "label": "play/audiobook"}
+{"text": "what are all the lists i have available", "label": "lists/query"}
+{"text": "play jazz from jennifer's latest album", "label": "play/music"}
+{"text": "co play game monopoly", "label": "play/game"}
+{"text": "what day of the week is it", "label": "datetime/query"}
+{"text": "go to youtube and play me the best wedding songs collection", "label": "play/music"}
+{"text": "please remove the first list", "label": "lists/remove"}
+{"text": "play bbc radio one", "label": "play/radio"}
+{"text": "what day of the week is the twenty second march", "label": "datetime/query"}
+{"text": "what is recipe", "label": "cooking/recipe"}
+{"text": "i love the songs of micheal jackson can you save some songs of jackson for me", "label": "music/likeness"}
+{"text": "what is the current date time group", "label": "datetime/query"}
+{"text": "change the time in this location to ist", "label": "datetime/convert"}
+{"text": "remove the last item", "label": "lists/remove"}
+{"text": "start a grocery list", "label": "lists/createoradd"}
+{"text": "play the game of thrones audio book from the last chapter i was on", "label": "play/audiobook"}
+{"text": "please remove dallas from my travel itinerary", "label": "lists/remove"}
+{"text": "show me tutorials on cooking food", "label": "cooking/recipe"}
+{"text": "i love hip hop", "label": "music/likeness"}
+{"text": "my all time favorite song is something like this from chainsmokers", "label": "music/likeness"}
+{"text": "i want to cancel the recording i have on the dvr list for this morning", "label": "lists/remove"}
+{"text": "how do you feel after hearing justin bieber's new album", "label": "music/query"}
+{"text": "play next reason podcast", "label": "play/podcasts"}
+{"text": "hi google play me playlist wacky in my gaana application", "label": "play/music"}
+{"text": "resume audiobook playback", "label": "play/audiobook"}
+{"text": "i need help making pancakes", "label": "cooking/recipe"}
+{"text": "what music service has some soul music i can listen to", "label": "music/query"}
+{"text": "play my favourite podcasts", "label": "play/podcasts"}
+{"text": "please don't shuffle songs in music player just playing continuously", "label": "music/settings"}
+{"text": "play i spy with me", "label": "play/game"}
+{"text": "time to hear me some blake shelton", "label": "play/music"}
+{"text": "if it's sunrise in stockholm what time is it in okinawa", "label": "datetime/convert"}
+{"text": "add new items in the remainder list", "label": "lists/createoradd"}
+{"text": "please alert me to the time", "label": "datetime/query"}
+{"text": "pull up my cnn app and read it to me", "label": "news/query"}
+{"text": "please give me the time", "label": "datetime/query"}
+{"text": "i want to play fifa seventeen", "label": "play/game"}
+{"text": "play a pop station on the radio", "label": "play/radio"}
+{"text": "can you tell me whats on my shopping list", "label": "lists/query"}
+{"text": "play happy playlist next", "label": "play/music"}
+{"text": "I love the eternal voice of the singer she is my favourite", "label": "music/likeness"}
+{"text": "recipe for crabmeat", "label": "cooking/recipe"}
+{"text": "i like this song what is it can you please repeat it once", "label": "music/likeness"}
+{"text": "other songs by this artist", "label": "music/query"}
+{"text": "resume the reading of the french lesson", "label": "play/audiobook"}
+{"text": "what music do i usually listen to", "label": "music/query"}
+{"text": "what is mondays actual date", "label": "datetime/query"}
+{"text": "play all by the beatles", "label": "play/music"}
+{"text": "i need the recipe for hot cross buns", "label": "cooking/recipe"}
+{"text": "mention the time in canada now", "label": "datetime/query"}
+{"text": "play music", "label": "play/music"}
+{"text": "play next on podcast", "label": "play/podcasts"}
+{"text": "if it is six am here what time is it in tokyo", "label": "datetime/convert"}
+{"text": "read me the most updated news on bbc", "label": "news/query"}
+{"text": "play rummy", "label": "play/game"}
+{"text": "did i put toothpaste on my pick up list", "label": "lists/query"}
+{"text": "please choose a game that you can play with me", "label": "play/game"}
+{"text": "how do you make sunny side up eggs", "label": "cooking/recipe"}
+{"text": "how to cook that meal", "label": "cooking/recipe"}
+{"text": "what list is available for my favorite music from ed sheeran", "label": "music/query"}
+{"text": "what's happening around the world", "label": "news/query"}
+{"text": "what temperature should the oil be for frying french fries", "label": "cooking/recipe"}
+{"text": "convert usa time in to indian time", "label": "datetime/convert"}
+{"text": "ted talks", "label": "play/podcasts"}
+{"text": "what conducts heat better copper bottomed pots or cast iron", "label": "cooking/recipe"}
+{"text": "forward this one", "label": "play/podcasts"}
+{"text": "what day is easter", "label": "datetime/query"}
+{"text": "open cnn app", "label": "news/query"}
+{"text": "play anything new from my podcast subscriptions", "label": "play/podcasts"}
+{"text": "delete the list", "label": "lists/remove"}
+{"text": "list remove", "label": "lists/remove"}
+{"text": "what are listed", "label": "lists/query"}
+{"text": "tell me the artist of this song", "label": "music/query"}
+{"text": "boiled", "label": "cooking/recipe"}
+{"text": "look up news articles about trump", "label": "news/query"}
+{"text": "please play the early franks sinatra stuff i have", "label": "play/music"}
+{"text": "title of song", "label": "music/query"}
+{"text": "tell me my music likes", "label": "music/query"}
+{"text": "set radio", "label": "play/radio"}
+{"text": "launch super mario", "label": "play/game"}
+{"text": "i want to hear surfin usa", "label": "play/music"}
+{"text": "repeat the last song again", "label": "music/settings"}
+{"text": "shuffle this playlist", "label": "music/settings"}
+{"text": "please play the song games by disturbed", "label": "play/music"}
+{"text": "update me on the standing rock protest", "label": "news/query"}
+{"text": "what's an easy recipe to cook for food", "label": "cooking/recipe"}
+{"text": "tell me starting phrase of this music", "label": "music/query"}
+{"text": "lets hear it from fm ninety six point five", "label": "play/radio"}
+{"text": "play episode ten in the podcast", "label": "play/podcasts"}
+{"text": "what kind of music do you think i like", "label": "music/query"}
+{"text": "play the scarlet letter", "label": "play/audiobook"}
+{"text": "start my jazz playlist", "label": "play/music"}
+{"text": "what's the news in politics", "label": "news/query"}
+{"text": "play radio disney", "label": "play/radio"}
+{"text": "i like alt rock music", "label": "music/likeness"}
+{"text": "please check my playlists for jazz music", "label": "music/settings"}
+{"text": "what song is playing on windows media player", "label": "music/query"}
+{"text": "celeb news", "label": "news/query"}
+{"text": "whats happening in football today", "label": "news/query"}
+{"text": "play old", "label": "play/radio"}
+{"text": "play the latest games", "label": "play/game"}
+{"text": "please delete the list", "label": "lists/remove"}
+{"text": "please rate this song five stars please", "label": "music/likeness"}
+{"text": "play chess with me please", "label": "play/game"}
+{"text": "play magic run after thirty min", "label": "play/audiobook"}
+{"text": "how about you save this music", "label": "music/likeness"}
+{"text": "make me a new checklist", "label": "lists/createoradd"}
+{"text": "resume audiobook please", "label": "play/audiobook"}
+{"text": "show me what time it is", "label": "datetime/query"}
+{"text": "i want to listen to the podcast of the super bowl this past year", "label": "play/podcasts"}
+{"text": "i have my clothes list", "label": "lists/query"}
+{"text": "play my morning playlist", "label": "play/music"}
+{"text": "how do i steam rice", "label": "cooking/recipe"}
+{"text": "was this song in the top twenty", "label": "music/query"}
+{"text": "please play forward episode in quantico", "label": "play/podcasts"}
+{"text": "add apples to shopping list", "label": "lists/createoradd"}
+{"text": "freezing", "label": "cooking/recipe"}
+{"text": "what is in my favorites music folder", "label": "music/likeness"}
+{"text": "please play podcasts on science", "label": "play/podcasts"}
+{"text": "start creating a new list", "label": "lists/createoradd"}
+{"text": "kenny roger's lady play", "label": "play/music"}
+{"text": "play my latest podcast", "label": "play/podcasts"}
+{"text": "play album audiobook", "label": "play/audiobook"}
+{"text": "can save this music in my playlist", "label": "music/likeness"}
+{"text": "take grocery buying off of the list", "label": "lists/remove"}
+{"text": "please open my fm radio and play nine hundred and eighty seven", "label": "play/radio"}
+{"text": "tell me the news about jallikattu in tamil nadu", "label": "news/query"}
+{"text": "add a wrist watch to the shopping list", "label": "lists/createoradd"}
+{"text": "add shopping to my to do list", "label": "lists/createoradd"}
+{"text": "can you tell me what the items on my grocery list are", "label": "lists/query"}
+{"text": "read to me", "label": "play/audiobook"}
+{"text": "people canceling iowa vacations over congressman's words", "label": "news/query"}
+{"text": "delete out item", "label": "lists/remove"}
+{"text": "what time is it in singapore", "label": "datetime/query"}
+{"text": "can you start ryan seacrest", "label": "play/radio"}
+{"text": "i enjoy music", "label": "music/likeness"}
+{"text": "Play my favorite game by name naughty dog", "label": "play/game"}
+{"text": "how do you pan sear a porterhouse steak", "label": "cooking/recipe"}
+{"text": "how do you make pasta", "label": "cooking/recipe"}
+{"text": "how do i cook rice", "label": "cooking/recipe"}
+{"text": "get me some radio music from kamp fm", "label": "play/radio"}
+{"text": "show me the time", "label": "datetime/query"}
+{"text": "who sings this song", "label": "music/query"}
+{"text": "what day today", "label": "datetime/query"}
+{"text": "add car service to my list of things to do today", "label": "lists/createoradd"}
+{"text": "next podcast", "label": "play/podcasts"}
+{"text": "please delete this item", "label": "lists/remove"}
+{"text": "do i have anything on the list", "label": "lists/query"}
+{"text": "put the song sung by shreya at the top", "label": "play/music"}
+{"text": "play the god of small things", "label": "play/audiobook"}
+{"text": "what's still on the list", "label": "lists/query"}
+{"text": "hey play crazy by britney spears", "label": "play/music"}
+{"text": "start playing american gods where i last stopped", "label": "play/audiobook"}
+{"text": "play radio station", "label": "play/radio"}
+{"text": "remove a list of accessories purchase last week", "label": "lists/remove"}
+{"text": "what genre is this song in", "label": "music/query"}
+{"text": "play audiobook of planets", "label": "play/audiobook"}
+{"text": "find apple pie recipe", "label": "cooking/recipe"}
+{"text": "how long should i cook a steak to be medium", "label": "cooking/recipe"}
+{"text": "angry bird play", "label": "play/game"}
+{"text": "make my collection mostly pop with a good bit of psychedelia", "label": "play/music"}
+{"text": "what is the time difference between india and ivory coast", "label": "datetime/convert"}
+{"text": "what list did i make today", "label": "lists/query"}
+{"text": "i do have a to do list for today don't i", "label": "lists/query"}
+{"text": "queue up ymca", "label": "play/music"}
+{"text": "what is on this list", "label": "lists/query"}
+{"text": "make a new list for me", "label": "lists/createoradd"}
+{"text": "what is happening in the world news", "label": "news/query"}
+{"text": "find the list", "label": "lists/query"}
+{"text": "remind me to order more soap", "label": "lists/createoradd"}
+{"text": "what can i cook with broccoli and chicken", "label": "cooking/recipe"}
+{"text": "find apple on list and remove", "label": "lists/remove"}
+{"text": "hey what's the current time in austin", "label": "datetime/query"}
+{"text": "check my list", "label": "lists/query"}
+{"text": "npr ted talks", "label": "play/podcasts"}
+{"text": "list to do", "label": "lists/query"}
+{"text": "play all the latest pop songs", "label": "play/music"}
+{"text": "what's happening in world news today", "label": "news/query"}
+{"text": "what's happening in news express", "label": "news/query"}
+{"text": "find lyrics of this song and save it it is very nice song", "label": "music/likeness"}
+{"text": "add ashley to the wedding invite list", "label": "lists/createoradd"}
+{"text": "open sirius app and play the classical channel", "label": "play/radio"}
+{"text": "play hurt by johnny cash next", "label": "play/music"}
+{"text": "what is today's current date", "label": "datetime/query"}
+{"text": "what is a cookie recipe", "label": "cooking/recipe"}
+{"text": "Add pick up kids from school to my to do list for today", "label": "lists/createoradd"}
+{"text": "todays a lovely day what the date", "label": "datetime/query"}
+{"text": "play checkers with me", "label": "play/game"}
+{"text": "please restart the handmaid's tale", "label": "play/audiobook"}
+{"text": "i want you to delete my shopping list from last month", "label": "lists/remove"}
+{"text": "what news updates are there from news express", "label": "news/query"}
+{"text": "save all of my preferences information specific to songs", "label": "music/likeness"}
+{"text": "what is the time in london", "label": "datetime/query"}
+{"text": "play next doctor who episode", "label": "play/podcasts"}
+{"text": "who's playing this", "label": "music/query"}
+{"text": "select the item", "label": "lists/createoradd"}
+{"text": "can you play monopoly with me", "label": "play/game"}
+{"text": "let's play chess", "label": "play/game"}
+{"text": "may twenty two is my birthdate and i want to know the what day is twenty third may", "label": "datetime/query"}
+{"text": "latest news update", "label": "news/query"}
+{"text": "tell me what is next on my query", "label": "lists/query"}
+{"text": "what are the results of the election", "label": "news/query"}
+{"text": "what are the top stories on cnn", "label": "news/query"}
+{"text": "can you create a new list in the playlist", "label": "lists/createoradd"}
+{"text": "can you please create a list for me", "label": "lists/createoradd"}
+{"text": "Olly save all the songs i have listened to more than once", "label": "music/likeness"}
+{"text": "open up angry birds", "label": "play/game"}
+{"text": "please play program on xmtune", "label": "play/radio"}
+{"text": "find recipe chicken casserole", "label": "cooking/recipe"}
+{"text": "continue playing my audiobook", "label": "play/audiobook"}
+{"text": "please show me today's date", "label": "datetime/query"}
+{"text": "please check and repeat this song one time more", "label": "music/settings"}
+{"text": "create new list for baby names", "label": "lists/createoradd"}
+{"text": "add a movie name to the wish list", "label": "lists/createoradd"}
+{"text": "please change time zone to canada", "label": "datetime/convert"}
+{"text": "the current news", "label": "news/query"}
+{"text": "play radio one", "label": "play/radio"}
+{"text": "how many lists are open", "label": "lists/query"}
+{"text": "what does rice wine go with", "label": "cooking/recipe"}
+{"text": "what music is playing right now", "label": "music/query"}
+{"text": "tell me the current time in san paulo brazil", "label": "datetime/query"}
+{"text": "i want to hear my favorite jazz music genre", "label": "play/music"}
+{"text": "remember this music", "label": "music/likeness"}
+{"text": "how much meat should i buy to serve ten people", "label": "cooking/recipe"}
+{"text": "play super mario brothers game with me", "label": "play/game"}
+{"text": "this song is composed by whom", "label": "music/query"}
+{"text": "tell me about the latest sports news", "label": "news/query"}
+{"text": "how do i make cookies", "label": "cooking/recipe"}
+{"text": "open radio", "label": "play/radio"}
+{"text": "what is the current time in lagos nigeria", "label": "datetime/query"}
+{"text": "list entry", "label": "lists/query"}
+{"text": "what is time now in japan compared to usa", "label": "datetime/convert"}
+{"text": "arrange the list in alphabetical order that are available", "label": "lists/query"}
+{"text": "remove cart list", "label": "lists/remove"}
+{"text": "play current episode", "label": "play/podcasts"}
+{"text": "play the radio music band", "label": "play/radio"}
+{"text": "in classic all music are there ever any singers", "label": "music/query"}
+{"text": "play podcast for the philadelphia eagles content", "label": "play/podcasts"}
+{"text": "delete the last list", "label": "lists/remove"}
+{"text": "start play", "label": "play/music"}
+{"text": "read out the list", "label": "lists/query"}
+{"text": "i'd like to continue to the next episode", "label": "play/podcasts"}
+{"text": "how do i cook a medium rare steak", "label": "cooking/recipe"}
+{"text": "download and save song of dangal movie", "label": "music/likeness"}
+{"text": "today is monday is it", "label": "datetime/query"}
+{"text": "remove chores from my to do list", "label": "lists/remove"}
+{"text": "my games to play in my computers", "label": "play/game"}
+{"text": "play national public radio", "label": "play/radio"}
+{"text": "play jingle bells next", "label": "play/music"}
+{"text": "play the radio station one hundred and one point nine", "label": "play/radio"}
+{"text": "search the item", "label": "lists/createoradd"}
+{"text": "next episode of nyt podcast", "label": "play/podcasts"}
+{"text": "find me news about trumps speech", "label": "news/query"}
+{"text": "get me news on trump", "label": "news/query"}
+{"text": "start a list", "label": "lists/createoradd"}
+{"text": "this is a nice song", "label": "music/likeness"}
+{"text": "repeat the current song", "label": "music/settings"}
+{"text": "i want to listen daily to this song", "label": "music/likeness"}
+{"text": "remove a list please", "label": "lists/remove"}
+{"text": "i want to play poker with you", "label": "play/game"}
+{"text": "list new", "label": "lists/createoradd"}
+{"text": "i like music", "label": "music/likeness"}
+{"text": "keep me up to date on the election news", "label": "news/query"}
+{"text": "who covered the song one more cup of coffee", "label": "music/query"}
+{"text": "remove the second row from the list", "label": "lists/remove"}
+{"text": "go to the podcast and play the next episode in friends", "label": "play/podcasts"}
+{"text": "put the news on bbc", "label": "play/radio"}
+{"text": "start podcast from my favorites list", "label": "play/podcasts"}
+{"text": "please note i like jazz and hate disco", "label": "music/likeness"}
+{"text": "i challenge you to a game of tic tac toe", "label": "play/game"}
+{"text": "take that off there", "label": "lists/remove"}
+{"text": "my new work schedule list", "label": "lists/createoradd"}
+{"text": "radio one thousand and twenty seven", "label": "play/radio"}
+{"text": "if it is twelve hours ahead of eastern standard centaur time what's the time in the philippines now", "label": "datetime/convert"}
+{"text": "play my bookmarked audiobook", "label": "play/audiobook"}
+{"text": "please start fm eight hundred and ninety radio channel", "label": "play/radio"}
+{"text": "fresh list", "label": "lists/createoradd"}
+{"text": "please tell me some international news", "label": "news/query"}
+{"text": "read that list back to me please", "label": "lists/query"}
+{"text": "repeat the music", "label": "music/settings"}
+{"text": "remove item from list", "label": "lists/remove"}
+{"text": "would you play some music please", "label": "play/music"}
+{"text": "delete this list", "label": "lists/remove"}
+{"text": "pull up the headlines please", "label": "news/query"}
+{"text": "open lists remove list", "label": "lists/remove"}
+{"text": "repeat this song three times", "label": "music/settings"}
+{"text": "show a new list", "label": "lists/createoradd"}
+{"text": "lets play pinball", "label": "play/game"}
+{"text": "top news", "label": "news/query"}
+{"text": "best energy food for gym", "label": "cooking/recipe"}
+{"text": "convert eastern time to western time", "label": "datetime/convert"}
+{"text": "make a list of camera photos", "label": "lists/createoradd"}
+{"text": "i love to rock out with my sock out", "label": "music/likeness"}
+{"text": "open chess play against me", "label": "play/game"}
+{"text": "start playing my song list", "label": "play/music"}
+{"text": "play the time machine by h g wells", "label": "play/audiobook"}
+{"text": "are there any status updates on cnn news facebook page", "label": "news/query"}
+{"text": "create a new list for me please", "label": "lists/createoradd"}
+{"text": "clear list things to do this weekend", "label": "lists/remove"}
+{"text": "how about a game of snakes and ladders", "label": "play/game"}
+{"text": "resume last playlist", "label": "play/music"}
+{"text": "can you pull up the dave ramsey podcast that aired on monday", "label": "play/podcasts"}
+{"text": "play me all jazz music", "label": "play/music"}
+{"text": "is it noon in paris", "label": "datetime/query"}
+{"text": "delete item on list", "label": "lists/remove"}
+{"text": "resume play on my most recent audiobook selection", "label": "play/audiobook"}
+{"text": "i need a recipe for spaghetti", "label": "cooking/recipe"}
+{"text": "august fifteenth is what day of the week", "label": "datetime/query"}
+{"text": "report the current time in oakland", "label": "datetime/query"}
+{"text": "what is my most played podcast", "label": "play/podcasts"}
+{"text": "remove any kind of list", "label": "lists/remove"}
+{"text": "start the radio now", "label": "play/radio"}
+{"text": "what are my lists so far", "label": "lists/query"}
+{"text": "hey olly turn the radio on", "label": "play/radio"}
+{"text": "which lists are present in the notes app", "label": "lists/query"}
+{"text": "please add this song to my playlist favorites", "label": "music/likeness"}
+{"text": "please rate current song as five stars", "label": "music/likeness"}
+{"text": "please turn on the sean hannity show on am", "label": "play/radio"}
+{"text": "convert g. m. t. to ist", "label": "datetime/convert"}
+{"text": "play what i am by edie brickel", "label": "play/music"}
+{"text": "what is on the list for today", "label": "lists/query"}
+{"text": "audio", "label": "play/audiobook"}
+{"text": "can you tell me how to cook chocolate chip cookies", "label": "cooking/recipe"}
+{"text": "what is the time in beijing", "label": "datetime/query"}
+{"text": "you have to check out kfi he's the best", "label": "music/likeness"}
+{"text": "what does one have to damage in cream to make butter", "label": "cooking/recipe"}
+{"text": "start chapter five of physics for future presidents", "label": "play/audiobook"}
+{"text": "remove noodles from the list", "label": "lists/remove"}
+{"text": "create a list for the following", "label": "lists/createoradd"}
+{"text": "open my notes", "label": "lists/createoradd"}
+{"text": "play music from where you left off", "label": "play/music"}
+{"text": "what is the news today", "label": "news/query"}
+{"text": "please play next episode of podcast", "label": "play/podcasts"}
+{"text": "save that song and my opinion", "label": "music/likeness"}
+{"text": "skip to the next episode of this podcast", "label": "play/podcasts"}
+{"text": "play howard stern on sirius", "label": "play/radio"}
+{"text": "eliminate the list kickball but make sure the contacts remain", "label": "lists/remove"}
+{"text": "start playlist for podcast", "label": "play/podcasts"}
+{"text": "i would like instructions on how to cook baked chicken", "label": "cooking/recipe"}
+{"text": "what is the latest news on sprint", "label": "news/query"}
+{"text": "can you create a new list", "label": "lists/createoradd"}
+{"text": "replay the required of the musics", "label": "music/settings"}
+{"text": "give me a recipe for lasagne", "label": "cooking/recipe"}
+{"text": "please remove the grocery list from my set of lists", "label": "lists/remove"}
+{"text": "remove my list of notes from last week", "label": "lists/remove"}
+{"text": "what day is it on fifth december", "label": "datetime/query"}
+{"text": "add eggs to list", "label": "lists/createoradd"}
+{"text": "please repeat the last song", "label": "music/settings"}
+{"text": "i want to hear the radio", "label": "play/radio"}
+{"text": "i need to put together a todo list for work", "label": "lists/createoradd"}
+{"text": "whats needed to make pizza", "label": "cooking/recipe"}
+{"text": "start spider", "label": "play/game"}
+{"text": "how to make cheesecake", "label": "cooking/recipe"}
+{"text": "i want to hear more audiobook", "label": "play/audiobook"}
+{"text": "do you know what day it is", "label": "datetime/query"}
+{"text": "add chives to my shopping list", "label": "lists/createoradd"}
+{"text": "put the current song on repeat", "label": "music/settings"}
+{"text": "plays the podcast from the beginning", "label": "play/podcasts"}
+{"text": "who's that song by", "label": "music/query"}
+{"text": "pick up dry cleaning tomorrow", "label": "lists/createoradd"}
+{"text": "what artist is singing that song", "label": "music/query"}
+{"text": "what is happening in the world right now", "label": "news/query"}
+{"text": "play party songs", "label": "play/music"}
+{"text": "play marvin gaye i want you", "label": "play/music"}
+{"text": "whats the time now", "label": "datetime/query"}
+{"text": "look for different recipes", "label": "cooking/recipe"}
+{"text": "play netflix on my ps four", "label": "play/radio"}
+{"text": "remove a list of employees", "label": "lists/remove"}
+{"text": "play me a game of tic tac toe", "label": "play/game"}
+{"text": "i want to listen to classical music", "label": "play/music"}
+{"text": "i want to hear the latest podcast episode of s town", "label": "play/podcasts"}
+{"text": "erase item please from my list", "label": "lists/remove"}
+{"text": "play green day", "label": "play/music"}
+{"text": "remove vegetables from the list", "label": "lists/remove"}
+{"text": "what song is currently playing", "label": "music/query"}
+{"text": "put shoes on my list", "label": "lists/createoradd"}
+{"text": "remove soccer list from notes", "label": "lists/remove"}
+{"text": "who is the singer of this song right now", "label": "music/query"}
+{"text": "breaking news fox news", "label": "news/query"}
+{"text": "what's the next thing on my list of appointments", "label": "lists/query"}
+{"text": "what are the most recent headlines on cnn", "label": "news/query"}
+{"text": "this item should be removed from list", "label": "lists/remove"}
+{"text": "what is the date easter falls on", "label": "datetime/query"}
+{"text": "what is the current time in london", "label": "datetime/query"}
+{"text": "is there any new news on trump", "label": "news/query"}
+{"text": "search for podcasts that cover men's issues", "label": "play/podcasts"}
+{"text": "tell artist and title of this song", "label": "music/query"}
+{"text": "this song was very good", "label": "music/likeness"}
+{"text": "i don't have enough money to buy the nintendo switch right now can you please remove it on my amazon wishlist", "label": "lists/remove"}
+{"text": "what is currently breaking news", "label": "news/query"}
+{"text": "play my favorite music", "label": "play/music"}
+{"text": "i want to start war and peace where i left off", "label": "play/audiobook"}
+{"text": "what music is currently playing", "label": "music/query"}
+{"text": "how do i make meal", "label": "cooking/recipe"}
+{"text": "play from my last session of joes book", "label": "play/audiobook"}
+{"text": "let me hear some bluegrass music", "label": "play/music"}
+{"text": "i need you to remove item s from my list", "label": "lists/remove"}
+{"text": "resume harry potter book five", "label": "play/audiobook"}
+{"text": "radio please", "label": "play/radio"}
+{"text": "delete the list created yesterday", "label": "lists/remove"}
+{"text": "please skip to the next song", "label": "music/settings"}
+{"text": "what day of the week is first april", "label": "datetime/query"}
+{"text": "please add list of things to buy for party", "label": "lists/createoradd"}
+{"text": "play chopin", "label": "play/music"}
+{"text": "how me the time now in boston", "label": "datetime/query"}
+{"text": "repeat all", "label": "music/settings"}
+{"text": "remove the list", "label": "lists/remove"}
+{"text": "what is the current time in california", "label": "datetime/query"}
+{"text": "what day of the week is june twenty seventh on this year", "label": "datetime/query"}
+{"text": "move buying eggs item to trash from to do list", "label": "lists/remove"}
+{"text": "play pong against me", "label": "play/game"}
+{"text": "play book", "label": "play/audiobook"}
+{"text": "Please turn off shuffle setting", "label": "music/settings"}
+{"text": "please record what i have said about this song", "label": "music/likeness"}
+{"text": "play the seventh episode of the morning after", "label": "play/podcasts"}
+{"text": "which song am i listening to right now", "label": "music/query"}
+{"text": "add appointment to list", "label": "lists/createoradd"}
+{"text": "add spent five dollars in my expenses list", "label": "lists/createoradd"}
+{"text": "my new health check up new list", "label": "lists/createoradd"}
+{"text": "give me the details on purchase order", "label": "lists/query"}
+{"text": "open games", "label": "play/game"}
+{"text": "provide what is there on the list", "label": "lists/query"}
+{"text": "tell me what time it is in dallas texas", "label": "datetime/query"}
+{"text": "i like to be it", "label": "music/likeness"}
+{"text": "turn on one oh seven point five", "label": "play/radio"}
+{"text": "what is the time difference between california and new york", "label": "datetime/convert"}
+{"text": "hey olly tell my today's top news", "label": "news/query"}
+{"text": "give me the details on elton john", "label": "music/query"}
+{"text": "what is the best recipe for tacos", "label": "cooking/recipe"}
+{"text": "has anything happened to mass effect", "label": "news/query"}
+{"text": "audio start", "label": "play/audiobook"}
+{"text": "repeat this song when it ends", "label": "music/settings"}
+{"text": "please create a new list for me", "label": "lists/createoradd"}
+{"text": "lets play chess together", "label": "play/game"}
+{"text": "play snake with me", "label": "play/game"}
+{"text": "which was that coldplay song i listened to yesterday evening can you play it again", "label": "music/query"}
+{"text": "put hamburger on my grocery list", "label": "lists/createoradd"}
+{"text": "remove lunch with co workers on thursday", "label": "lists/remove"}
+{"text": "what time is it in mountain time zone", "label": "datetime/query"}
+{"text": "can you pull up a recipe for spaghetti", "label": "cooking/recipe"}
+{"text": "hey what time is it in london now", "label": "datetime/query"}
+{"text": "find the serial podcast and play it", "label": "play/podcasts"}
+{"text": "play fishing podcasts that are favorited", "label": "play/podcasts"}
+{"text": "recipe please", "label": "cooking/recipe"}
+{"text": "play the next episode of drunks and dragons please", "label": "play/podcasts"}
+{"text": "i want you to fast forward the audio then resume", "label": "play/audiobook"}
+{"text": "paper scissors or stone", "label": "play/game"}
+{"text": "can you turn down the volume please and tell me what is the title of this song", "label": "music/query"}
+{"text": "i like vocals", "label": "music/likeness"}
+{"text": "let's play a game of trivia", "label": "play/game"}
+{"text": "what is the name of this song playing right now", "label": "music/query"}
+{"text": "will play chess", "label": "play/game"}
+{"text": "what's on the grocery list", "label": "lists/query"}
+{"text": "play music for me", "label": "play/music"}
+{"text": "play the urban radio station", "label": "play/radio"}
+{"text": "trash file one", "label": "lists/remove"}
+{"text": "what is trending", "label": "news/query"}
+{"text": "refresh my list and tell me whats on it", "label": "lists/query"}
+{"text": "latest news", "label": "news/query"}
+{"text": "add newscast time to daily schedule", "label": "news/query"}
+{"text": "i want to hear this radio station now", "label": "play/radio"}
+{"text": "i would like to hear some rap music", "label": "play/music"}
+{"text": "tell me the latest news from bbc sports", "label": "news/query"}
+{"text": "could you play you don't bring me flowers", "label": "play/music"}
+{"text": "what is the cooking time for mashed potatoes", "label": "cooking/recipe"}
+{"text": "get me the latest news in new york", "label": "news/query"}
+{"text": "give me the release date of this song", "label": "music/query"}
+{"text": "i need to play sims", "label": "play/game"}
+{"text": "delete the last line", "label": "lists/remove"}
+{"text": "show current news from bbc", "label": "news/query"}
+{"text": "when was this song first recorded", "label": "music/query"}
+{"text": "please i want to hear we will rock you from queen", "label": "play/music"}
+{"text": "include meeting in the list", "label": "lists/createoradd"}
+{"text": "add paper towels to the grocery list", "label": "lists/createoradd"}
+{"text": "can you please turn on npr where i am", "label": "play/radio"}
+{"text": "when was the song playing now released", "label": "music/query"}
+{"text": "move on to the next podcast episode", "label": "play/podcasts"}
+{"text": "get me match highlights", "label": "news/query"}
+{"text": "please open go fish game and play it with me", "label": "play/game"}
+{"text": "i want to hear play that funky music", "label": "play/music"}
+{"text": "on what date is easter this year", "label": "datetime/query"}
+{"text": "my party list", "label": "lists/query"}
+{"text": "convert eight am manila time to new york time", "label": "datetime/convert"}
+{"text": "resume joes book from where i left off last time", "label": "play/audiobook"}
+{"text": "can you play my music file", "label": "play/music"}
+{"text": "shuffle music", "label": "music/settings"}
+{"text": "please let me know today's date", "label": "datetime/query"}
+{"text": "report the time in miami", "label": "datetime/query"}
+{"text": "cut the songs in this musics", "label": "music/settings"}
+{"text": "crockpot recipe for chicken alfredo", "label": "cooking/recipe"}
+{"text": "play episode two of the intern", "label": "play/podcasts"}
+{"text": "clear list", "label": "lists/remove"}
+{"text": "dea guam prescription drug abuse on the rise", "label": "news/query"}
+{"text": "i want to listen to the new sam harris episode", "label": "play/radio"}
+{"text": "turn program on xmtune", "label": "play/radio"}
+{"text": "make a new list", "label": "lists/createoradd"}
+{"text": "did the yankees win last night", "label": "news/query"}
+{"text": "this song is my favourite", "label": "music/likeness"}
+{"text": "play chess", "label": "play/game"}
+{"text": "please play the beatles ps i love you", "label": "play/music"}
+{"text": "can you play beats one radio", "label": "play/radio"}
+{"text": "what time of day is it in london", "label": "datetime/query"}
+{"text": "please save that song", "label": "music/likeness"}
+{"text": "read my grocery list", "label": "lists/query"}
+{"text": "list and play all theory podcasts under ten min", "label": "play/podcasts"}
+{"text": "please remove the list", "label": "lists/remove"}
+{"text": "what song in the theme song for frasier", "label": "music/query"}
+{"text": "save my opinion on adele's song", "label": "music/likeness"}
+{"text": "political news of importance for the day", "label": "news/query"}
+{"text": "what music is it", "label": "music/query"}
+{"text": "can i see my lists for today", "label": "lists/query"}
+{"text": "where is band playing", "label": "music/query"}
+{"text": "anything else left on the list", "label": "lists/query"}
+{"text": "play favorited podcasts on fishing", "label": "play/podcasts"}
+{"text": "evaporated", "label": "cooking/recipe"}
+{"text": "lets play", "label": "play/game"}
+{"text": "be my clock", "label": "datetime/query"}
+{"text": "start game temple runner", "label": "play/game"}
+{"text": "new york time please", "label": "datetime/query"}
+{"text": "if it's eight pm on the east coast what time is it in sacramento california", "label": "datetime/convert"}
+{"text": "the time difference between lagos and new york is what", "label": "datetime/convert"}
+{"text": "please save this song", "label": "music/likeness"}
+{"text": "please play workout playlist", "label": "play/music"}
+{"text": "begin new list of lottery numbers", "label": "lists/createoradd"}
+{"text": "whats on my shopping list", "label": "lists/query"}
+{"text": "this song is too good", "label": "music/likeness"}
+{"text": "what happened last week", "label": "news/query"}
+{"text": "go to sirius and play the hip hop channel", "label": "play/radio"}
+{"text": "add new songs to playlist", "label": "lists/createoradd"}
+{"text": "show me what the ingredients are", "label": "cooking/recipe"}
+{"text": "progress from the last paused point of my audio book", "label": "play/audiobook"}
+{"text": "lets play battleship", "label": "play/game"}
+{"text": "show me a spaghetti recipe", "label": "cooking/recipe"}
+{"text": "compile favorites list according to my song feedback", "label": "music/likeness"}
+{"text": "delete from playlist my old english songs list", "label": "lists/remove"}
+{"text": "can you play acoustic music with no commercials", "label": "play/radio"}
+{"text": "what is the cooking time for boiled eggs", "label": "cooking/recipe"}
+{"text": "please advise what the current news is on fox news", "label": "news/query"}
+{"text": "add a item", "label": "lists/createoradd"}
+{"text": "i'dl like to hear any classical except for bach or schubert", "label": "play/music"}
+{"text": "i like top forty music", "label": "music/likeness"}
+{"text": "i need a recipe that is from ingredients on my shopping list", "label": "cooking/recipe"}
+{"text": "what are the names of all my saved lists", "label": "lists/query"}
+{"text": "identify song", "label": "music/query"}
+{"text": "play from smashing pumpkins", "label": "play/music"}
+{"text": "eight am in manila is what in new york", "label": "datetime/convert"}
+{"text": "play am", "label": "play/radio"}
+{"text": "i would like to listen to howard stern on ninety seven point nine fm", "label": "play/radio"}
+{"text": "start poker game with me", "label": "play/game"}
+{"text": "skip to the next podcast", "label": "play/podcasts"}
+{"text": "recite the schedules of the list", "label": "lists/query"}
+{"text": "play nine hundred and seventy one", "label": "play/radio"}
+{"text": "i like justin beibers music please play it", "label": "music/likeness"}
+{"text": "play audiobook where we left off", "label": "play/audiobook"}
+{"text": "enter this to a list", "label": "lists/createoradd"}
+{"text": "move forward to the next episode", "label": "play/podcasts"}
+{"text": "start radio station one oh seven point five fm", "label": "play/radio"}
+{"text": "get rid of bananas on the list", "label": "lists/remove"}
+{"text": "how many millilitres is two table spoons", "label": "cooking/recipe"}
+{"text": "play station gx in the radio", "label": "play/radio"}
+{"text": "i love that song who sings it", "label": "music/likeness"}
+{"text": "open parcheese game for you and i", "label": "play/game"}
+{"text": "create a new list called grocery store please", "label": "lists/createoradd"}
+{"text": "would you like to play a game", "label": "play/game"}
+{"text": "what would you call this kind of music that we're listening to", "label": "music/query"}
+{"text": "podcast next episode", "label": "play/podcasts"}
+{"text": "remove apple from list", "label": "lists/remove"}
+{"text": "add every girl life by evelyn mayer to the must read list", "label": "lists/createoradd"}
+{"text": "find game", "label": "play/game"}
+{"text": "what day does april sixteenth fall on", "label": "datetime/query"}
+{"text": "start playing the hobbit", "label": "play/audiobook"}
+{"text": "who is the artist of this song", "label": "music/query"}
+{"text": "do i have anything outstanding on any lists", "label": "lists/query"}
+{"text": "how many calories are in a one divided by of peanuts", "label": "cooking/recipe"}
+{"text": "enable shuffle", "label": "music/settings"}
+{"text": "base on my audiobook collection get me recommendation related audio book i should listen get and play me the resume", "label": "play/audiobook"}
+{"text": "update my list with shoes", "label": "lists/createoradd"}
+{"text": "the time in cairo please", "label": "datetime/query"}
+{"text": "go back to the last episode in this podcast", "label": "play/podcasts"}
+{"text": "pause the book", "label": "play/audiobook"}
+{"text": "i want to start a new list", "label": "lists/createoradd"}
+{"text": "what will be the time now in washington", "label": "datetime/query"}
+{"text": "i want to play solitare with you", "label": "play/game"}
+{"text": "please turn on my music", "label": "play/music"}
+{"text": "jump to the next podcast", "label": "play/podcasts"}
+{"text": "what time is it in london", "label": "datetime/query"}
+{"text": "turn on the tunes", "label": "play/music"}
+{"text": "i love kfi so much he's by far my favorite", "label": "music/likeness"}
+{"text": "can i see my work lists", "label": "lists/query"}
+{"text": "i would like to listen to this programme on radio", "label": "play/radio"}
+{"text": "throw away my to do list please", "label": "lists/remove"}
+{"text": "can you save this song to my favorites", "label": "music/likeness"}
+{"text": "play me the latest podcast about online surveys", "label": "play/podcasts"}
+{"text": "start candy crush", "label": "play/game"}
+{"text": "could you please help me in listening to the radio", "label": "play/radio"}
+{"text": "play ping pong", "label": "play/game"}
+{"text": "run game", "label": "play/game"}
+{"text": "please save the current song to favorites", "label": "music/likeness"}
+{"text": "save my opinion about the current song playing", "label": "music/likeness"}
+{"text": "put the radio on", "label": "play/radio"}
+{"text": "play newest reason podcast", "label": "play/podcasts"}
+{"text": "convert time zone to ist", "label": "datetime/convert"}
+{"text": "show me a video on cooking fried chicken", "label": "cooking/recipe"}
+{"text": "get radio", "label": "play/radio"}
+{"text": "start the radio", "label": "play/radio"}
+{"text": "who sings the song about a long black train", "label": "music/query"}
+{"text": "play the circle", "label": "play/audiobook"}
+{"text": "this is one of the best songs for me", "label": "music/likeness"}
+{"text": "start pandora", "label": "play/radio"}
+{"text": "resume harry potter from the place i have stopped listening to last time", "label": "play/audiobook"}
+{"text": "please tell me the latest news about the election scenario in our state", "label": "news/query"}
+{"text": "what is tomorrows date", "label": "datetime/query"}
+{"text": "i want to listen to soft rock", "label": "play/music"}
+{"text": "open the books and play brains book from chap nine", "label": "play/audiobook"}
+{"text": "save my opinion on the currently playing song", "label": "music/likeness"}
+{"text": "tell me the name of this music", "label": "music/query"}
+{"text": "delete that item", "label": "lists/remove"}
+{"text": "can you change my time zone to central", "label": "datetime/convert"}
+{"text": "do you want to play", "label": "play/game"}
+{"text": "add sugar to my shopping list", "label": "lists/createoradd"}
+{"text": "what time is it in this city", "label": "datetime/query"}
+{"text": "go to the list and remove item", "label": "lists/remove"}
+{"text": "add this channel to pandora", "label": "music/likeness"}
+{"text": "please remove this item from the list", "label": "lists/remove"}
+{"text": "how can a cook risotto", "label": "cooking/recipe"}
+{"text": "what is the date and month today", "label": "datetime/query"}
+{"text": "activate the radio please", "label": "play/radio"}
+{"text": "name the artist who sang hotel california", "label": "music/query"}
+{"text": "please open audible app and resume play", "label": "play/audiobook"}
+{"text": "i need to make a grocery list", "label": "lists/createoradd"}
+{"text": "the song you are playing is amazing", "label": "music/likeness"}
+{"text": "play candy crush with me", "label": "play/game"}
+{"text": "this song should be on my playlist", "label": "music/likeness"}
+{"text": "what music is this", "label": "music/query"}
+{"text": "turn on a country music station", "label": "play/radio"}
+{"text": "play cindi's favorite podcast", "label": "play/podcasts"}
+{"text": "what list do i have", "label": "lists/query"}
+{"text": "please start joe rogan podcast please", "label": "play/podcasts"}
+{"text": "disable shuffle", "label": "music/settings"}
+{"text": "cnn world news", "label": "news/query"}
+{"text": "play recently added audiobook", "label": "play/audiobook"}
+{"text": "start over the book legacy", "label": "play/audiobook"}
+{"text": "make list", "label": "lists/createoradd"}
+{"text": "remove grocery list please", "label": "lists/remove"}
+{"text": "please remove list", "label": "lists/remove"}
+{"text": "i want to listen to treasure island by robert louis stevenson", "label": "play/audiobook"}
+{"text": "access recipe book please", "label": "cooking/recipe"}
+{"text": "let's play a game", "label": "play/game"}
+{"text": "my list please", "label": "lists/query"}
+{"text": "open minestart game from previous played level", "label": "play/game"}
+{"text": "what are the items on my list", "label": "lists/query"}
+{"text": "what is the title of this song", "label": "music/query"}
+{"text": "the list contain what", "label": "lists/query"}
+{"text": "do you know the name of the song that is playing", "label": "music/query"}
+{"text": "play music from good playlist", "label": "play/music"}
+{"text": "Lets play tic tac toe", "label": "play/game"}
+{"text": "what's the best way to cook pasta", "label": "cooking/recipe"}
+{"text": "show me boston's current time", "label": "datetime/query"}
+{"text": "tell me what time it is right now", "label": "datetime/query"}
+{"text": "please pause this audio book now", "label": "play/audiobook"}
+{"text": "olly shuffle playlist", "label": "music/settings"}
+{"text": "bring up a recipe for turkey meatballs", "label": "cooking/recipe"}
+{"text": "start playing again", "label": "play/audiobook"}
+{"text": "save my music preferences", "label": "music/likeness"}
+{"text": "what is the name of that song", "label": "music/query"}
+{"text": "i am interested in what emotions are conveyed in grateful dead music", "label": "music/query"}
+{"text": "convert time zone", "label": "datetime/convert"}
+{"text": "what is the best way to cook pasta al dente", "label": "cooking/recipe"}
+{"text": "can I get the recipe for chocolate brownies", "label": "cooking/recipe"}
+{"text": "prepare a new list", "label": "lists/createoradd"}
+{"text": "tell me the singer of this track", "label": "music/query"}
+{"text": "play thinking out loud next", "label": "play/music"}
+{"text": "clear my activities list for today", "label": "lists/remove"}
+{"text": "play the veldt by", "label": "play/music"}
+{"text": "what's today date", "label": "datetime/query"}
+{"text": "what is the time in bangalore", "label": "datetime/query"}
+{"text": "the song makes me remember certain memories", "label": "music/likeness"}
+{"text": "play a podcast about latest yoga videos", "label": "play/podcasts"}
+{"text": "list things on my list", "label": "lists/query"}
+{"text": "what genre of music is in my music folder", "label": "music/query"}
+{"text": "include this item", "label": "lists/createoradd"}
+{"text": "entertainment news", "label": "news/query"}
+{"text": "drop it from list", "label": "lists/remove"}
+{"text": "resume playing the current audiobook", "label": "play/audiobook"}
+{"text": "what's the date is currently", "label": "datetime/query"}
+{"text": "start chapter seven of alma", "label": "play/audiobook"}
+{"text": "please go to the next episode of the podcast", "label": "play/podcasts"}
+{"text": "song info", "label": "music/query"}
+{"text": "open a new list for me", "label": "lists/createoradd"}
+{"text": "i am forever hip hop", "label": "music/likeness"}
+{"text": "erase previous list", "label": "lists/remove"}
+{"text": "play gta vice city game", "label": "play/game"}
+{"text": "who's current music's author", "label": "music/query"}
+{"text": "what lists are available", "label": "lists/query"}
+{"text": "delete that item from the list", "label": "lists/remove"}
+{"text": "let's play a game of chess", "label": "play/game"}
+{"text": "i like this song that is playing", "label": "music/likeness"}
+{"text": "what song is playing", "label": "music/query"}
+{"text": "which song is this one", "label": "music/query"}
+{"text": "resume my audio book from karl pilkington", "label": "play/audiobook"}
+{"text": "how long do i need to cook a brisket for it to be medium", "label": "cooking/recipe"}
+{"text": "please play the newest podcast", "label": "play/podcasts"}
+{"text": "what's happening with the hurricane in the gulf", "label": "news/query"}
+{"text": "play my most played songs", "label": "play/music"}
+{"text": "name the singer", "label": "music/query"}
+{"text": "play old fashioned christmas music", "label": "play/music"}
+{"text": "how to cook spaghetti squash", "label": "cooking/recipe"}
+{"text": "how many eggs are on my grocery list", "label": "lists/query"}
+{"text": "what happened yesterday on samurai jack", "label": "news/query"}
+{"text": "give me best cooking ideas", "label": "cooking/recipe"}
+{"text": "create vacation list", "label": "lists/createoradd"}
+{"text": "delete the grocery list", "label": "lists/remove"}
+{"text": "please create a list of due payment those who not received more then ten months", "label": "lists/createoradd"}
+{"text": "will you please play the next episode of podcast", "label": "play/podcasts"}
+{"text": "let's play some pong", "label": "play/game"}
+{"text": "play the next recording", "label": "play/podcasts"}
+{"text": "what is the news today in polk county florida", "label": "news/query"}
+{"text": "how is president's trump office proceeding", "label": "news/query"}
+{"text": "Play best friends by yelawolf", "label": "play/music"}
+{"text": "why do people use avocado seeds", "label": "cooking/recipe"}
+{"text": "make a list about selena gomez concert schedule", "label": "lists/createoradd"}
+{"text": "remove that item", "label": "lists/remove"}
+{"text": "stop repeating this song", "label": "music/settings"}
+{"text": "its peaceful", "label": "music/likeness"}
+{"text": "how many cups of sugar in texas sheet cake frosting", "label": "cooking/recipe"}
+{"text": "play country music", "label": "play/music"}
+{"text": "i want to know how to make a chicken in the oven", "label": "cooking/recipe"}
+{"text": "add eggs to my grocery list", "label": "lists/createoradd"}
+{"text": "i want to know could an extra item be added to my grocery list", "label": "lists/createoradd"}
+{"text": "use google to show me how to cook", "label": "cooking/recipe"}
+{"text": "check out my to do list", "label": "lists/query"}
+{"text": "what is the time at singapore when our time is five pm", "label": "datetime/convert"}
+{"text": "replay the musics", "label": "music/settings"}
+{"text": "how many days are in this month", "label": "datetime/query"}
+{"text": "show me the date of today", "label": "datetime/query"}
+{"text": "turn on the local radio", "label": "play/radio"}
+{"text": "what's next on my list", "label": "lists/query"}
+{"text": "please update list with new item", "label": "lists/createoradd"}
+{"text": "resume the playback of a child called it", "label": "play/audiobook"}
+{"text": "play a news radio station", "label": "play/radio"}
+{"text": "can you tell me today's date", "label": "datetime/query"}
+{"text": "what else do i have on the list", "label": "lists/query"}
+{"text": "Please play this game", "label": "play/game"}
+{"text": "put wash the car to my to do list", "label": "lists/createoradd"}
+{"text": "this is a good tune please notate file accordingly", "label": "music/likeness"}
+{"text": "did i add milk to the shopping list", "label": "lists/query"}
+{"text": "erase the chore list", "label": "lists/remove"}
+{"text": "play the latest song adele", "label": "play/music"}
+{"text": "please play next episode", "label": "play/podcasts"}
+{"text": "get latest news report on kidnapping in ny", "label": "news/query"}
+{"text": "open audiobook", "label": "play/audiobook"}
+{"text": "convert eight thirty from gtm four to g. m. t. five thirty", "label": "datetime/convert"}
+{"text": "delete my shopping list", "label": "lists/remove"}
+{"text": "delete all lists", "label": "lists/remove"}
+{"text": "what is the latest headline news from this newsource", "label": "news/query"}
+{"text": "what's the latest news on donald trump", "label": "news/query"}
+{"text": "save this song in my favorites", "label": "music/likeness"}
+{"text": "please convert nine am cst to est time", "label": "datetime/convert"}
+{"text": "the last friday of the month lands on what day", "label": "datetime/query"}
+{"text": "play the bob and tom show", "label": "play/radio"}
+{"text": "what are the steps for biriyani meal", "label": "cooking/recipe"}
+{"text": "what ingredient can be used instead of saffron", "label": "cooking/recipe"}
+{"text": "start a competitive crossword for us", "label": "play/game"}
+{"text": "display date", "label": "datetime/query"}
+{"text": "can you continue audiobook the circle", "label": "play/audiobook"}
+{"text": "skip this episode", "label": "play/podcasts"}
+{"text": "rearrange that off the list", "label": "lists/remove"}
+{"text": "resume the playback of zanes se chronicles", "label": "play/audiobook"}
+{"text": "get rid of the wednesday list", "label": "lists/remove"}
+{"text": "eight am manila time is what in eastern time", "label": "datetime/convert"}
+{"text": "give a hand to this game", "label": "play/game"}
+{"text": "time between us and canada", "label": "datetime/convert"}
+{"text": "delete my list of appointments for tomorrow", "label": "lists/remove"}
+{"text": "play me some podcasts about getting rich quick", "label": "play/podcasts"}
+{"text": "mark this song as a favorite", "label": "music/likeness"}
+{"text": "we're out of paint so take bathroom painting off the list", "label": "lists/remove"}
+{"text": "i want to listen some music play a radio station", "label": "play/radio"}
+{"text": "i want to resume where i last left off in my audio book", "label": "play/audiobook"}
+{"text": "what song is playing right now", "label": "music/query"}
+{"text": "let's play global thermonuclear war", "label": "play/game"}
+{"text": "who sang the song that is currently playing", "label": "music/query"}
+{"text": "play music playlist", "label": "play/music"}
+{"text": "search for gluten free menus", "label": "cooking/recipe"}
+{"text": "remove eric name", "label": "lists/remove"}
+{"text": "give me the time in pst", "label": "datetime/query"}
+{"text": "if i call mike in california at six pm what will his time be", "label": "datetime/convert"}
+{"text": "change the time zone from washington to new york", "label": "datetime/convert"}
+{"text": "show me my lists", "label": "lists/query"}
+{"text": "add this one also", "label": "lists/createoradd"}
+{"text": "play me a radio channel for trance music", "label": "play/radio"}
+{"text": "play for me hip hop music", "label": "play/music"}
+{"text": "who is the song playing by", "label": "music/query"}
+{"text": "play the next episode of radiolab", "label": "play/podcasts"}
+{"text": "anyone for tennis", "label": "play/game"}
+{"text": "find easy recipe for almond milk", "label": "cooking/recipe"}
+{"text": "play the newest morning show podcast", "label": "play/podcasts"}
+{"text": "date and time", "label": "datetime/query"}
+{"text": "i like r n b", "label": "music/likeness"}
+{"text": "it's eight at night in france what time is it in new york", "label": "datetime/convert"}
+{"text": "play my first favorite song on loop", "label": "play/music"}
+{"text": "start audiobook the time traveller", "label": "play/audiobook"}
+{"text": "please remove the following list", "label": "lists/remove"}
+{"text": "what time is it in new york city", "label": "datetime/query"}
+{"text": "how do you zest a lime without a zester", "label": "cooking/recipe"}
+{"text": "play the radio station rock one hundred and eight", "label": "play/radio"}
+{"text": "what is the list about my favorite songs", "label": "music/query"}
+{"text": "play football with me", "label": "play/game"}
+{"text": "add grocery shopping to my to do list", "label": "lists/createoradd"}
+{"text": "play favorites listed in podcasts starting with first one", "label": "play/podcasts"}
+{"text": "what are the list of things i need to buy today", "label": "lists/query"}
+{"text": "find the recipe for sambar in cookingforu application", "label": "cooking/recipe"}
+{"text": "what are the lyrics to this song playing", "label": "music/query"}
+{"text": "turn on console", "label": "play/game"}
+{"text": "isn't it a lovely song please save this for me", "label": "music/likeness"}
+{"text": "the song in background is cool", "label": "music/likeness"}
+{"text": "make a new list for school supplies", "label": "lists/createoradd"}
+{"text": "what is the current time in chennai", "label": "datetime/query"}
+{"text": "hey i need you to make a list of cricket players of indian team who played for the international team in two thousand and fourteen", "label": "lists/createoradd"}
+{"text": "please add sugar to my grocery list", "label": "lists/createoradd"}
+{"text": "create new list", "label": "lists/createoradd"}
+{"text": "add the post office to my list of errands for Saturday", "label": "lists/createoradd"}
+{"text": "play my rap playlist", "label": "play/music"}
+{"text": "take item off list", "label": "lists/remove"}
+{"text": "continue the smurfs book", "label": "play/audiobook"}
+{"text": "broadcast the health show from the kitchen", "label": "play/radio"}
+{"text": "please add an item in my calendar", "label": "lists/createoradd"}
+{"text": "start reading fifty shades of grey from chapter four", "label": "play/audiobook"}
+{"text": "resume playback", "label": "play/audiobook"}
+{"text": "what is the headline from today's morning local news", "label": "news/query"}
+{"text": "play rush limbaugh on ninety seven fm", "label": "play/radio"}
+{"text": "open fm", "label": "play/radio"}
+{"text": "play the davinci code", "label": "play/audiobook"}
+{"text": "play my usher radio station", "label": "play/radio"}
+{"text": "change that off the list", "label": "lists/remove"}
+{"text": "play maroon five playlist", "label": "play/music"}
+{"text": "channel seventy two point five", "label": "play/radio"}
+{"text": "stop play", "label": "play/audiobook"}
+{"text": "what time is it eastern", "label": "datetime/query"}
+{"text": "play billybob show on bbc radio four", "label": "play/radio"}
+{"text": "play radio javan", "label": "play/radio"}
+{"text": "look for a radio station called rhythm on the frequency one", "label": "play/radio"}
+{"text": "is it possible for you to provide the likes of my music", "label": "music/query"}
+{"text": "put on the god of small things", "label": "play/audiobook"}
+{"text": "open pandora play rock station", "label": "play/radio"}
+{"text": "delete my to do's for this week", "label": "lists/remove"}
+{"text": "i like classic rock", "label": "music/likeness"}
+{"text": "what day of the month is it", "label": "datetime/query"}
+{"text": "whats the name of the current song", "label": "music/query"}
+{"text": "play the last song from my most recent playlist", "label": "play/music"}
+{"text": "i'd like to play monopoly", "label": "play/game"}
+{"text": "What's playing", "label": "music/query"}
+{"text": "time zone between india and us", "label": "datetime/convert"}
+{"text": "what is in a curry", "label": "cooking/recipe"}
+{"text": "play from favorites song", "label": "play/music"}
+{"text": "give me the time", "label": "datetime/query"}
+{"text": "could you please find me the latest news from a source that i do not usually go to", "label": "news/query"}
+{"text": "explanation of the song", "label": "music/query"}
+{"text": "list the items on my shopping list", "label": "lists/query"}
+{"text": "what is trending in tech today", "label": "news/query"}
+{"text": "where can i find this song", "label": "music/query"}
+{"text": "podcast play", "label": "play/podcasts"}
+{"text": "give me the list of the top five safest cars to buy", "label": "lists/query"}
+{"text": "open grocery list and add milk", "label": "lists/createoradd"}
+{"text": "play fault in our stars on audible", "label": "play/audiobook"}
+{"text": "change mountain standard to pacific", "label": "datetime/convert"}
+{"text": "save my spotify preferences", "label": "music/likeness"}
+{"text": "add butter to the list", "label": "lists/createoradd"}
+{"text": "find me an audio book version of ready player one and play it for me", "label": "play/audiobook"}
+{"text": "i need to know what is the date today", "label": "datetime/query"}
+{"text": "play mindsweeper with me", "label": "play/game"}
+{"text": "i'm done with today's to do list", "label": "lists/remove"}
+{"text": "what is the name of the lead singer in this band", "label": "music/query"}
+{"text": "next i want to hear shinedown", "label": "play/music"}
+{"text": "i want to know what song has the phrase stairway to heaven in it", "label": "music/query"}
+{"text": "resume series podcast", "label": "play/podcasts"}
+{"text": "new york time", "label": "datetime/query"}
+{"text": "play tunes", "label": "play/radio"}
+{"text": "please play the next episode in the podcast", "label": "play/podcasts"}
+{"text": "please go to next date", "label": "play/podcasts"}
+{"text": "abolish an item from list", "label": "lists/remove"}
+{"text": "List all the lists on this device", "label": "lists/query"}
+{"text": "what is the song name", "label": "music/query"}
+{"text": "eight hundred and eighty nine fm please", "label": "play/radio"}
+{"text": "resume the two towers audiobook", "label": "play/audiobook"}
+{"text": "find radio", "label": "play/radio"}
+{"text": "play cricket", "label": "play/game"}
+{"text": "i want to make next week's to do list", "label": "lists/createoradd"}
+{"text": "please check episode number thirty nine", "label": "play/podcasts"}
+{"text": "kill item", "label": "lists/remove"}
+{"text": "can you read me my lists", "label": "lists/query"}
+{"text": "play little women", "label": "play/audiobook"}
+{"text": "find me the recipe for a cake", "label": "cooking/recipe"}
+{"text": "please delete the last song that played from the playlist", "label": "lists/remove"}
+{"text": "play podcast one", "label": "play/podcasts"}
+{"text": "puzzles and games app", "label": "play/game"}
+{"text": "i love the song do you", "label": "music/likeness"}
+{"text": "give me the winning numbers to the powerball lottery", "label": "news/query"}
+{"text": "what kind of lists do i have saved", "label": "lists/query"}
+{"text": "play the most recent podcast for this american life", "label": "play/podcasts"}
+{"text": "fast me the news of academy awards", "label": "news/query"}
+{"text": "how about a nice game of chess", "label": "play/game"}
+{"text": "start play johns audiobook", "label": "play/audiobook"}
+{"text": "repeat this song", "label": "music/settings"}
+{"text": "can you take a role of enemy in the game of coc", "label": "play/game"}
+{"text": "go back to animal farm", "label": "play/audiobook"}
+{"text": "what on my play list", "label": "lists/query"}
+{"text": "what are the ingredients in macaroni and cheese", "label": "cooking/recipe"}
+{"text": "please play the local latin music channel on the radio", "label": "play/radio"}
+{"text": "delete the list item about the meeting", "label": "lists/remove"}
+{"text": "go back", "label": "play/podcasts"}
+{"text": "what's the song title", "label": "music/query"}
+{"text": "song next", "label": "play/music"}
+{"text": "open pandora and play top hits", "label": "play/radio"}
+{"text": "skip this podcast", "label": "play/podcasts"}
+{"text": "can you play my latest audio book", "label": "play/audiobook"}
+{"text": "please update my grocery list with one gallon of two percent milk", "label": "lists/createoradd"}
+{"text": "i like songs from", "label": "music/likeness"}
+{"text": "please play this playback on audiobook", "label": "play/audiobook"}
+{"text": "play bbc radio", "label": "play/radio"}
+{"text": "i want to play rock paper scissors let's play", "label": "play/game"}
+{"text": "give me the morning news", "label": "news/query"}
+{"text": "please play the next episode", "label": "play/podcasts"}
+{"text": "I'd like to play UNO with you", "label": "play/game"}
+{"text": "please change time zone to india", "label": "datetime/convert"}
+{"text": "add item", "label": "lists/createoradd"}
+{"text": "can you add gloria to my list of clients", "label": "lists/createoradd"}
+{"text": "play music true love", "label": "play/music"}
+{"text": "what is the name of the music playing now", "label": "music/query"}
+{"text": "please look up best recipes", "label": "cooking/recipe"}
+{"text": "what temperature should a baked chicken be", "label": "cooking/recipe"}
+{"text": "kfi is my favorite rapper", "label": "music/likeness"}
+{"text": "is that song from shakira", "label": "music/query"}
+{"text": "play music radio for me", "label": "play/radio"}
+{"text": "add the item to the list", "label": "lists/createoradd"}
+{"text": "may i know the time in london", "label": "datetime/query"}
+{"text": "play my favorite radio station", "label": "play/radio"}
+{"text": "can you play file", "label": "play/audiobook"}
+{"text": "make a grocery list please", "label": "lists/createoradd"}
+{"text": "create a playlist", "label": "lists/createoradd"}
+{"text": "who is singing that song on now", "label": "music/query"}
+{"text": "help me make brownies", "label": "cooking/recipe"}
+{"text": "create list", "label": "lists/createoradd"}
+{"text": "do i have anything planned for today", "label": "lists/query"}
+{"text": "what is the time difference between eastern and pacific", "label": "datetime/convert"}
+{"text": "show me the recipe for cookies", "label": "cooking/recipe"}
+{"text": "what is the correct time", "label": "datetime/query"}
+{"text": "edit list", "label": "lists/createoradd"}
+{"text": "please find the recipe for meatballs", "label": "cooking/recipe"}
+{"text": "play a game of contra as a second player", "label": "play/game"}
+{"text": "play keno", "label": "play/game"}
+{"text": "list the games you can play with me", "label": "play/game"}
+{"text": "video games", "label": "play/game"}
+{"text": "i want exact time in washington right now", "label": "datetime/query"}
+{"text": "jump to next podcast", "label": "play/podcasts"}
+{"text": "what's my to do list for today", "label": "lists/query"}
+{"text": "what were the cities affected by the earthquake", "label": "news/query"}
+{"text": "tell me the recipe to cook pav bhaji", "label": "cooking/recipe"}
+{"text": "tag you're it", "label": "play/game"}
+{"text": "find the correct temperature for frying a whole turkey", "label": "cooking/recipe"}
+{"text": "resume play of american gods", "label": "play/audiobook"}
+{"text": "how many birthday's are on twenty third", "label": "datetime/query"}
+{"text": "bring up the grocery list and add", "label": "lists/createoradd"}
+{"text": "play rohan sharma podcast for me", "label": "play/podcasts"}
+{"text": "Show me articles about the new iphone eight", "label": "news/query"}
+{"text": "tell how vegetable is cooked", "label": "cooking/recipe"}
+{"text": "save information about love of beyonc", "label": "music/likeness"}
+{"text": "i want to listen to electric slide", "label": "play/music"}
+{"text": "add eggs to the list", "label": "lists/createoradd"}
+{"text": "can you play the next episode please", "label": "play/podcasts"}
+{"text": "play an fm", "label": "play/radio"}
+{"text": "play audiobook of jacob", "label": "play/audiobook"}
+{"text": "please save my opinion about the song that is currently playing", "label": "music/likeness"}
+{"text": "remember to put carrots in there", "label": "lists/createoradd"}
+{"text": "please tell me what lists i have made", "label": "lists/query"}
+{"text": "please make a list of thing i have to shop tomorrow", "label": "lists/createoradd"}
+{"text": "i need you to find a good channels to listen to", "label": "play/radio"}
+{"text": "please remove apples from my grocery list", "label": "lists/remove"}
+{"text": "get recipe for apple pie", "label": "cooking/recipe"}
+{"text": "remove my to do list", "label": "lists/remove"}
+{"text": "show me what lists are available", "label": "lists/query"}
+{"text": "play my play list", "label": "play/podcasts"}
+{"text": "i like electronic music", "label": "music/likeness"}
+{"text": "remove the sms recipient which have initials s", "label": "lists/remove"}
+{"text": "play for me the game star wars", "label": "play/game"}
+{"text": "what type of cheese do i need for my enchiladas", "label": "cooking/recipe"}
+{"text": "can you pull up information on the singer of this song", "label": "music/query"}
+{"text": "how many eggs should i put in my cake mixture", "label": "cooking/recipe"}
+{"text": "play led zeppelin houses of the holy", "label": "play/music"}
+{"text": "play music now from radio plus", "label": "play/radio"}
+{"text": "which song is this", "label": "music/query"}
+{"text": "tell me what is on my grocery list for this week", "label": "lists/query"}
+{"text": "mario", "label": "play/game"}
+{"text": "start the poker game", "label": "play/game"}
+{"text": "get recipe for making a hotdog", "label": "cooking/recipe"}
+{"text": "what's the name of this song", "label": "music/query"}
+{"text": "please remove sporty event from list", "label": "lists/remove"}
+{"text": "read out my list for today", "label": "lists/query"}
+{"text": "play pride and prejudice", "label": "play/audiobook"}
+{"text": "what's on the radio right now", "label": "music/query"}
+{"text": "save this song as my favorite", "label": "music/likeness"}
+{"text": "let me know the time in india", "label": "datetime/query"}
+{"text": "can you remove my to do list", "label": "lists/remove"}
+{"text": "do you know how to cook risotto", "label": "cooking/recipe"}
+{"text": "i like top twenty music", "label": "music/likeness"}
+{"text": "continue playing my book of vitamins", "label": "play/audiobook"}
+{"text": "delete the shopping list", "label": "lists/remove"}
+{"text": "reshuffle and play music", "label": "play/music"}
+{"text": "give me international news", "label": "news/query"}
+{"text": "what is on this specific list", "label": "lists/query"}
+{"text": "any sport event is on my list", "label": "lists/query"}
+{"text": "remove the milk from the shopping list", "label": "lists/remove"}
+{"text": "what is included in the tour's list", "label": "lists/query"}
+{"text": "display my list", "label": "lists/query"}
+{"text": "what are the ingredients necessary", "label": "cooking/recipe"}
+{"text": "start play fifa seventeen", "label": "play/game"}
+{"text": "what the sexiest food to cook on a date", "label": "cooking/recipe"}
+{"text": "keep playing secret garden", "label": "play/audiobook"}
+{"text": "bring me the title of current music", "label": "music/query"}
+{"text": "please repeat that music again of akon", "label": "music/settings"}
+{"text": "get news about new foreign policy", "label": "news/query"}
+{"text": "open audible and continue playing the book that i was listening to", "label": "play/audiobook"}
+{"text": "please tune in to fm ninety five", "label": "play/radio"}
+{"text": "open davinci code audiobook", "label": "play/audiobook"}
+{"text": "play scrabble with me", "label": "play/game"}
+{"text": "add this song to my playlist", "label": "music/likeness"}
+{"text": "what is new news for today", "label": "news/query"}
+{"text": "what is the date today", "label": "datetime/query"}
+{"text": "begin a new list", "label": "lists/createoradd"}
+{"text": "show me cooking websites", "label": "cooking/recipe"}

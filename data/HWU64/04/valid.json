@@ -1,0 +1,2433 @@
+{"text": "just set me reminders about pending payment of children school fees", "label": "calendar/set"}
+{"text": "can you tell me a good place to eat", "label": "recommendation/locations"}
+{"text": "recommend me some shops to shopping in angel", "label": "recommendation/locations"}
+{"text": "set a timer at five am seven days a week", "label": "alarm/set"}
+{"text": "when will my alarm go off in the morning", "label": "alarm/query"}
+{"text": "delete all the events of today", "label": "calendar/remove"}
+{"text": "what events are scheduled this week", "label": "calendar/query"}
+{"text": "delete my calendar", "label": "calendar/remove"}
+{"text": "do i have any appointments coming up", "label": "calendar/query"}
+{"text": "delete alarm", "label": "alarm/remove"}
+{"text": "silent mode on for the next three hours", "label": "audio/volume_mute"}
+{"text": "turn speaker volume down", "label": "audio/volume_down"}
+{"text": "remove my calendar event at one pm today", "label": "calendar/remove"}
+{"text": "i need to get up at seven am", "label": "alarm/set"}
+{"text": "delete the alarm i just set", "label": "alarm/remove"}
+{"text": "turn on alarm thirty minutes before liverpool started to play", "label": "alarm/set"}
+{"text": "reduce volume", "label": "audio/volume_down"}
+{"text": "please remove the doctor appointment in my calendar for february twelfth at nine am", "label": "calendar/remove"}
+{"text": "is my alarm set", "label": "alarm/query"}
+{"text": "erase my appointment with ted", "label": "calendar/remove"}
+{"text": "make an alarm to help me remember", "label": "alarm/set"}
+{"text": "tell me if an earthquake happens in the world", "label": "news/query"}
+{"text": "wake me up at four am", "label": "alarm/set"}
+{"text": "i want to know the best super market in this local area", "label": "recommendation/locations"}
+{"text": "google search the topic", "label": "news/query"}
+{"text": "am i on vacation this week", "label": "calendar/query"}
+{"text": "what is my afternoon schedule tomorrow", "label": "calendar/query"}
+{"text": "set an alarm for seven am", "label": "alarm/set"}
+{"text": "what alarms do i have set for thursday", "label": "alarm/query"}
+{"text": "do i have an alarm set for morning flight", "label": "alarm/query"}
+{"text": "clean my entire calendar", "label": "calendar/remove"}
+{"text": "what's going on in the world these days", "label": "news/query"}
+{"text": "quiet on", "label": "audio/volume_mute"}
+{"text": "Volume louder softer", "label": "audio/volume_up"}
+{"text": "find me a bar in cleveland open until two am", "label": "recommendation/locations"}
+{"text": "add running to my calendar for thursday", "label": "calendar/set"}
+{"text": "two pm set", "label": "alarm/set"}
+{"text": "what time is my alarm set for tomorrow morning", "label": "alarm/query"}
+{"text": "silence for two hours", "label": "audio/volume_mute"}
+{"text": "delete my alarm for eight am", "label": "alarm/remove"}
+{"text": "what are my plans for today", "label": "calendar/query"}
+{"text": "what's the time for neighboring city", "label": "datetime/query"}
+{"text": "destroy all events", "label": "calendar/remove"}
+{"text": "what is on the agenda for the four pm meeting with joe", "label": "calendar/query"}
+{"text": "can you tell me which movie is going on in the nearby multiplex", "label": "recommendation/movies"}
+{"text": "remind me the upcoming meeting at four am today", "label": "calendar/set"}
+{"text": "what is this event is called which happening my area", "label": "recommendation/events"}
+{"text": "any good bike shops in oxford", "label": "recommendation/locations"}
+{"text": "any farm markets around with local products", "label": "recommendation/locations"}
+{"text": "what is the news about terrorist attack in afghanistan", "label": "news/query"}
+{"text": "can you mute when i am not home", "label": "audio/volume_mute"}
+{"text": "increase the volume of the music to ninety", "label": "audio/volume_up"}
+{"text": "add dentist appointment for friday at five", "label": "calendar/set"}
+{"text": "can you place the sound on mute", "label": "audio/volume_mute"}
+{"text": "set alarm at ten am", "label": "alarm/set"}
+{"text": "lower the volume please", "label": "audio/volume_down"}
+{"text": "what is the plan for tonight", "label": "calendar/query"}
+{"text": "can you empty my calendar", "label": "calendar/remove"}
+{"text": "set my alarm for tuesday at six pm", "label": "alarm/set"}
+{"text": "set an alarm for five am", "label": "alarm/set"}
+{"text": "can you set my alarm for seven thirty am", "label": "alarm/set"}
+{"text": "i want an alarm for six am everyday", "label": "alarm/set"}
+{"text": "i dont want any alarms", "label": "alarm/remove"}
+{"text": "what movies are out this week", "label": "recommendation/movies"}
+{"text": "turn sound off", "label": "audio/volume_mute"}
+{"text": "set a two day notification before maria's birthday please", "label": "calendar/set"}
+{"text": "i want to know what supermarket near me has the best price on gluten free bread", "label": "recommendation/locations"}
+{"text": "what's a good movie that's out right now", "label": "recommendation/movies"}
+{"text": "increase the volume to max please", "label": "audio/volume_up"}
+{"text": "remove my eight pm alarm and set it to seven pm", "label": "alarm/remove"}
+{"text": "please tell me about upcoming alarms", "label": "alarm/query"}
+{"text": "set the settings to mute", "label": "audio/volume_mute"}
+{"text": "hi olly please cancel all the programs for friday", "label": "calendar/remove"}
+{"text": "get rid of the five pm alarm", "label": "alarm/remove"}
+{"text": "searching on holidays in my location", "label": "recommendation/events"}
+{"text": "remove tuesday alarm of nine am", "label": "alarm/remove"}
+{"text": "what's my next alarm", "label": "alarm/query"}
+{"text": "can you tell me what alarms i have set", "label": "alarm/query"}
+{"text": "tell the latest news about the trump", "label": "news/query"}
+{"text": "what alarm do i have set for today", "label": "alarm/query"}
+{"text": "what is on the agenda for today", "label": "calendar/query"}
+{"text": "please be silent until i tell you not to be", "label": "audio/volume_mute"}
+{"text": "when it's ten pm here what time is it in brisbane", "label": "datetime/convert"}
+{"text": "please be quiet", "label": "audio/volume_mute"}
+{"text": "notify me an hour before my two pm appointment at the car dealership", "label": "calendar/set"}
+{"text": "what day of the week does the next holiday fall on", "label": "datetime/query"}
+{"text": "remove all the events on my calendar", "label": "calendar/remove"}
+{"text": "what's happening in town tonight", "label": "recommendation/events"}
+{"text": "please tell me a shop where i can find books to buy", "label": "recommendation/locations"}
+{"text": "find gluten free bakery near me", "label": "recommendation/locations"}
+{"text": "can you take out dentist appointment from my calendar", "label": "calendar/remove"}
+{"text": "can you recommend some movies to watch in theater near me", "label": "recommendation/movies"}
+{"text": "turn off audio", "label": "audio/volume_mute"}
+{"text": "create an event gym day on monday and set it to repeat", "label": "calendar/set"}
+{"text": "what time is it eastern", "label": "datetime/query"}
+{"text": "please remind me that i have a meeting tomorrow ten in the morning", "label": "calendar/set"}
+{"text": "any cultural events in california", "label": "recommendation/events"}
+{"text": "events today", "label": "recommendation/events"}
+{"text": "i need to get going at eight am tomorrow set up an alarm thirty minutes before that", "label": "alarm/set"}
+{"text": "tell me the latest news from bbc sports", "label": "news/query"}
+{"text": "what's my next events", "label": "calendar/query"}
+{"text": "what movies are playing at carmike cinemas", "label": "recommendation/movies"}
+{"text": "is there any events planned for the next three months", "label": "calendar/query"}
+{"text": "are there any meetings set for next wednesday", "label": "calendar/query"}
+{"text": "on what date is easter this year", "label": "datetime/query"}
+{"text": "what time is it in central time zone", "label": "datetime/query"}
+{"text": "what is the time in london", "label": "datetime/query"}
+{"text": "what events are in me area", "label": "recommendation/events"}
+{"text": "please block off friday at eight am on my calendar", "label": "calendar/set"}
+{"text": "recommend a local steak restaurant", "label": "recommendation/locations"}
+{"text": "what is next in my calendar", "label": "calendar/query"}
+{"text": "when is trolls playing", "label": "recommendation/movies"}
+{"text": "turn off the speakers", "label": "audio/volume_mute"}
+{"text": "delete an last event reminder of twenty ninth of march twenty seventeen", "label": "calendar/remove"}
+{"text": "schedule a meeting with reeta today evening at five pm", "label": "calendar/set"}
+{"text": "what have i got going on between three and four pm today", "label": "calendar/query"}
+{"text": "please show today meting with clients", "label": "calendar/query"}
+{"text": "when and where is june's birthday party", "label": "calendar/query"}
+{"text": "show me some food court nearest to my location", "label": "recommendation/locations"}
+{"text": "where can i get organic wheat", "label": "recommendation/locations"}
+{"text": "mobile shop", "label": "recommendation/locations"}
+{"text": "did you set the alarm for five am", "label": "alarm/query"}
+{"text": "what's a movie in theaters that doesn't suck", "label": "recommendation/movies"}
+{"text": "what restaurants are open near me", "label": "recommendation/locations"}
+{"text": "schedule dinner with sara and jamie", "label": "calendar/set"}
+{"text": "where can i find a good taco truck in los angles", "label": "recommendation/locations"}
+{"text": "what movie are playing near me", "label": "recommendation/movies"}
+{"text": "which is the next event coming up", "label": "calendar/query"}
+{"text": "wake me up at ten", "label": "alarm/set"}
+{"text": "set a reminder alert for saturday nine am towards payment of electricity bill", "label": "calendar/set"}
+{"text": "are there any events on my calendar for this week", "label": "calendar/query"}
+{"text": "where is a theatre in my area", "label": "recommendation/locations"}
+{"text": "i'm looking for some dress shows can you find clothing stores within one mile", "label": "recommendation/locations"}
+{"text": "can you take off the next event on my calendar", "label": "calendar/remove"}
+{"text": "what is the latest news from cbs", "label": "news/query"}
+{"text": "notify me when the event is going to take place", "label": "calendar/set"}
+{"text": "turn the sound off", "label": "audio/volume_mute"}
+{"text": "is there anything special going on nearby", "label": "recommendation/events"}
+{"text": "provide wall street journal news", "label": "news/query"}
+{"text": "give me the morning news", "label": "news/query"}
+{"text": "i can't hear you can you say it again louder", "label": "audio/volume_up"}
+{"text": "do the knicks have a game at home tonight", "label": "calendar/query"}
+{"text": "i no longer need the daily five pm alarm", "label": "alarm/remove"}
+{"text": "get news about new foreign policy", "label": "news/query"}
+{"text": "what time will my alarm wake me up", "label": "alarm/query"}
+{"text": "where is tuesday's morning meeting", "label": "calendar/query"}
+{"text": "which alarms are set in the phone", "label": "alarm/query"}
+{"text": "remove all events from my calendar", "label": "calendar/remove"}
+{"text": "set a neighbor party for next week", "label": "calendar/set"}
+{"text": "which is the nearest restaurants available", "label": "recommendation/locations"}
+{"text": "remove all the reminders from the calendar", "label": "calendar/remove"}
+{"text": "where is the closest bar", "label": "recommendation/locations"}
+{"text": "what's the best chicken place near me", "label": "recommendation/locations"}
+{"text": "find the this week's news about emigration legislation in the us please", "label": "news/query"}
+{"text": "list current set alarms", "label": "alarm/query"}
+{"text": "i need a high volume", "label": "audio/volume_up"}
+{"text": "i need you to mark next monday", "label": "calendar/set"}
+{"text": "find an oscar nominee movie", "label": "recommendation/movies"}
+{"text": "please tell me to take my umbrella because it will be very hot today", "label": "calendar/set"}
+{"text": "what movies are playing right now", "label": "recommendation/movies"}
+{"text": "please decrease the volume of this song", "label": "audio/volume_up"}
+{"text": "tell me about my alarms", "label": "alarm/query"}
+{"text": "please pause yourself", "label": "audio/volume_mute"}
+{"text": "what are the concerts happening nearby", "label": "recommendation/events"}
+{"text": "what shops are near me", "label": "recommendation/locations"}
+{"text": "switch to los angeles time", "label": "datetime/convert"}
+{"text": "any activity in the area", "label": "recommendation/events"}
+{"text": "i am busy tomorrow so delete all calendar events", "label": "calendar/remove"}
+{"text": "which store's got the cheapest three pound beef rump", "label": "recommendation/locations"}
+{"text": "mute speakers please", "label": "audio/volume_mute"}
+{"text": "the meeting with justin and katrina has been changed put it on thursday", "label": "calendar/set"}
+{"text": "what is the date for next tuesday", "label": "datetime/query"}
+{"text": "entertainment news", "label": "news/query"}
+{"text": "set alarm at two am", "label": "alarm/set"}
+{"text": "can you tell me some fun things to do in kentucky", "label": "recommendation/events"}
+{"text": "open events this week", "label": "calendar/query"}
+{"text": "delete my meeting event for march nineteen at one pm", "label": "calendar/remove"}
+{"text": "hey turn on your reminders for tomorrow's meeting at ten am", "label": "calendar/set"}
+{"text": "how many birthday's are on twenty third", "label": "datetime/query"}
+{"text": "raise the volume to sixty", "label": "audio/volume_up"}
+{"text": "convert eastern time to western time", "label": "datetime/convert"}
+{"text": "show me all scheduled alarms", "label": "alarm/query"}
+{"text": "events in the local area", "label": "recommendation/events"}
+{"text": "how me the time now in boston", "label": "datetime/query"}
+{"text": "please speak up", "label": "audio/volume_up"}
+{"text": "touch the mute button", "label": "audio/volume_mute"}
+{"text": "how many alarms do i have", "label": "alarm/query"}
+{"text": "top news", "label": "news/query"}
+{"text": "louder", "label": "audio/volume_up"}
+{"text": "theaters near to me", "label": "recommendation/movies"}
+{"text": "what is the nearest theatre that plays the new vin diesel movie", "label": "recommendation/movies"}
+{"text": "what movies are playing near me", "label": "recommendation/movies"}
+{"text": "economic affairs", "label": "news/query"}
+{"text": "do i have any meetings on friday's afternoon", "label": "calendar/query"}
+{"text": "what time in las vegas", "label": "datetime/query"}
+{"text": "where is a great pub", "label": "recommendation/locations"}
+{"text": "date and time", "label": "datetime/query"}
+{"text": "remind me of my twelve oclock meeting by eleven thirty", "label": "calendar/set"}
+{"text": "decrease twenty percent", "label": "audio/volume_down"}
+{"text": "can you get me news from ny times", "label": "news/query"}
+{"text": "let me know today's date in american format", "label": "datetime/query"}
+{"text": "show me some vegan restaurants close by", "label": "recommendation/locations"}
+{"text": "what are meeting scheduled for today", "label": "calendar/query"}
+{"text": "what's the latest on the travel ban", "label": "news/query"}
+{"text": "how many calories did i burn between three and five today", "label": "calendar/query"}
+{"text": "please set the alarm for eight pm wednesday evening", "label": "alarm/set"}
+{"text": "turn down volume twenty percent", "label": "audio/volume_down"}
+{"text": "remove the alarm set for four hundred am", "label": "alarm/remove"}
+{"text": "remind me to pick up john from the airport tonight at eight", "label": "calendar/set"}
+{"text": "what does the clock say", "label": "datetime/query"}
+{"text": "plan a meeting in office with all employees tomorrow morning at eight", "label": "calendar/set"}
+{"text": "mute for two hours", "label": "audio/volume_mute"}
+{"text": "i want volume on my speakers", "label": "audio/volume_up"}
+{"text": "when does olive garden close today", "label": "recommendation/locations"}
+{"text": "is there a sporting event tomorrow in chicago", "label": "recommendation/events"}
+{"text": "where is the nearest restaurant here", "label": "recommendation/locations"}
+{"text": "play a movie i'll like", "label": "recommendation/movies"}
+{"text": "show todays events in ny", "label": "recommendation/events"}
+{"text": "iphone", "label": "news/query"}
+{"text": "what is the time difference between eastern time and pacific time", "label": "datetime/convert"}
+{"text": "give me today's calendar events after six pm", "label": "calendar/query"}
+{"text": "please turn up the speaker volume", "label": "audio/volume_up"}
+{"text": "mute volume now", "label": "audio/volume_mute"}
+{"text": "is there any alarm after five am", "label": "alarm/query"}
+{"text": "sound off", "label": "audio/volume_mute"}
+{"text": "keep quiet", "label": "audio/volume_mute"}
+{"text": "hey olly tell my today's top news", "label": "news/query"}
+{"text": "info of the upcoming events", "label": "recommendation/events"}
+{"text": "make this a bit louder", "label": "audio/volume_up"}
+{"text": "cancel my meeting tomorrow", "label": "calendar/remove"}
+{"text": "whats the latest", "label": "news/query"}
+{"text": "off the speakers", "label": "audio/volume_mute"}
+{"text": "can you remind me of sunday gym every saturday evening", "label": "calendar/set"}
+{"text": "do i have any get togethers this week", "label": "calendar/query"}
+{"text": "what is playing at amc twenty", "label": "recommendation/movies"}
+{"text": "decrease the volume to ten", "label": "audio/volume_down"}
+{"text": "is my reminder alarm set for dance class", "label": "alarm/query"}
+{"text": "please clear my calendar", "label": "calendar/remove"}
+{"text": "can you recommend good stores in this area", "label": "recommendation/locations"}
+{"text": "how much later is new york than la", "label": "datetime/convert"}
+{"text": "set a notification on third march about company meeting", "label": "calendar/set"}
+{"text": "give me the news on donald trump", "label": "news/query"}
+{"text": "quiet mode on until i am home from work", "label": "audio/volume_mute"}
+{"text": "what clothes store would you recommend here", "label": "recommendation/locations"}
+{"text": "please search for local events", "label": "recommendation/events"}
+{"text": "show me my events", "label": "calendar/query"}
+{"text": "remove all alarms", "label": "alarm/remove"}
+{"text": "tell me if my alarm is set for the morning", "label": "alarm/query"}
+{"text": "get me fresh news", "label": "news/query"}
+{"text": "increase volume to fifty percent", "label": "audio/volume_up"}
+{"text": "what is the time difference between eastern and pacific", "label": "datetime/convert"}
+{"text": "best restaurant in local area", "label": "recommendation/locations"}
+{"text": "what time is it in england", "label": "datetime/query"}
+{"text": "What event do you suggest for me tonight", "label": "recommendation/events"}
+{"text": "add a five am alarm in place of my nine pm alarm", "label": "alarm/set"}
+{"text": "cancel all meetings for today", "label": "calendar/remove"}
+{"text": "alarm five pm tuesday", "label": "alarm/set"}
+{"text": "remind me to eat when i get home", "label": "calendar/set"}
+{"text": "what is the time difference between here and dakar", "label": "datetime/query"}
+{"text": "where is the closer starbucks", "label": "recommendation/locations"}
+{"text": "headlines from dhaka tribune", "label": "news/query"}
+{"text": "give me new york's current time", "label": "datetime/query"}
+{"text": "update me on the standing rock protest", "label": "news/query"}
+{"text": "set alarm for this event reminder repeating for ten times", "label": "alarm/set"}
+{"text": "can you tell me today's date", "label": "datetime/query"}
+{"text": "call me at six am", "label": "alarm/set"}
+{"text": "is there a sports bar near kansas city plaza area", "label": "recommendation/locations"}
+{"text": "set a meeting with hongbin", "label": "calendar/set"}
+{"text": "what time will it be locally at nine am bangalore india time", "label": "datetime/convert"}
+{"text": "have there been updates on abortion law", "label": "news/query"}
+{"text": "when is the yearly cultural event coming up", "label": "recommendation/events"}
+{"text": "please set alarm for all days", "label": "alarm/set"}
+{"text": "celeb news", "label": "news/query"}
+{"text": "alarm ten am", "label": "alarm/set"}
+{"text": "add lunch appointment with lisa to january second at twelve thirty pm", "label": "calendar/set"}
+{"text": "Hey turn the volume high", "label": "audio/volume_up"}
+{"text": "tell me the local events", "label": "recommendation/events"}
+{"text": "ten past seven", "label": "datetime/query"}
+{"text": "breaking news fox news", "label": "news/query"}
+{"text": "please give me today's date", "label": "datetime/query"}
+{"text": "convert time zone to ist", "label": "datetime/convert"}
+{"text": "please add dinner with mary to my calendar on saturday", "label": "calendar/set"}
+{"text": "speaker volume decrease", "label": "audio/volume_down"}
+{"text": "i need some sushi what's closest", "label": "recommendation/locations"}
+{"text": "be mute", "label": "audio/volume_mute"}
+{"text": "i want to find some chinese food what is near me", "label": "recommendation/locations"}
+{"text": "which rom com movie can i watch in theatres around new york", "label": "recommendation/movies"}
+{"text": "change my clock to central time zone from my current zone", "label": "datetime/convert"}
+{"text": "could you please remove the set of alarms between eight and nine", "label": "alarm/remove"}
+{"text": "tell me what alarms are set for me", "label": "alarm/query"}
+{"text": "down", "label": "audio/volume_down"}
+{"text": "please set an alarm at six am", "label": "alarm/set"}
+{"text": "please raise the volume of speaker", "label": "audio/volume_up"}
+{"text": "is there any pending reminder for me", "label": "calendar/query"}
+{"text": "i need sport's news", "label": "news/query"}
+{"text": "is there any type of festival going on in town this weekend", "label": "recommendation/events"}
+{"text": "remove all of my alarms", "label": "alarm/remove"}
+{"text": "turn the speakers down to five percent", "label": "audio/volume_down"}
+{"text": "add to calendar an medical appointment for the first day of the next five months", "label": "calendar/set"}
+{"text": "what kind of free activities can i do locally this week", "label": "recommendation/events"}
+{"text": "remove the doctor's appointment i added to my calendar for february twelfth at nine am", "label": "calendar/remove"}
+{"text": "what are good movies playing now", "label": "recommendation/movies"}
+{"text": "what week of the year does the summer season start", "label": "datetime/query"}
+{"text": "one pm removed", "label": "alarm/remove"}
+{"text": "can you tell me the cheapest place to get ground beef", "label": "recommendation/locations"}
+{"text": "call sarah", "label": "calendar/set"}
+{"text": "list out my upcoming events", "label": "calendar/query"}
+{"text": "add my spin class to the calendar for Saturday at seven am", "label": "calendar/set"}
+{"text": "recommend a movie which is released last Friday", "label": "recommendation/movies"}
+{"text": "please remove dinner date scheduled for this friday at nine pm", "label": "calendar/remove"}
+{"text": "place alarm at five o'clock morning", "label": "alarm/set"}
+{"text": "turn off the bass from the audio", "label": "audio/volume_down"}
+{"text": "are there any alarms", "label": "alarm/query"}
+{"text": "please mute the speakers", "label": "audio/volume_mute"}
+{"text": "what movies are being shown at the regal cinema", "label": "recommendation/movies"}
+{"text": "what meetings are available in march", "label": "calendar/query"}
+{"text": "what's today date", "label": "datetime/query"}
+{"text": "please tell me the main points of my two hundred meeting from this afternoon", "label": "calendar/query"}
+{"text": "raise the volume of the speakers", "label": "audio/volume_up"}
+{"text": "remove twenty fourth march meeting from schedule", "label": "calendar/remove"}
+{"text": "turn the music lower", "label": "audio/volume_down"}
+{"text": "talk quieter please", "label": "audio/volume_down"}
+{"text": "can you set the alarm for one hundred and thirty", "label": "alarm/set"}
+{"text": "update alarm", "label": "alarm/set"}
+{"text": "please add shopping at mall on twenty six march at twelve pm", "label": "calendar/set"}
+{"text": "what is the time in hyderabad", "label": "datetime/query"}
+{"text": "add newscast time to daily schedule", "label": "news/query"}
+{"text": "quiet", "label": "audio/volume_mute"}
+{"text": "which shops can i find in milan", "label": "recommendation/locations"}
+{"text": "disable my three pm alarm", "label": "alarm/remove"}
+{"text": "mute yourself until five pm", "label": "audio/volume_mute"}
+{"text": "speak louder please", "label": "audio/volume_up"}
+{"text": "i have a meeting with al on march twenty first at ten", "label": "calendar/set"}
+{"text": "can you recommend a cheap restaurant in this area", "label": "recommendation/locations"}
+{"text": "what day is christmas", "label": "datetime/query"}
+{"text": "what is the headline from today's morning local news", "label": "news/query"}
+{"text": "add to calendar may two is mary's birthday repeat every year", "label": "calendar/set"}
+{"text": "enter silence mode", "label": "audio/volume_mute"}
+{"text": "create an alarm for five pm", "label": "alarm/set"}
+{"text": "The latest climate and weather news", "label": "news/query"}
+{"text": "convert eight thirty from gtm four to g. m. t. five thirty", "label": "datetime/convert"}
+{"text": "show me the list of alarms", "label": "alarm/query"}
+{"text": "first week of march meetings", "label": "calendar/query"}
+{"text": "remind me about my biology test at fsu on friday", "label": "calendar/set"}
+{"text": "what alarms do i have", "label": "alarm/query"}
+{"text": "erase all content in my calendar", "label": "calendar/remove"}
+{"text": "the twenty second is on what day of the week", "label": "datetime/query"}
+{"text": "hi please remind the next meeting with my boss it will be at eleven am next monday", "label": "calendar/set"}
+{"text": "repeat reminder for my schedule for christmas", "label": "calendar/set"}
+{"text": "tell me about things to do in london", "label": "recommendation/events"}
+{"text": "the time in cairo please", "label": "datetime/query"}
+{"text": "anything interesting happening next friday", "label": "calendar/query"}
+{"text": "set the event to recur on the first monday of the month", "label": "calendar/set"}
+{"text": "play it louder", "label": "audio/volume_up"}
+{"text": "remove standup on Friday at ten am", "label": "calendar/remove"}
+{"text": "what bands are playing close by", "label": "recommendation/events"}
+{"text": "please quiet the speaker", "label": "audio/volume_mute"}
+{"text": "turn down the speakers", "label": "audio/volume_down"}
+{"text": "checkout today set alarm of ten am", "label": "alarm/query"}
+{"text": "new york time", "label": "datetime/query"}
+{"text": "if i was in the eastern time zone what time would it be", "label": "datetime/convert"}
+{"text": "show me upcoming events in this area", "label": "recommendation/events"}
+{"text": "tell me the time", "label": "datetime/query"}
+{"text": "pause for ten seconds", "label": "audio/volume_mute"}
+{"text": "disable music player", "label": "audio/volume_mute"}
+{"text": "twelve am removed", "label": "alarm/remove"}
+{"text": "what is the current date today", "label": "datetime/query"}
+{"text": "set a reminder i need to wake up at five am every morning", "label": "alarm/set"}
+{"text": "where is the event venue", "label": "recommendation/events"}
+{"text": "what's the news in politics on cnn", "label": "news/query"}
+{"text": "make an alarm for three pm", "label": "alarm/set"}
+{"text": "search for local shops", "label": "recommendation/locations"}
+{"text": "speak as loud as you can", "label": "audio/volume_up"}
+{"text": "turn off the sound", "label": "audio/volume_mute"}
+{"text": "please tell me the date", "label": "datetime/query"}
+{"text": "disable all alarms set for today", "label": "alarm/remove"}
+{"text": "find a shop that sells beer", "label": "recommendation/locations"}
+{"text": "which book fair events are taking place next week in washington dc", "label": "recommendation/events"}
+{"text": "cancels lunch at the restaurant booked for march twenty five", "label": "calendar/remove"}
+{"text": "what is a movie like star wars", "label": "recommendation/movies"}
+{"text": "increase volume", "label": "audio/volume_up"}
+{"text": "are there any alarms set", "label": "alarm/query"}
+{"text": "what alarms i have set", "label": "alarm/query"}
+{"text": "please lower the speaker volume", "label": "audio/volume_down"}
+{"text": "remove all upcoming events please", "label": "calendar/remove"}
+{"text": "delete my next meeting", "label": "calendar/remove"}
+{"text": "what is the day today", "label": "datetime/query"}
+{"text": "set generic calendar event for next saturday at ten am", "label": "calendar/set"}
+{"text": "how many alarms are set", "label": "alarm/query"}
+{"text": "what events do i have scheduled today", "label": "calendar/query"}
+{"text": "where is a good wine bar near me", "label": "recommendation/locations"}
+{"text": "please remind me for the function at miami tomorrow", "label": "calendar/set"}
+{"text": "i need a good chick flick any thoughts", "label": "recommendation/movies"}
+{"text": "what day of the week is the first of march", "label": "datetime/query"}
+{"text": "please arrange to wake me up at three am alarm", "label": "alarm/set"}
+{"text": "please turn the music up", "label": "audio/volume_up"}
+{"text": "dismiss my next event", "label": "calendar/remove"}
+{"text": "do i need to undertake any particular activity during my stay at the yellowstone national park", "label": "recommendation/events"}
+{"text": "what movie should i go see", "label": "recommendation/movies"}
+{"text": "what is happening in delhi today", "label": "recommendation/events"}
+{"text": "name stores within ten mile radius with music", "label": "recommendation/locations"}
+{"text": "please wake me up at eight am", "label": "alarm/set"}
+{"text": "keep me informed about bitcoin price", "label": "news/query"}
+{"text": "what alarms do i got", "label": "alarm/query"}
+{"text": "blot me all the phone calls planned for the morning of twenty three march", "label": "calendar/set"}
+{"text": "i'm looking for a bar do you know a good one", "label": "recommendation/locations"}
+{"text": "turn off eight am alarm", "label": "alarm/remove"}
+{"text": "cancel alarm", "label": "alarm/remove"}
+{"text": "i want exact time in washington right now", "label": "datetime/query"}
+{"text": "tell me about current status of sunderland vs liverpool match", "label": "news/query"}
+{"text": "turn up the volume of my speakers", "label": "audio/volume_up"}
+{"text": "time between us and canada", "label": "datetime/convert"}
+{"text": "am i busy on Wednesday evening", "label": "calendar/query"}
+{"text": "i need a six am wakeup call", "label": "alarm/set"}
+{"text": "are there any veg restaurants in phoenix", "label": "recommendation/locations"}
+{"text": "remove the latest alarm", "label": "alarm/remove"}
+{"text": "did i set an alarm to wake up in the morning", "label": "alarm/query"}
+{"text": "set mute for twenty minutes", "label": "audio/volume_mute"}
+{"text": "turn off my first alarm", "label": "alarm/remove"}
+{"text": "see if john is available for a meeting on Monday", "label": "calendar/set"}
+{"text": "convert twenty one thirty from gtm four to g. m. t. four thirty", "label": "datetime/convert"}
+{"text": "latest movie releases", "label": "recommendation/movies"}
+{"text": "Show times for nearest theater", "label": "recommendation/movies"}
+{"text": "mute the volume", "label": "audio/volume_mute"}
+{"text": "i would be happy if you update me the events going on our area", "label": "recommendation/events"}
+{"text": "can you give me the time in this time zone", "label": "datetime/query"}
+{"text": "can you turn the volume up", "label": "audio/volume_up"}
+{"text": "my calendar is to be updated with all rccg event in march", "label": "calendar/set"}
+{"text": "snooze", "label": "alarm/remove"}
+{"text": "please clean my calendar", "label": "calendar/remove"}
+{"text": "is my alarm set for tomorrow morning", "label": "alarm/query"}
+{"text": "in my calendar delete all of my golf events for the current month", "label": "calendar/remove"}
+{"text": "local events", "label": "recommendation/events"}
+{"text": "do i have a dentist appointment on monday morning", "label": "calendar/query"}
+{"text": "can you tell me on tuesday to give jane a call", "label": "calendar/set"}
+{"text": "pause the music", "label": "audio/volume_mute"}
+{"text": "show me the alarms that are set", "label": "alarm/query"}
+{"text": "is there an alarm for ten am", "label": "alarm/query"}
+{"text": "set alarm at nine am on next sunday", "label": "alarm/set"}
+{"text": "volume down", "label": "audio/volume_down"}
+{"text": "recommend a restaurant with medium expense", "label": "recommendation/locations"}
+{"text": "silently adjust", "label": "audio/volume_mute"}
+{"text": "what is the date and time", "label": "datetime/query"}
+{"text": "time time is the holiday party at the office", "label": "calendar/query"}
+{"text": "what's the latest news on donald trump", "label": "news/query"}
+{"text": "what's going on tonight in sacramento", "label": "recommendation/events"}
+{"text": "can you tell me what kind of show can i go tonight in miami", "label": "recommendation/events"}
+{"text": "remove my wake up alarm", "label": "alarm/remove"}
+{"text": "running competitions on the west side", "label": "recommendation/events"}
+{"text": "where can i shop around here", "label": "recommendation/locations"}
+{"text": "when is bank holiday", "label": "calendar/query"}
+{"text": "remove alarm of seven thirty am on monday", "label": "alarm/remove"}
+{"text": "can you tell me what movies are playing at the movies tonight", "label": "recommendation/movies"}
+{"text": "can you turn up the volume on itunes", "label": "audio/volume_up"}
+{"text": "name a rom com movie playing in and around new york theatres", "label": "recommendation/movies"}
+{"text": "how soon is my anniversary", "label": "calendar/query"}
+{"text": "how many days are in this month", "label": "datetime/query"}
+{"text": "quieter", "label": "audio/volume_down"}
+{"text": "delete my dr k appointment in march", "label": "calendar/remove"}
+{"text": "do not wake me up on weekends", "label": "alarm/remove"}
+{"text": "speak quieter", "label": "audio/volume_down"}
+{"text": "turn the volume down a little please", "label": "audio/volume_down"}
+{"text": "what is scheduled on my calendar today", "label": "calendar/query"}
+{"text": "clear all events for this month", "label": "calendar/remove"}
+{"text": "cancel business meeting on wednesday", "label": "calendar/remove"}
+{"text": "remind me to take the casserole out of the oven at seven hundred and forty five pm", "label": "calendar/set"}
+{"text": "change mountain standard to pacific", "label": "datetime/convert"}
+{"text": "can you sync my calendar with mark", "label": "calendar/set"}
+{"text": "give me the time in phoenix az", "label": "datetime/query"}
+{"text": "lower volume to half", "label": "audio/volume_down"}
+{"text": "do i have any off days this week", "label": "calendar/query"}
+{"text": "olly cancel yoga alarms", "label": "alarm/remove"}
+{"text": "please set this date to repeat", "label": "calendar/set"}
+{"text": "what pubs are close", "label": "recommendation/locations"}
+{"text": "local shops", "label": "recommendation/locations"}
+{"text": "markets near by", "label": "recommendation/locations"}
+{"text": "what's the time in dubai", "label": "datetime/query"}
+{"text": "cancel sam's party", "label": "calendar/remove"}
+{"text": "can you give me the time in new delhi", "label": "datetime/query"}
+{"text": "what new movies are good", "label": "recommendation/movies"}
+{"text": "please show me today's date", "label": "datetime/query"}
+{"text": "schedule a meeting with al on tuesday", "label": "calendar/set"}
+{"text": "mute immediately", "label": "audio/volume_mute"}
+{"text": "please do not respond", "label": "audio/volume_mute"}
+{"text": "what day does april sixteenth fall on", "label": "datetime/query"}
+{"text": "logan", "label": "recommendation/movies"}
+{"text": "tell me when the next alarms are for", "label": "alarm/query"}
+{"text": "don't speak for an hour", "label": "audio/volume_mute"}
+{"text": "is my schedule full for tomorrow from eight am to two pm", "label": "calendar/query"}
+{"text": "set the alarm to seven am for work", "label": "alarm/set"}
+{"text": "raise your volume", "label": "audio/volume_up"}
+{"text": "remove my earliest alarm for tomorrow", "label": "alarm/remove"}
+{"text": "delete my meeting for tomorrow", "label": "calendar/remove"}
+{"text": "set an alarm for five minutes from now", "label": "alarm/set"}
+{"text": "mute sound from speakers", "label": "audio/volume_mute"}
+{"text": "how many hours difference is hong kong from new york city", "label": "datetime/convert"}
+{"text": "remove my four am alarm", "label": "alarm/remove"}
+{"text": "alert me at the time of the event", "label": "calendar/set"}
+{"text": "if it is noon in virginia what time is it in california", "label": "datetime/convert"}
+{"text": "all alarms", "label": "alarm/query"}
+{"text": "delete the events from the calendar on twenty eighth march", "label": "calendar/remove"}
+{"text": "check if any alarm is there after five am", "label": "alarm/query"}
+{"text": "cnn world news", "label": "news/query"}
+{"text": "what date is the third friday of this month", "label": "datetime/query"}
+{"text": "ocean eleven", "label": "recommendation/movies"}
+{"text": "please increase volume in music player", "label": "audio/volume_up"}
+{"text": "what is playing at the local theater right now", "label": "recommendation/events"}
+{"text": "turn down the sound", "label": "audio/volume_down"}
+{"text": "can you turn it up a little", "label": "audio/volume_up"}
+{"text": "the set alarm for nine pm on Thursday night", "label": "alarm/set"}
+{"text": "are there any alarms going off today", "label": "alarm/query"}
+{"text": "whats happening around my town", "label": "recommendation/events"}
+{"text": "find dinner with mom on my calendar and delete it", "label": "calendar/remove"}
+{"text": "make a repeating reminder for my yoga practice every day at noon", "label": "calendar/set"}
+{"text": "get rid of everything on my calendar", "label": "calendar/remove"}
+{"text": "please remove the appointment which i have made with mrjim", "label": "calendar/remove"}
+{"text": "what time is it in the eastern half of the us right now", "label": "datetime/query"}
+{"text": "show my alarms", "label": "alarm/query"}
+{"text": "do i have a meeting on saturday march twenty fifth", "label": "calendar/query"}
+{"text": "to which event can i go in milan now", "label": "recommendation/events"}
+{"text": "what is the time in india when the time in us is twelve pm", "label": "datetime/convert"}
+{"text": "what shops are round here", "label": "recommendation/locations"}
+{"text": "please set my alarm for five pm", "label": "alarm/set"}
+{"text": "what events are this week", "label": "calendar/query"}
+{"text": "olly find any alarms i have set for today", "label": "alarm/query"}
+{"text": "alarm set", "label": "alarm/set"}
+{"text": "can you turn up your volume", "label": "audio/volume_up"}
+{"text": "please set reminder", "label": "calendar/set"}
+{"text": "please shut off", "label": "audio/volume_mute"}
+{"text": "please be silent", "label": "audio/volume_mute"}
+{"text": "what is going on in south tampa today", "label": "recommendation/events"}
+{"text": "recommend a romantic comedy in me area", "label": "recommendation/movies"}
+{"text": "what day today", "label": "datetime/query"}
+{"text": "where is the pharmacy in leavenworth", "label": "recommendation/locations"}
+{"text": "what is the latest headline news from this newsource", "label": "news/query"}
+{"text": "move the volume up a little", "label": "audio/volume_up"}
+{"text": "set mute mode for one hour", "label": "audio/volume_mute"}
+{"text": "louder please", "label": "audio/volume_up"}
+{"text": "what day of the week is june twenty seventh on this year", "label": "datetime/query"}
+{"text": "olly schedule a news update for tomorrow morning at seven am", "label": "news/query"}
+{"text": "checkout today alarm of meeting", "label": "alarm/query"}
+{"text": "can you delete the not so important events", "label": "calendar/remove"}
+{"text": "remove number three alarm of list", "label": "alarm/remove"}
+{"text": "tell me a nice chinese restaurant", "label": "recommendation/locations"}
+{"text": "please show me best run program in jodhpur", "label": "recommendation/events"}
+{"text": "show me what day the thirty first is on", "label": "datetime/query"}
+{"text": "don't let me forget i have a parent teacher conference this monday at four hundred pm", "label": "calendar/set"}
+{"text": "tell me about my upcoming week", "label": "calendar/query"}
+{"text": "turn up the speakers", "label": "audio/volume_up"}
+{"text": "what time is it in new york city", "label": "datetime/query"}
+{"text": "tell me when the hockey game tickets are for", "label": "calendar/query"}
+{"text": "erase my next calendar event", "label": "calendar/remove"}
+{"text": "what important dates are there in my calendar this month", "label": "calendar/query"}
+{"text": "remind me about calendar", "label": "calendar/set"}
+{"text": "do you know what day it is", "label": "datetime/query"}
+{"text": "where can i got to grab some drinks in west chester", "label": "recommendation/locations"}
+{"text": "cancel everything on my calendar", "label": "calendar/remove"}
+{"text": "display nearby places", "label": "recommendation/locations"}
+{"text": "set new alarm on five am", "label": "alarm/set"}
+{"text": "tell me where i can go shopping in this area", "label": "recommendation/locations"}
+{"text": "alert me at three pm to goto the concert", "label": "alarm/set"}
+{"text": "what are the show times of logan", "label": "recommendation/movies"}
+{"text": "what day is the fifteenth", "label": "datetime/query"}
+{"text": "remove the event from monday", "label": "calendar/remove"}
+{"text": "rm rf calendar", "label": "calendar/remove"}
+{"text": "delete the party on june first from my calendar", "label": "calendar/remove"}
+{"text": "what are the best italian restaurants in los angeles", "label": "recommendation/locations"}
+{"text": "delete all events for the next five days", "label": "calendar/remove"}
+{"text": "add jane's birthday party at one hundred and twenty three main for two pm tomorrow on my calendar", "label": "calendar/set"}
+{"text": "what date is today", "label": "datetime/query"}
+{"text": "please keep quiet for the next hour", "label": "audio/volume_mute"}
+{"text": "from four to six when do i have a free break", "label": "calendar/query"}
+{"text": "what exhibits or shows are scheduled at the metropolitan theater", "label": "recommendation/events"}
+{"text": "list events in ny", "label": "recommendation/events"}
+{"text": "if it is twelve hours ahead of eastern standard centaur time what's the time in the philippines now", "label": "datetime/convert"}
+{"text": "i want to know what are happening now in me area", "label": "recommendation/events"}
+{"text": "show local events near me", "label": "recommendation/events"}
+{"text": "what's going on around here this weekend", "label": "recommendation/events"}
+{"text": "turn up the volume on the music", "label": "audio/volume_up"}
+{"text": "turn off my alarm", "label": "alarm/remove"}
+{"text": "cancel tomorrow's meeting", "label": "calendar/remove"}
+{"text": "wake me up at five hundred and thirty", "label": "alarm/set"}
+{"text": "what is the month day and year", "label": "datetime/query"}
+{"text": "what is the time in milwaukee", "label": "datetime/query"}
+{"text": "wine shop", "label": "recommendation/locations"}
+{"text": "remind me about tomorrow meeting at ten am", "label": "calendar/set"}
+{"text": "can you tell me the time in new york", "label": "datetime/query"}
+{"text": "please change the volume to mute", "label": "audio/volume_mute"}
+{"text": "where's the best and most affordable place to stay in san diego", "label": "recommendation/locations"}
+{"text": "hackernews", "label": "news/query"}
+{"text": "what and how is india's economy at the moment", "label": "news/query"}
+{"text": "what's happening with the hurricane in the gulf", "label": "news/query"}
+{"text": "schedule meeting with laura", "label": "calendar/set"}
+{"text": "set alarm for tomorrow at two pm", "label": "alarm/set"}
+{"text": "what is happening in the world right now", "label": "news/query"}
+{"text": "decrease the volume to ten percent", "label": "audio/volume_down"}
+{"text": "i need to know where to get chicken wings in benton ar", "label": "recommendation/locations"}
+{"text": "where can i get something to eat by the art museum", "label": "recommendation/locations"}
+{"text": "silence volume on speakers", "label": "audio/volume_mute"}
+{"text": "do i have any appointments scheduled for march twenty four two thousand and seventeen", "label": "calendar/query"}
+{"text": "your volume is too high please repeat that lower", "label": "audio/volume_down"}
+{"text": "mute for one hour", "label": "audio/volume_mute"}
+{"text": "give me the reminders", "label": "calendar/query"}
+{"text": "look up news articles about trump", "label": "news/query"}
+{"text": "remind me on fifth march of every year to arrange wedding anniversary presents", "label": "calendar/set"}
+{"text": "get louder", "label": "audio/volume_up"}
+{"text": "where should i go eat tonight", "label": "recommendation/locations"}
+{"text": "access latest news", "label": "news/query"}
+{"text": "what is a good lave to eat near me", "label": "recommendation/locations"}
+{"text": "cancel my eight am alarm", "label": "alarm/remove"}
+{"text": "what is the nine am cst to est", "label": "datetime/convert"}
+{"text": "delete all recurring staff meetings", "label": "calendar/remove"}
+{"text": "can you set radio to mute", "label": "audio/volume_mute"}
+{"text": "i have a meeting with sean at four pm on wednesday can you remind me", "label": "calendar/set"}
+{"text": "is there any salon in babaji nagar", "label": "recommendation/locations"}
+{"text": "don't talk", "label": "audio/volume_mute"}
+{"text": "did i remember to set a reminder alarm for my next doctor's appointment", "label": "alarm/query"}
+{"text": "help me locate a shop that sells clothes for classy ladies", "label": "recommendation/locations"}
+{"text": "convert current time from ist to est", "label": "datetime/convert"}
+{"text": "where can i shop as a local tourist", "label": "recommendation/locations"}
+{"text": "on third april we will go to watch j llb movie set it", "label": "calendar/set"}
+{"text": "please set my alarm clock for eight am", "label": "alarm/set"}
+{"text": "stop seven am alarm", "label": "alarm/remove"}
+{"text": "please reduce the sound", "label": "audio/volume_down"}
+{"text": "where am i supposed to be by this time tomorrow", "label": "calendar/query"}
+{"text": "what are the results of the election", "label": "news/query"}
+{"text": "list all the alarms", "label": "alarm/query"}
+{"text": "make the speaker volume on maximum", "label": "audio/volume_up"}
+{"text": "lower the volume ten percent", "label": "audio/volume_down"}
+{"text": "decrease volume to very soft", "label": "audio/volume_down"}
+{"text": "add a reminder to my calendar every year on this date", "label": "calendar/set"}
+{"text": "take note of today as my first date with bob", "label": "calendar/set"}
+{"text": "what is happening tomorrow", "label": "recommendation/events"}
+{"text": "how is the new movie swat", "label": "recommendation/movies"}
+{"text": "how about the latest news", "label": "news/query"}
+{"text": "let me know when it is ten", "label": "alarm/set"}
+{"text": "set a reminder for john's birthday next week", "label": "calendar/set"}
+{"text": "please turn off my alarm for this evening", "label": "alarm/remove"}
+{"text": "where is mcdo", "label": "recommendation/locations"}
+{"text": "tell me about the meetings over a period of time", "label": "calendar/query"}
+{"text": "what is open late in la", "label": "recommendation/events"}
+{"text": "kung fu panda three", "label": "recommendation/movies"}
+{"text": "will there be a farmers market in the area this weekend", "label": "recommendation/events"}
+{"text": "headline news for texas", "label": "news/query"}
+{"text": "deadpool", "label": "recommendation/movies"}
+{"text": "what is on my alarm schedule", "label": "alarm/query"}
+{"text": "could you speak a little more softly", "label": "audio/volume_up"}
+{"text": "what time does thor start", "label": "recommendation/movies"}
+{"text": "set the time zone to g. m. t.", "label": "datetime/convert"}
+{"text": "please let me know the morning alarm time kept for weekends", "label": "alarm/query"}
+{"text": "what is happening in the area", "label": "recommendation/events"}
+{"text": "what is my schedule for tomorrow", "label": "calendar/query"}
+{"text": "have i set any alarm for today", "label": "alarm/query"}
+{"text": "do i have alarms set for today", "label": "alarm/query"}
+{"text": "low the volume", "label": "audio/volume_down"}
+{"text": "please remove this alarm", "label": "alarm/remove"}
+{"text": "set meeting with joanna on Saturday four pm", "label": "calendar/set"}
+{"text": "I need the volume to be quieter", "label": "audio/volume_down"}
+{"text": "is the balloon festival this weekend", "label": "calendar/query"}
+{"text": "is my calendar free for Thursday", "label": "calendar/query"}
+{"text": "softer", "label": "audio/volume_down"}
+{"text": "no notifications for five minutes", "label": "audio/volume_mute"}
+{"text": "what time have you set the alarm", "label": "alarm/query"}
+{"text": "i would like to mute the speakers please", "label": "audio/volume_mute"}
+{"text": "please create a new alarm", "label": "alarm/set"}
+{"text": "should i watch this movie", "label": "recommendation/movies"}
+{"text": "set an alarm at ten tomorrow to remind me a meeting", "label": "alarm/set"}
+{"text": "set the volume higher", "label": "audio/volume_up"}
+{"text": "what's happening in news express", "label": "news/query"}
+{"text": "where is the closest restaurant", "label": "recommendation/locations"}
+{"text": "what is a good movie to see right now", "label": "recommendation/movies"}
+{"text": "what do they have going on for festivals downtown", "label": "recommendation/events"}
+{"text": "set alarm for twelve weeks from today at eight am", "label": "alarm/set"}
+{"text": "is the alarm set for tomorrow morning", "label": "alarm/query"}
+{"text": "what is tomorrows events", "label": "recommendation/events"}
+{"text": "what is the news today", "label": "news/query"}
+{"text": "add event to date", "label": "calendar/set"}
+{"text": "please set an alarm at seven am tomorrow morning", "label": "alarm/set"}
+{"text": "is the anniversary event on twenty second of this month true", "label": "calendar/query"}
+{"text": "what time of day is it in london", "label": "datetime/query"}
+{"text": "wake me up at seven am", "label": "alarm/set"}
+{"text": "is anything different today about blank", "label": "news/query"}
+{"text": "convert current time from g. m. t. to est", "label": "datetime/convert"}
+{"text": "remind me of my appointment on the fifteenth", "label": "calendar/set"}
+{"text": "set a reminder for twelve thirty meeting with the boss", "label": "calendar/set"}
+{"text": "latest updates on syrian civil war", "label": "news/query"}
+{"text": "turn off sound", "label": "audio/volume_mute"}
+{"text": "what events are coming up", "label": "recommendation/events"}
+{"text": "can you remind me to check my clothes in a hour", "label": "calendar/set"}
+{"text": "can you pull up the latest time so i won't be late for my appointment", "label": "calendar/query"}
+{"text": "is there any new news on trump", "label": "news/query"}
+{"text": "please do not answer", "label": "audio/volume_mute"}
+{"text": "shall we meet for today's party", "label": "calendar/query"}
+{"text": "do i need to pick up the kids from anything today", "label": "calendar/query"}
+{"text": "set volume to zero", "label": "audio/volume_mute"}
+{"text": "cnn headlines", "label": "news/query"}
+{"text": "today is monday is it", "label": "datetime/query"}
+{"text": "one am set", "label": "alarm/set"}
+{"text": "what is happening this weekend", "label": "calendar/query"}
+{"text": "what is the current time in chennai", "label": "datetime/query"}
+{"text": "disable the alarm at ten am", "label": "alarm/remove"}
+{"text": "please delete all calendar events", "label": "calendar/remove"}
+{"text": "i need to find a gift what stores are within a one mile radius", "label": "recommendation/locations"}
+{"text": "on my calendar are there any birthdays", "label": "calendar/query"}
+{"text": "show me the current time", "label": "datetime/query"}
+{"text": "remove all alarms if any", "label": "alarm/remove"}
+{"text": "remind me to water my plants every tuesday thursday and saturday", "label": "calendar/set"}
+{"text": "the time difference between lagos and new york is what", "label": "datetime/convert"}
+{"text": "show local events", "label": "recommendation/events"}
+{"text": "it's eight fifty five here what time is it in england", "label": "datetime/convert"}
+{"text": "i can barely hear you", "label": "audio/volume_up"}
+{"text": "unmute after", "label": "audio/volume_up"}
+{"text": "how many things do i have planned tonight", "label": "calendar/query"}
+{"text": "Show me news from cnn", "label": "news/query"}
+{"text": "can you tell me about any local events coming up", "label": "recommendation/events"}
+{"text": "cancel the breakfast at tiffany's house", "label": "calendar/remove"}
+{"text": "erase all events", "label": "calendar/remove"}
+{"text": "can you tell me if i have any alarms set", "label": "alarm/query"}
+{"text": "what events are happening this weekend in my area", "label": "recommendation/events"}
+{"text": "set meeting with the ceo tomorrow", "label": "calendar/set"}
+{"text": "do i have any alarms set for six am tomorrow", "label": "alarm/query"}
+{"text": "what day of the week is it", "label": "datetime/query"}
+{"text": "review set alarms", "label": "alarm/query"}
+{"text": "where's the closest zoo to where i'm at", "label": "recommendation/locations"}
+{"text": "is there christmas on twenty second", "label": "datetime/query"}
+{"text": "please read out all the alarms that are set", "label": "alarm/query"}
+{"text": "have i set any alarms in the morning", "label": "alarm/query"}
+{"text": "decrease the volume", "label": "audio/volume_down"}
+{"text": "i need to set an alarm for next friday at noon", "label": "alarm/set"}
+{"text": "could you list out the information on book fairs in washington dc for next week", "label": "recommendation/events"}
+{"text": "what are my reminders for this week", "label": "calendar/query"}
+{"text": "please convert the time of here at nine pm to brasil time zone", "label": "datetime/convert"}
+{"text": "set alarm at five am", "label": "alarm/set"}
+{"text": "tea shop", "label": "recommendation/locations"}
+{"text": "did the yankees win last night", "label": "news/query"}
+{"text": "olly please read me today's news", "label": "news/query"}
+{"text": "show me the time", "label": "datetime/query"}
+{"text": "mute the music", "label": "audio/volume_mute"}
+{"text": "do not talk", "label": "audio/volume_mute"}
+{"text": "please tell about the alarms", "label": "alarm/query"}
+{"text": "what are the show times for logan at the nearby theatre", "label": "recommendation/movies"}
+{"text": "whats today", "label": "datetime/query"}
+{"text": "what happened yesterday on samurai jack", "label": "news/query"}
+{"text": "down the speaker volume at the end of level", "label": "audio/volume_mute"}
+{"text": "will trump visit russia anytime soon", "label": "news/query"}
+{"text": "what is going on today in biloxi", "label": "recommendation/events"}
+{"text": "speak softer please", "label": "audio/volume_down"}
+{"text": "what days are my alarms set for", "label": "alarm/query"}
+{"text": "delete that", "label": "calendar/remove"}
+{"text": "remove calendar events for this week", "label": "calendar/remove"}
+{"text": "can you please change the time zone to us", "label": "datetime/convert"}
+{"text": "list of the nearby restaurant", "label": "recommendation/locations"}
+{"text": "movies with good reviews", "label": "recommendation/movies"}
+{"text": "local theater screening which movie", "label": "recommendation/movies"}
+{"text": "list all of my upcoming alarms", "label": "alarm/query"}
+{"text": "please delete this calendar event", "label": "calendar/remove"}
+{"text": "any alarms currently listed", "label": "alarm/query"}
+{"text": "movie times tonight", "label": "recommendation/movies"}
+{"text": "what is trending", "label": "news/query"}
+{"text": "what alarms are upcoming", "label": "alarm/query"}
+{"text": "what time is my alarm set for", "label": "alarm/query"}
+{"text": "please remind me about the event later five pm", "label": "calendar/set"}
+{"text": "will you turn the alarm off for me", "label": "alarm/remove"}
+{"text": "let me see cultural events for this weekend in palermo neighborhood", "label": "recommendation/events"}
+{"text": "alert me at five hours", "label": "alarm/set"}
+{"text": "please adjust the speakers to a lower more comfortable level", "label": "audio/volume_down"}
+{"text": "what restaurants around here have good reviews", "label": "recommendation/locations"}
+{"text": "turn off my alarms", "label": "alarm/remove"}
+{"text": "tell me what's happening this week", "label": "calendar/query"}
+{"text": "do i have anything planned for the twenty first", "label": "calendar/query"}
+{"text": "give me the latest updates", "label": "news/query"}
+{"text": "turn up the volume", "label": "audio/volume_up"}
+{"text": "refer local current events", "label": "recommendation/events"}
+{"text": "where is the nearest italian restaurant", "label": "recommendation/locations"}
+{"text": "hey olly make sure my calendar is completely clear tomorrow", "label": "calendar/remove"}
+{"text": "when will the match start", "label": "calendar/query"}
+{"text": "could you please yell the answer out to me", "label": "audio/volume_up"}
+{"text": "mute for the next hour please", "label": "audio/volume_mute"}
+{"text": "mute yourself when i am in a meeting", "label": "audio/volume_mute"}
+{"text": "what is my next reminder", "label": "calendar/query"}
+{"text": "alarm me at eight am", "label": "alarm/set"}
+{"text": "unmute the speaker now", "label": "audio/volume_up"}
+{"text": "let me know if anything happens on that subject", "label": "news/query"}
+{"text": "pull up my cnn app and read it to me", "label": "news/query"}
+{"text": "remove tomorrow's alarm", "label": "alarm/remove"}
+{"text": "turn up sound", "label": "audio/volume_up"}
+{"text": "what is the time difference between california and michegan", "label": "datetime/convert"}
+{"text": "show me where i can find a hamburger", "label": "recommendation/events"}
+{"text": "please we're the following alarm", "label": "alarm/set"}
+{"text": "please increase the volume of the music hips don't lie", "label": "audio/volume_up"}
+{"text": "what home alarms have been set", "label": "alarm/query"}
+{"text": "events happening between eight am and five pm today", "label": "calendar/query"}
+{"text": "cancel my seven am alarm", "label": "alarm/remove"}
+{"text": "set an alarm for twelve", "label": "alarm/set"}
+{"text": "let me see my alarms", "label": "alarm/query"}
+{"text": "recommend me a restaurant in west chester", "label": "recommendation/locations"}
+{"text": "what is the time in geneva", "label": "datetime/query"}
+{"text": "what is planned for today in my local area", "label": "recommendation/events"}
+{"text": "what alarms are set for today", "label": "alarm/query"}
+{"text": "it is nine here what time is it in california", "label": "datetime/convert"}
+{"text": "i'm in a meeting please do not speak", "label": "audio/volume_mute"}
+{"text": "remind me of this meeting soon", "label": "calendar/set"}
+{"text": "tell me all the current events in my hometown", "label": "recommendation/events"}
+{"text": "just see for me the alarms that you have set today morning", "label": "alarm/query"}
+{"text": "remind me about the meeting", "label": "calendar/set"}
+{"text": "when does panama city mall open", "label": "recommendation/events"}
+{"text": "turn the sound up", "label": "audio/volume_up"}
+{"text": "Silence speakers", "label": "audio/volume_mute"}
+{"text": "get me the latest news of world", "label": "news/query"}
+{"text": "please change time zone to india", "label": "datetime/convert"}
+{"text": "cancel meeting at three", "label": "calendar/remove"}
+{"text": "what alarms do i have scheduled for tomorrow", "label": "alarm/query"}
+{"text": "what is the biggest blockbuster this week", "label": "recommendation/movies"}
+{"text": "can you please be muted for a while", "label": "audio/volume_mute"}
+{"text": "remind me off about my tomorrow meeting sharply at ten", "label": "calendar/set"}
+{"text": "please remind me of all the nba scores in a week", "label": "calendar/set"}
+{"text": "mute all responses now", "label": "audio/volume_mute"}
+{"text": "my alarms", "label": "alarm/query"}
+{"text": "where to buy cannon cameras", "label": "recommendation/locations"}
+{"text": "could you please tell me what time is in singapore", "label": "datetime/query"}
+{"text": "are there any alarms currently set", "label": "alarm/query"}
+{"text": "what is today's date", "label": "datetime/query"}
+{"text": "whats around", "label": "recommendation/locations"}
+{"text": "mute speaker", "label": "audio/volume_mute"}
+{"text": "cancel wake up calls for this week", "label": "alarm/remove"}
+{"text": "please check alarms", "label": "alarm/query"}
+{"text": "i want to slow down my speaker", "label": "audio/volume_down"}
+{"text": "how the list of upcoming events", "label": "calendar/query"}
+{"text": "could you speak louder", "label": "audio/volume_up"}
+{"text": "turn up media volume", "label": "audio/volume_up"}
+{"text": "please turn down the volume", "label": "audio/volume_down"}
+{"text": "can you tell me what movie has the best reviews", "label": "recommendation/movies"}
+{"text": "what's going on in new york", "label": "news/query"}
+{"text": "which restaurant is there in shivaji nagar", "label": "recommendation/locations"}
+{"text": "rise volume", "label": "audio/volume_up"}
+{"text": "silence for certain amount of hours", "label": "audio/volume_mute"}
+{"text": "set music system to mute", "label": "audio/volume_mute"}
+{"text": "what is the time difference between new york and lagos", "label": "datetime/convert"}
+{"text": "wake me up at six thirty", "label": "alarm/set"}
+{"text": "can you speak a little louder", "label": "audio/volume_up"}
+{"text": "set an alarm at six in the morning", "label": "alarm/set"}
+{"text": "please let me know the alarm kept for tuesday's meeting", "label": "alarm/query"}
+{"text": "loudly", "label": "audio/volume_up"}
+{"text": "any local activities you can recommend in my area", "label": "recommendation/events"}
+{"text": "what is happening in the world today", "label": "news/query"}
+{"text": "remove my meeting today at one pm", "label": "calendar/remove"}
+{"text": "what movies are playing at theatres near me", "label": "recommendation/movies"}
+{"text": "do remove next event from the calendar", "label": "calendar/remove"}
+{"text": "is the meeting scheduled for tomorrow", "label": "calendar/query"}
+{"text": "political news of importance for the day", "label": "news/query"}
+{"text": "time in chicago", "label": "datetime/query"}
+{"text": "show me boston's current time", "label": "datetime/query"}
+{"text": "can you recommend any pub in mg road", "label": "recommendation/locations"}
+{"text": "volume louder please", "label": "audio/volume_up"}
+{"text": "when monet's exhibition takes place", "label": "calendar/query"}
+{"text": "remove next meeting today in my calendar", "label": "calendar/remove"}
+{"text": "please remove the alarm set for wednesday called kickball", "label": "alarm/remove"}
+{"text": "the music volume should increase to ninety", "label": "audio/volume_up"}
+{"text": "what is new", "label": "news/query"}
+{"text": "please unmute the settings", "label": "audio/volume_up"}
+{"text": "where is a walking trail near me", "label": "recommendation/locations"}
+{"text": "meetings from twenty to twenty five june", "label": "calendar/query"}
+{"text": "any good movies", "label": "recommendation/movies"}
+{"text": "set the alarm in my calendar events before five mins", "label": "calendar/set"}
+{"text": "any festivals in town at this time or in the coming week", "label": "recommendation/events"}
+{"text": "is there anything i need to be aware of", "label": "calendar/query"}
+{"text": "i need an alarm for sunday at eight am can you please set one for me", "label": "alarm/set"}
+{"text": "slow the volume speaker", "label": "audio/volume_down"}
+{"text": "when was the last alarm set", "label": "alarm/query"}
+{"text": "set my alarm for six am", "label": "alarm/set"}
+{"text": "set alarm at six thirty am", "label": "alarm/set"}
+{"text": "turn the vibrate off from speaker", "label": "audio/volume_mute"}
+{"text": "can i get the time", "label": "datetime/query"}
+{"text": "i want to take karate classes where are local karate studios", "label": "recommendation/locations"}
+{"text": "disable the alarm which is set at nine thirty pm", "label": "alarm/remove"}
+{"text": "please tell me the latest news about politics", "label": "news/query"}
+{"text": "the volume of the music playing now should be raised", "label": "audio/volume_up"}
+{"text": "where i can find a bakery", "label": "recommendation/locations"}
+{"text": "hows many more reminders are left", "label": "calendar/query"}
+{"text": "what train companies are near me", "label": "recommendation/locations"}
+{"text": "check for recent news stories on msnbc", "label": "news/query"}
+{"text": "which teams are playing today in the premier league", "label": "news/query"}
+{"text": "increase volume by one", "label": "audio/volume_up"}
+{"text": "format data from calendar", "label": "calendar/remove"}
+{"text": "event remove", "label": "calendar/remove"}
+{"text": "is it true that susan's birthday is on march first", "label": "calendar/query"}
+{"text": "turn off the six am alarm for Wednesday", "label": "alarm/remove"}
+{"text": "where is the event today", "label": "calendar/query"}
+{"text": "my events", "label": "calendar/query"}
+{"text": "olly turn the volume up", "label": "audio/volume_up"}
+{"text": "lower the volume to twenty", "label": "audio/volume_down"}
+{"text": "what is the current day month and year", "label": "datetime/query"}
+{"text": "what are the news notification", "label": "news/query"}
+{"text": "wake me up", "label": "alarm/set"}
+{"text": "add valia's wedding the next saturday at eight o clock", "label": "calendar/set"}
+{"text": "get news from bbc", "label": "news/query"}
+{"text": "what are the top stories on cnn", "label": "news/query"}
+{"text": "tell me current time", "label": "datetime/query"}
+{"text": "whats the best place to eat near here", "label": "recommendation/locations"}
+{"text": "cancel my alarm for tomorrow morning", "label": "alarm/remove"}
+{"text": "write down meeting at seven pm", "label": "calendar/set"}
+{"text": "write down that i am going to meet with jenny on the third okay", "label": "calendar/set"}
+{"text": "eight am manila time is what in eastern time", "label": "datetime/convert"}
+{"text": "change the alarm weekly settings", "label": "alarm/remove"}
+{"text": "where is the nearest pub in the city", "label": "recommendation/locations"}
+{"text": "what are they saying about donald trump on this topic", "label": "news/query"}
+{"text": "this event needs to be deleted", "label": "calendar/remove"}
+{"text": "tell me the meetings i have for the week", "label": "calendar/query"}
+{"text": "what on my calendar", "label": "calendar/query"}
+{"text": "please set an alarm for seven hundred and thirty am tomorrow", "label": "alarm/set"}
+{"text": "please list shops within one miles from me", "label": "recommendation/locations"}
+{"text": "what pubs are close to me", "label": "recommendation/locations"}
+{"text": "louder volume please", "label": "audio/volume_up"}
+{"text": "is there any event today in my calendar", "label": "calendar/query"}
+{"text": "what is new in politics today can you filter out trump news though", "label": "news/query"}
+{"text": "are there any good pizza places around here", "label": "recommendation/locations"}
+{"text": "set off this alarm", "label": "alarm/remove"}
+{"text": "lower volume of music player", "label": "audio/volume_down"}
+{"text": "what is there to do in new york city", "label": "recommendation/events"}
+{"text": "can you tell me the current time in dallas texas", "label": "datetime/query"}
+{"text": "speak loudly", "label": "audio/volume_up"}
+{"text": "mute for fifteen minutes", "label": "audio/volume_mute"}
+{"text": "are there any alarms set what are they", "label": "alarm/query"}
+{"text": "list my different alarm", "label": "alarm/query"}
+{"text": "create an alarm for today at ten am", "label": "alarm/set"}
+{"text": "display date", "label": "datetime/query"}
+{"text": "are there any events going on in milan", "label": "recommendation/events"}
+{"text": "is there anything happening on jazz scene around edinburgh", "label": "recommendation/events"}
+{"text": "schedule an alarm for next weeks dentist appointment", "label": "alarm/set"}
+{"text": "open clock", "label": "alarm/set"}
+{"text": "increase the volume a bit", "label": "audio/volume_up"}
+{"text": "please list the best clothing shops near me", "label": "recommendation/locations"}
+{"text": "set my alarm for six am tomorrow", "label": "alarm/set"}
+{"text": "what is going on around here", "label": "recommendation/events"}
+{"text": "please can i know what time will it be at six pm here in australia", "label": "datetime/convert"}
+{"text": "what day of the week does christmas fall on this year", "label": "datetime/query"}
+{"text": "give some of delete in today events", "label": "calendar/remove"}
+{"text": "remind me at one thousand three hundred", "label": "alarm/set"}
+{"text": "snooze all today's alarms permanently", "label": "alarm/remove"}
+{"text": "turn volume up to highest level", "label": "audio/volume_up"}
+{"text": "cancel the alarm that is set for tomorrow at eight am", "label": "alarm/remove"}
+{"text": "show me all the shops that i can find in milan", "label": "recommendation/locations"}
+{"text": "what time are my alarms", "label": "alarm/query"}
+{"text": "cancel my birthday party", "label": "calendar/remove"}
+{"text": "two thousand and seventeen movies", "label": "recommendation/movies"}
+{"text": "what is the best movie to watch with a glass of wine", "label": "recommendation/movies"}
+{"text": "cancel all alarms", "label": "alarm/remove"}
+{"text": "remove seven am alarm", "label": "alarm/remove"}
+{"text": "raise the volume to fifty", "label": "audio/volume_up"}
+{"text": "show me rediff masala", "label": "news/query"}
+{"text": "please cancel all alarms for tomorrow", "label": "alarm/remove"}
+{"text": "i need a place that will deliver pizza to me in benton ar", "label": "recommendation/locations"}
+{"text": "show me events nearby", "label": "recommendation/events"}
+{"text": "is india win today cricket match", "label": "news/query"}
+{"text": "i need you to remind me to go to store tomorrow", "label": "calendar/set"}
+{"text": "are there any events schedule for this week", "label": "calendar/query"}
+{"text": "what highly rated movies are playing this weekend", "label": "recommendation/movies"}
+{"text": "please check on the movies playing in theaters nearby", "label": "recommendation/movies"}
+{"text": "set an alarm for next tuesdays meeting", "label": "alarm/set"}
+{"text": "can you find me a furniture store near me", "label": "recommendation/locations"}
+{"text": "what alarms are coming up", "label": "alarm/query"}
+{"text": "what events are going in my town this week", "label": "recommendation/events"}
+{"text": "let me know of the meeting on tuesday", "label": "calendar/set"}
+{"text": "report alarm settings", "label": "alarm/query"}
+{"text": "i want you to remove this event", "label": "calendar/remove"}
+{"text": "what's happening on bbc news today", "label": "news/query"}
+{"text": "cancel dentist appointment for this week", "label": "calendar/remove"}
+{"text": "i need a reminder alarm at one", "label": "alarm/set"}
+{"text": "what is the news today in polk county florida", "label": "news/query"}
+{"text": "set the alarm for tomorrow five am", "label": "alarm/set"}
+{"text": "be my clock", "label": "datetime/query"}
+{"text": "find local shops", "label": "recommendation/locations"}
+{"text": "delete the next event in the calendar", "label": "calendar/remove"}
+{"text": "get rid of my wake up alarm set for saturday", "label": "alarm/remove"}
+{"text": "please mute the television for one hour", "label": "audio/volume_mute"}
+{"text": "search for any upcoming book fairs during next week in washington dc", "label": "recommendation/events"}
+{"text": "my set alarms", "label": "alarm/query"}
+{"text": "how are things in the world", "label": "news/query"}
+{"text": "set a notification for june fifth every year", "label": "calendar/set"}
+{"text": "i cant hear a thing", "label": "audio/volume_up"}
+{"text": "rahul marriage reminder", "label": "calendar/query"}
+{"text": "i can't hear you speak up", "label": "audio/volume_up"}
+{"text": "remove my early alarms", "label": "alarm/remove"}
+{"text": "what is the latest news about obamacare", "label": "news/query"}
+{"text": "tell me my choices for a good steak restaurant near here", "label": "recommendation/locations"}
+{"text": "are there any alarms for today", "label": "alarm/query"}
+{"text": "who is scheduled for tomorrow's meeting", "label": "calendar/query"}
+{"text": "how many hours difference is there between london and new york", "label": "datetime/convert"}
+{"text": "set an alarm at six am", "label": "alarm/set"}
+{"text": "now it's five thirty pm in india what about the time in ivory coast", "label": "datetime/convert"}
+{"text": "locate nearby dining places", "label": "recommendation/locations"}
+{"text": "confirm i have set an alarm for six am", "label": "alarm/query"}
+{"text": "is mary's birthday party tonight", "label": "calendar/query"}
+{"text": "when is the next office meeting", "label": "calendar/query"}
+{"text": "i need you to say that last information again but much louder", "label": "audio/volume_up"}
+{"text": "do i have any alarms set for today", "label": "alarm/query"}
+{"text": "delete all details in event", "label": "calendar/remove"}
+{"text": "i want an alarm for three today", "label": "alarm/set"}
+{"text": "change the time in this location to ist", "label": "datetime/convert"}
+{"text": "march one is susan's birthday right", "label": "calendar/query"}
+{"text": "don't respond for fifty seconds", "label": "audio/volume_mute"}
+{"text": "what alarms have been set for me", "label": "alarm/query"}
+{"text": "can you set an alarm for seven am", "label": "alarm/set"}
+{"text": "take lunch meeting off my calendar", "label": "calendar/remove"}
+{"text": "what alarms are set in the house", "label": "alarm/query"}
+{"text": "what is the time difference between here and there", "label": "datetime/convert"}
+{"text": "find me info on cars", "label": "news/query"}
+{"text": "is today march sixth", "label": "datetime/query"}
+{"text": "silent mode", "label": "audio/volume_mute"}
+{"text": "check for all the movie theater prices and availability for a newly released movie in my location", "label": "recommendation/movies"}
+{"text": "what time do i work tomorrow", "label": "calendar/query"}
+{"text": "please tell me when's my financial meeting", "label": "calendar/query"}
+{"text": "turn up volume of music", "label": "audio/volume_up"}
+{"text": "what day does my birthday fall on next year", "label": "datetime/query"}
+{"text": "what movie should i see", "label": "recommendation/movies"}
+{"text": "it's really loud can you please turn the music down", "label": "audio/volume_down"}
+{"text": "call me for this meeting", "label": "calendar/set"}
+{"text": "what is happening in town tonight", "label": "recommendation/events"}
+{"text": "what's around tonight", "label": "recommendation/events"}
+{"text": "add meet with dave at subway on weber on four april at five pm", "label": "calendar/set"}
+{"text": "tell me what is on the schedule for july seventh", "label": "calendar/query"}
+{"text": "what time is the evening meeting i have with john", "label": "calendar/query"}
+{"text": "clear all data from calendar", "label": "calendar/remove"}
+{"text": "convert one oh two from gtm four thirty to g. m. t. one thirty", "label": "datetime/convert"}
+{"text": "what is the time in canada now", "label": "datetime/query"}
+{"text": "what's playing at brea plaza five", "label": "recommendation/movies"}
+{"text": "give me the list of circus shows going on in the city right now", "label": "recommendation/events"}
+{"text": "up", "label": "audio/volume_up"}
+{"text": "give me international news", "label": "news/query"}
+{"text": "what can i do in charlotte", "label": "recommendation/events"}
+{"text": "turn on my alarm", "label": "alarm/set"}
+{"text": "hey olly on the twentieth clear my calendar", "label": "calendar/remove"}
+{"text": "show up the events for me today", "label": "calendar/query"}
+{"text": "set an alarm for eight am", "label": "alarm/set"}
+{"text": "i no longer need to see the doctor can that event be removed", "label": "calendar/remove"}
+{"text": "do i have anything scheduled in my events", "label": "calendar/query"}
+{"text": "any upcoming events", "label": "calendar/query"}
+{"text": "tell me all events for today in my city", "label": "recommendation/events"}
+{"text": "all rccg march event is to be added to my calendar", "label": "calendar/set"}
+{"text": "get rid of my eight am alarm", "label": "alarm/remove"}
+{"text": "remind me later", "label": "calendar/set"}
+{"text": "if it's ten pm in california what time is it in alabama", "label": "datetime/convert"}
+{"text": "is there a chili cookoff this weekend", "label": "calendar/query"}
+{"text": "find me the smallest coffee shop in new orleans", "label": "recommendation/locations"}
+{"text": "what's around me", "label": "recommendation/locations"}
+{"text": "please provide current time in india", "label": "datetime/query"}
+{"text": "add practice to calendar on feb four at king's park at two pm", "label": "calendar/set"}
+{"text": "make a new alarm", "label": "alarm/set"}
+{"text": "set the alarm for nine am on weekends", "label": "alarm/set"}
+{"text": "set alarm for nine am", "label": "alarm/set"}
+{"text": "was my meeting today rescheduled", "label": "calendar/query"}
+{"text": "can you tell how many hours of difference are between boston and los angeles", "label": "datetime/convert"}
+{"text": "set a reminder for fifteen minutes to change laundry loads", "label": "calendar/set"}
+{"text": "hey what's the current time in austin", "label": "datetime/query"}
+{"text": "could you please schedule a meeting with this person", "label": "calendar/set"}
+{"text": "cancel the alarm at four am ten pm", "label": "alarm/remove"}
+{"text": "is my work alarm set for tomorrow", "label": "alarm/query"}
+{"text": "list alarms", "label": "alarm/query"}
+{"text": "remove all the events and schedules", "label": "calendar/remove"}
+{"text": "give me the name of all the shops in my area", "label": "recommendation/locations"}
+{"text": "fun things to do today", "label": "recommendation/events"}
+{"text": "suggest movies and songs that i would like but that aren't necessarily like ones i've already said i like", "label": "recommendation/movies"}
+{"text": "next alarm", "label": "alarm/query"}
+{"text": "hey olly tell me what shops i am near", "label": "recommendation/locations"}
+{"text": "turn off the alarm", "label": "alarm/remove"}
+{"text": "remove father's day from calendar", "label": "calendar/remove"}
+{"text": "change the time zone from washington to new york", "label": "datetime/convert"}
+{"text": "set an alarm for me for tomorrow at seven pm", "label": "alarm/set"}
+{"text": "increase the volume to fifty", "label": "audio/volume_up"}
+{"text": "please wake me up at seven thirty am", "label": "alarm/set"}
+{"text": "change this time zone to washington", "label": "datetime/convert"}
+{"text": "tell me updates", "label": "news/query"}
+{"text": "i need to hear the volume of the current music", "label": "audio/volume_up"}
+{"text": "turn up", "label": "audio/volume_up"}
+{"text": "recommend a blue grass band event within twenty miles of manchester ma this week", "label": "recommendation/events"}
+{"text": "when it is nine in the east what time is it in the west", "label": "datetime/convert"}
+{"text": "take away my alarm for tomorrow at four thirty am", "label": "alarm/remove"}
+{"text": "near by grocery", "label": "recommendation/locations"}
+{"text": "mute", "label": "audio/volume_mute"}
+{"text": "please delete next meeting with rajesh", "label": "calendar/remove"}
+{"text": "i need you to set an alarm", "label": "alarm/set"}
+{"text": "what time is it on the west coast", "label": "datetime/query"}
+{"text": "please cancel my next hair cut", "label": "calendar/remove"}
+{"text": "remove my morning alarm", "label": "alarm/remove"}
+{"text": "what alarms do i have set", "label": "alarm/query"}
+{"text": "change the plan of meeting", "label": "calendar/remove"}
+{"text": "what date is easter sunday this year", "label": "datetime/query"}
+{"text": "set an alarm for thursday at seven pm", "label": "alarm/set"}
+{"text": "what's my next appointment", "label": "calendar/query"}
+{"text": "can you remind me about my meeting tomorrow", "label": "calendar/set"}
+{"text": "go to sleep", "label": "audio/volume_mute"}
+{"text": "remove alarm", "label": "alarm/remove"}
+{"text": "can you recommend some dog's how events going on in our city", "label": "recommendation/events"}
+{"text": "create a repeating event on mondays at seven pm", "label": "calendar/set"}
+{"text": "have i got any alarms set", "label": "alarm/query"}
+{"text": "set reminder notification for three o'clock", "label": "calendar/set"}
+{"text": "cancel the plan of party", "label": "calendar/remove"}
+{"text": "twenty ninth march comes on what day", "label": "datetime/query"}
+{"text": "local area events", "label": "recommendation/events"}
+{"text": "could you tell me about the alerts i have set", "label": "alarm/query"}
+{"text": "show me my alarms", "label": "alarm/query"}
+{"text": "may twenty two is my birthdate and i want to know the what day is twenty third may", "label": "datetime/query"}
+{"text": "please delete this event", "label": "calendar/remove"}
+{"text": "people canceling iowa vacations over congressman's words", "label": "news/query"}
+{"text": "tell me chinese restaurants in the area", "label": "recommendation/locations"}
+{"text": "i can't hear just increase the volume", "label": "audio/volume_up"}
+{"text": "remove the board meeting and reschedule for next wednesday", "label": "calendar/remove"}
+{"text": "where is the food festival tonight", "label": "recommendation/events"}
+{"text": "cnn", "label": "news/query"}
+{"text": "give me the news", "label": "news/query"}
+{"text": "review the alarms i have", "label": "alarm/query"}
+{"text": "raise the volume of the speakers to fifty five percent", "label": "audio/volume_up"}
+{"text": "tell me if there are any events from three to five", "label": "calendar/query"}
+{"text": "give me all ice cream shops within two miles", "label": "recommendation/locations"}
+{"text": "any free events in la today", "label": "recommendation/events"}
+{"text": "please turn the music volume up", "label": "audio/volume_up"}
+{"text": "no speaking please", "label": "audio/volume_mute"}
+{"text": "please empty my calendar", "label": "calendar/remove"}
+{"text": "more volume please", "label": "audio/volume_up"}
+{"text": "invite people to the calendar event", "label": "calendar/set"}
+{"text": "can you notify the event in my calendar", "label": "calendar/set"}
+{"text": "what is the wake up time for my alarm i have set for the flight this weekend", "label": "alarm/query"}
+{"text": "latest news", "label": "news/query"}
+{"text": "slow down the speaker volume", "label": "audio/volume_down"}
+{"text": "please clear my calendar for tomorrow", "label": "calendar/remove"}
+{"text": "what's the time difference between here and queensland", "label": "datetime/convert"}
+{"text": "what is the time in china", "label": "datetime/query"}
+{"text": "tell me what is on my calendar for tomorrow", "label": "calendar/query"}
+{"text": "do i have any events scheduled today", "label": "calendar/query"}
+{"text": "what movies are playing nearby", "label": "recommendation/movies"}
+{"text": "suggest a good genre movie that came out recently", "label": "recommendation/movies"}
+{"text": "how many alarms do i have set for morning hours between six and nine am", "label": "alarm/query"}
+{"text": "tell me the time now", "label": "datetime/query"}
+{"text": "please erase the next birthday event", "label": "calendar/remove"}
+{"text": "please delete my morning alarm", "label": "alarm/remove"}
+{"text": "activate a one week notification before my anniversary please", "label": "calendar/set"}
+{"text": "what alarms have i set for tomorrow", "label": "alarm/query"}
+{"text": "i couldn't hear you repeat that louder", "label": "audio/volume_up"}
+{"text": "increase the volume of the speaker", "label": "audio/volume_up"}
+{"text": "please change time zone to canada", "label": "datetime/convert"}
+{"text": "turn up the volume on my speakers", "label": "audio/volume_up"}
+{"text": "take out event from calendar", "label": "calendar/remove"}
+{"text": "hey what's today's date", "label": "datetime/query"}
+{"text": "get latest news report on kidnapping in ny", "label": "news/query"}
+{"text": "if there any alarm is set then let me know", "label": "alarm/query"}
+{"text": "give me a movie for tonight", "label": "recommendation/movies"}
+{"text": "where is the nearest atm machine", "label": "recommendation/locations"}
+{"text": "is it Monday today", "label": "datetime/query"}
+{"text": "where do people shop for clothes here", "label": "recommendation/locations"}
+{"text": "remind me at six thirty pm", "label": "alarm/set"}
+{"text": "please give me all shop names in a two mile radius", "label": "recommendation/locations"}
+{"text": "what's the time in this time zone", "label": "datetime/query"}
+{"text": "remind me to pay the electricity bill on this weekend at nine am", "label": "calendar/set"}
+{"text": "olly set my alarm to go off in an hour", "label": "alarm/set"}
+{"text": "what is the time difference between central and eastern", "label": "datetime/convert"}
+{"text": "remind me to move so there is no weight gain", "label": "calendar/set"}
+{"text": "get yourself muted", "label": "audio/volume_mute"}
+{"text": "what is my schedule for june fourteenth two thousand and seventeen", "label": "calendar/query"}
+{"text": "bring back talking after", "label": "audio/volume_up"}
+{"text": "raise the volume of the current music", "label": "audio/volume_up"}
+{"text": "what time is it in akron", "label": "datetime/query"}
+{"text": "hey sound is low can you tune it up", "label": "audio/volume_up"}
+{"text": "what is the time in australia right now", "label": "datetime/query"}
+{"text": "delete meeting", "label": "calendar/remove"}
+{"text": "do not speak today", "label": "audio/volume_mute"}
+{"text": "make an alarm", "label": "alarm/set"}
+{"text": "what is mondays actual date", "label": "datetime/query"}
+{"text": "remove john's birthday from the calendar", "label": "calendar/remove"}
+{"text": "set on second january about soccer match of manchester", "label": "calendar/set"}
+{"text": "what events are going to happen in my city between two four pm today", "label": "calendar/query"}
+{"text": "what's happening in the news", "label": "news/query"}
+{"text": "latest updates", "label": "news/query"}
+{"text": "do i have any pending reminder", "label": "calendar/query"}
+{"text": "show me best in class theatre", "label": "recommendation/movies"}
+{"text": "check if i have set any alarm for morning", "label": "alarm/query"}
+{"text": "please change the volume low of the speakers", "label": "audio/volume_down"}
+{"text": "what is the highest rated movie this week", "label": "recommendation/movies"}
+{"text": "what time am i supposed to pick up john again", "label": "calendar/query"}
+{"text": "what time do i have my alarm set for tomorrow", "label": "alarm/query"}
+{"text": "does my calendar say i'm free on april one two thousand and seventeen", "label": "calendar/query"}
+{"text": "i need to delete the alarm for church on sundays at eleven am", "label": "alarm/remove"}
+{"text": "audio up", "label": "audio/volume_up"}
+{"text": "what time is it in another city", "label": "datetime/query"}
+{"text": "change my plan erase my next event", "label": "calendar/remove"}
+{"text": "please you don't speak in eight to ten pm", "label": "audio/volume_mute"}
+{"text": "speaker volume increase", "label": "audio/volume_up"}
+{"text": "i want you to mute", "label": "audio/volume_mute"}
+{"text": "do i have any thing going on at five", "label": "calendar/query"}
+{"text": "put an alarm and wake me up at six am tomorrow morning", "label": "alarm/set"}
+{"text": "what time is it in london", "label": "datetime/query"}
+{"text": "events in city", "label": "recommendation/events"}
+{"text": "whats happening in football today", "label": "news/query"}
+{"text": "what's the news from source", "label": "news/query"}
+{"text": "show latest news about migration", "label": "news/query"}
+{"text": "what is the time in beijing", "label": "datetime/query"}
+{"text": "please read me my alarms", "label": "alarm/query"}
+{"text": "what's the alarm situation for tomorrow", "label": "alarm/query"}
+{"text": "convert time zone", "label": "datetime/convert"}
+{"text": "lessen the speaker volume", "label": "audio/volume_down"}
+{"text": "reset all events in calendar", "label": "calendar/remove"}
+{"text": "remove the first alarm", "label": "alarm/remove"}
+{"text": "delete all my calendar events", "label": "calendar/remove"}
+{"text": "create a meeting event in my calendar", "label": "calendar/set"}
+{"text": "what events are scheduled for me to do today", "label": "calendar/query"}
+{"text": "list the shops near me", "label": "recommendation/locations"}
+{"text": "delete my dinner tomorrow", "label": "calendar/remove"}
+{"text": "disable alarm for three pm", "label": "alarm/remove"}
+{"text": "remind me to meet joe for lunch tomorrow", "label": "calendar/set"}
+{"text": "what is the highest rated movie now out", "label": "recommendation/movies"}
+{"text": "on february fourteenth make dinner reservations at the restaurant", "label": "calendar/set"}
+{"text": "on every tuesday remind me to go shopping", "label": "calendar/set"}
+{"text": "put a seven pm meeting time down for march fourteenth", "label": "calendar/set"}
+{"text": "recommend pub in eighth and monte diablo", "label": "recommendation/locations"}
+{"text": "what are the upcoming reminders", "label": "calendar/query"}
+{"text": "please set the alarm for next morning to seven am", "label": "alarm/set"}
+{"text": "is there any event around", "label": "recommendation/events"}
+{"text": "whats a good place to eat around midtown new york", "label": "recommendation/locations"}
+{"text": "remove alarm if any", "label": "alarm/remove"}
+{"text": "alarm", "label": "alarm/set"}
+{"text": "set a new alarm for that time", "label": "alarm/set"}
+{"text": "list all of my alarms", "label": "alarm/query"}
+{"text": "Get rid of my current alarms", "label": "alarm/remove"}
+{"text": "i would like this alarm permanently removed", "label": "alarm/remove"}
+{"text": "tell me when it is five pm", "label": "alarm/set"}
+{"text": "set a reminder on fifteenth march as meeting", "label": "calendar/set"}
+{"text": "read me my alarms", "label": "alarm/query"}
+{"text": "please delete the meeting i have with john tonight", "label": "calendar/remove"}
+{"text": "any specific event in washington", "label": "recommendation/events"}
+{"text": "what is time now in california", "label": "datetime/query"}
+{"text": "could you suggest some fun in new york", "label": "recommendation/events"}
+{"text": "show me nearest theatre", "label": "recommendation/movies"}
+{"text": "can you tell me about the alarm called bed", "label": "alarm/query"}
+{"text": "is swat a good movie", "label": "recommendation/movies"}
+{"text": "are there any events happening this weekend", "label": "recommendation/events"}
+{"text": "increase the volume", "label": "audio/volume_up"}
+{"text": "is my wake up alarm set a six am", "label": "alarm/query"}
+{"text": "what's the time in china right now", "label": "datetime/query"}
+{"text": "the current news", "label": "news/query"}
+{"text": "please check my coming up events", "label": "calendar/query"}
+{"text": "get me up at eight am", "label": "alarm/set"}
+{"text": "what can i do for fun under dollars around me", "label": "recommendation/events"}
+{"text": "could you tell me what time it is", "label": "datetime/query"}
+{"text": "Show me articles about the new iphone eight", "label": "news/query"}
+{"text": "add my car payment on the twelfth in my calendar", "label": "calendar/set"}
+{"text": "what movie should i watch today", "label": "recommendation/movies"}
+{"text": "what mexican food is around me", "label": "recommendation/locations"}
+{"text": "list all set alarms", "label": "alarm/query"}
+{"text": "please decrease the volume of music player", "label": "audio/volume_down"}
+{"text": "make my calendar empty", "label": "calendar/remove"}
+{"text": "remove all the events in my calendar", "label": "calendar/remove"}
+{"text": "where is a nearby park where i can go running", "label": "recommendation/locations"}
+{"text": "is there any alarm active", "label": "alarm/query"}
+{"text": "turn my morning alarm on", "label": "alarm/set"}
+{"text": "open my calendar", "label": "calendar/query"}
+{"text": "what are the next three alarms set to go off", "label": "alarm/query"}
+{"text": "open calendar schedule event meeting", "label": "calendar/set"}
+{"text": "i want all my events deleted", "label": "calendar/remove"}
+{"text": "is there any events are in the local area", "label": "recommendation/events"}
+{"text": "mute speakers", "label": "audio/volume_mute"}
+{"text": "delete all my events for tomorrow", "label": "calendar/remove"}
+{"text": "what alarms did i set today", "label": "alarm/query"}
+{"text": "cut off noise", "label": "audio/volume_mute"}
+{"text": "make a list of all the halloween events going around in new york", "label": "calendar/query"}
+{"text": "what's going on between three hundred and thirty and four", "label": "calendar/query"}
+{"text": "what is the time in ajmer", "label": "datetime/query"}
+{"text": "turn up volume", "label": "audio/volume_up"}
+{"text": "in the following week repeat this event at ten am every day", "label": "calendar/set"}
+{"text": "would like to see the time zone", "label": "datetime/query"}
+{"text": "do i have meeting with steve this week", "label": "calendar/query"}
+{"text": "i need to cancel my rsvp for dinner this evening can you remove it on my calendar as well", "label": "calendar/remove"}
+{"text": "turn the volume off", "label": "audio/volume_mute"}
+{"text": "add a reminder for april twenty as my bro's birthday", "label": "calendar/set"}
+{"text": "how many grocery stores are located in my neighborhood", "label": "recommendation/locations"}
+{"text": "alarm time for twelve pm", "label": "alarm/set"}
+{"text": "alarm status", "label": "alarm/query"}
+{"text": "increase volume by two levels", "label": "audio/volume_up"}
+{"text": "check whether i have set any alarms for tomorrow morning", "label": "alarm/query"}
+{"text": "mute for twenty minutes", "label": "audio/volume_mute"}
+{"text": "what is the date easter falls on", "label": "datetime/query"}
+{"text": "what time is it in karachi right now", "label": "datetime/query"}
+{"text": "take off my alarms", "label": "alarm/remove"}
+{"text": "whats happening in ny", "label": "recommendation/events"}
+{"text": "set alarm for tomorrow morning at six am", "label": "alarm/set"}
+{"text": "remind me to meet with steve at one pm tomorrow", "label": "calendar/set"}
+{"text": "wake me up on Friday at five in the morning i need to catch the train", "label": "alarm/set"}
+{"text": "please list all my alarms", "label": "alarm/query"}
+{"text": "what movies are playing in columbia", "label": "recommendation/movies"}
+{"text": "please set an alarm clock for my next meeting with the team at three pm next friday", "label": "alarm/set"}
+{"text": "remove meeting for wednesday morning", "label": "calendar/remove"}
+{"text": "the location is my office", "label": "calendar/set"}
+{"text": "take away all events", "label": "calendar/remove"}
+{"text": "turn_down speakers", "label": "audio/volume_down"}
+{"text": "tell me about the alarm timings", "label": "alarm/query"}
+{"text": "remind me every year on this date of", "label": "calendar/set"}
+{"text": "let me know the time in india", "label": "datetime/query"}
+{"text": "tell me the movie with best imdb ratings going on in theatres near me", "label": "recommendation/movies"}
+{"text": "mute the settings", "label": "audio/volume_mute"}
+{"text": "turn up radio volume", "label": "audio/volume_up"}
+{"text": "set a calendar event to repeat yearly on this date", "label": "calendar/set"}
+{"text": "please look up clothing stores near me", "label": "recommendation/locations"}
+{"text": "what is happening in me area", "label": "recommendation/events"}
+{"text": "any events this weekend in pondichery", "label": "recommendation/events"}
+{"text": "set an alarm for two pm", "label": "alarm/set"}
+{"text": "show me events in sacramento", "label": "recommendation/events"}
+{"text": "set alarm on twenty fifth may at five pm", "label": "alarm/set"}
+{"text": "erase my appointment on the twelfth from my calendar", "label": "calendar/remove"}
+{"text": "set alarm for one hour from now", "label": "alarm/set"}
+{"text": "speak louder", "label": "audio/volume_up"}
+{"text": "is there any grocery nearby", "label": "recommendation/locations"}
+{"text": "can you change my time zone from central time to pacific", "label": "datetime/convert"}
+{"text": "delete my appointment tomorrow", "label": "calendar/remove"}
+{"text": "please increase volume", "label": "audio/volume_up"}
+{"text": "sound off please", "label": "audio/volume_mute"}
+{"text": "silence please", "label": "audio/volume_mute"}
+{"text": "at what time is my alarm set", "label": "alarm/query"}
+{"text": "delete all events and content from my calendar", "label": "calendar/remove"}
+{"text": "alert me at ten am please", "label": "alarm/set"}
+{"text": "are there any interesting events around this area", "label": "recommendation/events"}
+{"text": "how time is it", "label": "datetime/query"}
+{"text": "i wish to go for cheap shopping is there any dollars shop nearby", "label": "recommendation/locations"}
+{"text": "What's close by for dinner", "label": "recommendation/locations"}
+{"text": "erase events", "label": "calendar/remove"}
+{"text": "be silent for thirty minutes", "label": "audio/volume_mute"}
+{"text": "wake up time", "label": "alarm/set"}
+{"text": "do i have an alarm set for today", "label": "alarm/query"}
+{"text": "please reduce the speaker volume", "label": "audio/volume_down"}
+{"text": "what alarms do i have set for today", "label": "alarm/query"}
+{"text": "any local news stories for my home city", "label": "news/query"}
+{"text": "what events are scheduled for this weekend in me area", "label": "recommendation/events"}
+{"text": "what is latest on the recent events happening right now", "label": "news/query"}
+{"text": "google please be extra quiet the baby is sleeping", "label": "audio/volume_mute"}
+{"text": "could you speak up", "label": "audio/volume_up"}
+{"text": "make an alarm for the meeting with bob at seven today", "label": "alarm/set"}
+{"text": "clear my day on the twenty ninth", "label": "calendar/remove"}
+{"text": "what is the seattle city council doing about homelessness", "label": "news/query"}
+{"text": "tell me about activities in my area this weekend", "label": "recommendation/events"}
+{"text": "please delete the wednesday evening alarm", "label": "alarm/remove"}
+{"text": "please keep tabs on how the presidential debates are going", "label": "news/query"}
+{"text": "please tell me some international news", "label": "news/query"}
+{"text": "cancel future event from place i worked", "label": "calendar/remove"}
+{"text": "what bands are playing in town this weekend", "label": "recommendation/events"}
+{"text": "is there any carnival taking place in our area", "label": "recommendation/events"}
+{"text": "what do you suggest that i watch this weekend", "label": "recommendation/movies"}
+{"text": "what are the vietnamese restaurants in the area", "label": "recommendation/locations"}
+{"text": "delete lunch tomorrow", "label": "calendar/remove"}
+{"text": "give me the current time", "label": "datetime/query"}
+{"text": "set wake up Thursday seven am", "label": "alarm/set"}
+{"text": "i need you to convert nine am cst to est time", "label": "datetime/convert"}
+{"text": "will the fast food shop at the corner open today", "label": "recommendation/locations"}
+{"text": "tell me the top stories in the news", "label": "news/query"}
+{"text": "what alarms will wake me up tomorrow", "label": "alarm/query"}
+{"text": "do i have any notifications from social media", "label": "calendar/query"}
+{"text": "report the current time in oakland", "label": "datetime/query"}
+{"text": "is there any new environmental news", "label": "news/query"}
+{"text": "may i know the about alarm you set", "label": "alarm/query"}
+{"text": "turn it up", "label": "audio/volume_up"}
+{"text": "have any suggestions for local italian food", "label": "recommendation/locations"}
+{"text": "can you make it a little quieter", "label": "audio/volume_down"}
+{"text": "give me election updates", "label": "news/query"}
+{"text": "clear my calendar for saturday", "label": "calendar/remove"}
+{"text": "turn up your volume", "label": "audio/volume_up"}
+{"text": "what movies are playing this week", "label": "recommendation/movies"}
+{"text": "is there a well rated pizza place between fourteenth and eighteenth streets", "label": "recommendation/locations"}
+{"text": "mute enabled until i say so", "label": "audio/volume_mute"}
+{"text": "please delete all my calendar events", "label": "calendar/remove"}
+{"text": "clear my schedule for today", "label": "calendar/remove"}
+{"text": "events in me area", "label": "recommendation/events"}
+{"text": "where is the closest sweet frog", "label": "recommendation/locations"}
+{"text": "make sure there is no events on my calendar", "label": "calendar/remove"}
+{"text": "find shoe shopping near my home", "label": "recommendation/locations"}
+{"text": "set a continuous alarm without the option to snooze for seven am please", "label": "alarm/set"}
+{"text": "is there an alarm at four am", "label": "alarm/query"}
+{"text": "put working out on my calendar for eight am every day this week", "label": "calendar/set"}
+{"text": "if it's five am in berlin what time is it here", "label": "datetime/convert"}
+{"text": "newest world news", "label": "news/query"}
+{"text": "go silent for a day", "label": "audio/volume_mute"}
+{"text": "do i have any alarms set for tomorrow", "label": "alarm/query"}
+{"text": "i am unable to hear you can you speak little loud", "label": "audio/volume_up"}
+{"text": "alarm for ten am", "label": "alarm/set"}
+{"text": "wake me up at five thirty", "label": "alarm/set"}
+{"text": "where is a good place to eat in seattle", "label": "recommendation/locations"}
+{"text": "did i set my house alarm", "label": "alarm/query"}
+{"text": "please find me the pe most recent news on", "label": "news/query"}
+{"text": "please tell me my alarms", "label": "alarm/query"}
+{"text": "let me know the time", "label": "datetime/query"}
+{"text": "what time will a movie be shown tomorrow", "label": "recommendation/movies"}
+{"text": "pull up the headlines please", "label": "news/query"}
+{"text": "how many alarms are currently on my phone", "label": "alarm/query"}
+{"text": "can you turn that down", "label": "audio/volume_down"}
+{"text": "turn down the noise", "label": "audio/volume_mute"}
+{"text": "remove my six am alarm", "label": "alarm/remove"}
+{"text": "i need to set an alarm how many do i have set", "label": "alarm/query"}
+{"text": "list out my meetings today", "label": "calendar/query"}
+{"text": "what is latest news about this world", "label": "news/query"}
+{"text": "what's playing in the roosendaal cinema", "label": "recommendation/movies"}
+{"text": "what alarms do i all have set", "label": "alarm/query"}
+{"text": "what's on my schedule this week", "label": "calendar/query"}
+{"text": "it's eight at night in france what time is it in new york", "label": "datetime/convert"}
+{"text": "hi olly please remove the birthday event on coming sunday", "label": "calendar/remove"}
+{"text": "meeting july calendar", "label": "calendar/query"}
+{"text": "what alarms did i set", "label": "alarm/query"}
+{"text": "stay quiet", "label": "audio/volume_mute"}
+{"text": "what are the events taking place in new york today", "label": "recommendation/events"}
+{"text": "clear all events on my calendar", "label": "calendar/remove"}
+{"text": "i have a meeting tomorrow morning at ten please remind me", "label": "calendar/set"}
+{"text": "near by super market", "label": "recommendation/locations"}
+{"text": "please find the most popular store in the area", "label": "recommendation/locations"}
+{"text": "give me the time in london", "label": "datetime/query"}
+{"text": "do i have a doctors appointment today", "label": "calendar/query"}
+{"text": "what do they have going on at young circle this week", "label": "recommendation/events"}
+{"text": "wake me up at time", "label": "alarm/set"}
+{"text": "show me the events in my work calendar for next week", "label": "calendar/set"}
+{"text": "remove all alarm of sunday", "label": "alarm/remove"}
+{"text": "i can't hear you", "label": "audio/volume_up"}
+{"text": "date today", "label": "datetime/query"}
+{"text": "what is the time in bangalore", "label": "datetime/query"}
+{"text": "make a calendar entry for next saturday at ten am please", "label": "calendar/set"}
+{"text": "format the calendar", "label": "calendar/remove"}
+{"text": "show todays events in new york", "label": "recommendation/events"}
+{"text": "delete all appointments for tomorrow", "label": "calendar/remove"}
+{"text": "set an alarm for me at eight am", "label": "alarm/set"}
+{"text": "what is the current central time", "label": "datetime/query"}
+{"text": "tell me what is the nicest place to go", "label": "recommendation/locations"}
+{"text": "is it noon in paris", "label": "datetime/query"}
+{"text": "remind me clock that i have a event", "label": "calendar/set"}
+{"text": "which time zone are we in please change to current", "label": "datetime/convert"}
+{"text": "would like to know the alarm you sent", "label": "alarm/query"}
+{"text": "set an alarm for this eight hundred pm this evening", "label": "alarm/set"}
+{"text": "what new movies are played in cinemas this week", "label": "recommendation/movies"}
+{"text": "show me thai food near me", "label": "recommendation/locations"}
+{"text": "what is the time difference between pacific and central", "label": "datetime/convert"}
+{"text": "keep me up to date on the election news", "label": "news/query"}
+{"text": "please see see for me the alarms that you have set sunday morning", "label": "alarm/query"}
+{"text": "date in new york", "label": "datetime/query"}
+{"text": "what bars are around me", "label": "recommendation/locations"}
+{"text": "do i have a date for tonight", "label": "calendar/query"}
+{"text": "set the alarm for five am", "label": "alarm/set"}
+{"text": "where can i go shopping in this area", "label": "recommendation/locations"}
+{"text": "remove my event at one pm in my calendar", "label": "calendar/remove"}
+{"text": "what activities are taking place in my area", "label": "recommendation/events"}
+{"text": "what's happened in the news recently", "label": "news/query"}
+{"text": "what alarm time had you set", "label": "alarm/query"}
+{"text": "do i have alarms set before six in the morning", "label": "alarm/query"}
+{"text": "show me painting exhibition in bay area", "label": "recommendation/events"}
+{"text": "increase the volume please", "label": "audio/volume_up"}
+{"text": "do i have a busy day today", "label": "calendar/query"}
+{"text": "what's worth watching", "label": "recommendation/movies"}
+{"text": "is calendar event true", "label": "calendar/query"}
+{"text": "did you add tomorrow's meeting to my calendar", "label": "calendar/query"}
+{"text": "is this program is scheduled", "label": "calendar/query"}
+{"text": "what events are happening in los angeles", "label": "recommendation/events"}
+{"text": "are there any events going on downtown tonight", "label": "recommendation/events"}
+{"text": "two am removed", "label": "alarm/remove"}
+{"text": "what film should i watch", "label": "recommendation/movies"}
+{"text": "delete my next scheduled event please", "label": "calendar/remove"}
+{"text": "open news about bp oil", "label": "news/query"}
+{"text": "are there any events going on close by", "label": "recommendation/events"}
+{"text": "turn the volume up", "label": "audio/volume_up"}
+{"text": "please speak loud", "label": "audio/volume_up"}
+{"text": "mute the sound", "label": "audio/volume_mute"}
+{"text": "what clothing shops are close to my current location", "label": "recommendation/locations"}
+{"text": "please tell me what alarms are on", "label": "alarm/query"}
+{"text": "march fifth is john's birthday please place this on the calendar", "label": "calendar/set"}
+{"text": "list all events and delete", "label": "calendar/remove"}
+{"text": "what day of the month is next tuesday", "label": "datetime/query"}
+{"text": "set my alarm for eight am", "label": "alarm/set"}
+{"text": "within the past three months how many meetings did i have with mr richards", "label": "calendar/query"}
+{"text": "can you convert my time zone to the time zone i'm currently in", "label": "datetime/convert"}
+{"text": "what is the latest news on sprint", "label": "news/query"}
+{"text": "which day this week do i have plans", "label": "calendar/query"}
+{"text": "what am i up to this weekend", "label": "calendar/query"}
+{"text": "turn up the sound", "label": "audio/volume_up"}
+{"text": "new reminder at three pm", "label": "calendar/set"}
+{"text": "remove events from calendar", "label": "calendar/remove"}
+{"text": "can you tell me a latest news", "label": "news/query"}
+{"text": "let me know the alarm time", "label": "alarm/query"}
+{"text": "what are my alarms", "label": "alarm/query"}
+{"text": "what do i have scheduled on july seventh", "label": "calendar/query"}
+{"text": "is the thanks giving event on fourteenth of this month true", "label": "calendar/query"}
+{"text": "where a good restaurant", "label": "recommendation/locations"}
+{"text": "please do not talk for thirty minutes", "label": "audio/volume_mute"}
+{"text": "what is happening now", "label": "recommendation/events"}
+{"text": "lower the speak volume", "label": "audio/volume_down"}
+{"text": "lower all volume on speakers please", "label": "audio/volume_down"}
+{"text": "no no turn it down", "label": "audio/volume_down"}
+{"text": "make a repeating reminder for tomorrow", "label": "calendar/set"}
+{"text": "turn up music please", "label": "audio/volume_up"}
+{"text": "give me the list of all events coming up in the next month and set notifications for all of them", "label": "calendar/set"}
+{"text": "do i have any undone tasks", "label": "calendar/query"}
+{"text": "no lunch date tomorrow", "label": "calendar/remove"}
+{"text": "turn off all alarms", "label": "alarm/remove"}
+{"text": "i need everything deleted from calendar please", "label": "calendar/remove"}
+{"text": "are there any good social events happening in my area", "label": "recommendation/events"}
+{"text": "what's going on", "label": "recommendation/events"}
+{"text": "remove my dinner event for monday", "label": "calendar/remove"}
+{"text": "set an alert for two pm", "label": "alarm/set"}
+{"text": "this weekend what events are going on in seattle", "label": "recommendation/events"}
+{"text": "what meetings do i have between eight ten today", "label": "calendar/query"}
+{"text": "are there any events going on nearby", "label": "recommendation/events"}
+{"text": "remind me everyday at two pm for lunch", "label": "calendar/set"}
+{"text": "show time in china", "label": "datetime/query"}
+{"text": "set an alarm for eight pm", "label": "alarm/set"}
+{"text": "Show current local events", "label": "recommendation/events"}
+{"text": "set an alarm", "label": "alarm/set"}
+{"text": "what is the day on twenty third march", "label": "datetime/query"}
+{"text": "what's happening in my town", "label": "recommendation/events"}
+{"text": "what times do my alarms go off", "label": "alarm/query"}
+{"text": "goodnight", "label": "audio/volume_mute"}
+{"text": "where is the nearest smoke shop", "label": "recommendation/locations"}
+{"text": "turn off any morning alarms after Friday", "label": "alarm/remove"}
+{"text": "please mute yourself", "label": "audio/volume_mute"}
+{"text": "check if alarm is set for six am", "label": "alarm/query"}
+{"text": "set an alarm for five hundred and thirty", "label": "alarm/set"}
+{"text": "whats the time in denver", "label": "datetime/query"}
+{"text": "please clear out my calendar completely", "label": "calendar/remove"}
+{"text": "can you remind me about the gym class in two hours", "label": "calendar/set"}
+{"text": "what alarms are set right now", "label": "alarm/query"}
+{"text": "mute sound", "label": "audio/volume_mute"}
+{"text": "what time is it on the east coast of the united states", "label": "datetime/query"}
+{"text": "help me to mute my speaker", "label": "audio/volume_mute"}
+{"text": "what is the time difference between india and ivory coast", "label": "datetime/convert"}
+{"text": "find me news about trumps speech", "label": "news/query"}
+{"text": "what should i do this weekend", "label": "recommendation/events"}
+{"text": "turn off speaker", "label": "audio/volume_mute"}
+{"text": "what were the cities affected by the earthquake", "label": "news/query"}
+{"text": "are there any crafts fairs happening in this area", "label": "recommendation/events"}
+{"text": "set notification from world news", "label": "news/query"}
+{"text": "any recent news about north korea", "label": "news/query"}
+{"text": "alarm settings", "label": "alarm/query"}
+{"text": "show todays reminders", "label": "calendar/query"}
+{"text": "which event should i attend in my area", "label": "recommendation/events"}
+{"text": "show me upcoming events in the quad cities", "label": "recommendation/events"}
+{"text": "what is my next event", "label": "calendar/query"}
+{"text": "what day of the week does the twenty second fall on this month", "label": "datetime/query"}
+{"text": "what do i have next to do", "label": "calendar/query"}
+{"text": "what alarms are set for this week", "label": "alarm/query"}
+{"text": "My weekly plan", "label": "calendar/query"}
+{"text": "when does the closest bar close", "label": "recommendation/locations"}
+{"text": "please search for events in my location", "label": "recommendation/events"}
+{"text": "what is happening in the world news", "label": "news/query"}
+{"text": "where is the nearest olive garden", "label": "recommendation/locations"}
+{"text": "please tell me the current date", "label": "datetime/query"}
+{"text": "make the volume to zero", "label": "audio/volume_mute"}
+{"text": "what is the current date time group", "label": "datetime/query"}
+{"text": "clear my next event", "label": "calendar/remove"}
+{"text": "set a reminder for tomorrow evening", "label": "calendar/set"}
+{"text": "show me the latest news from the un", "label": "news/query"}
+{"text": "i want to mute the speaker", "label": "audio/volume_mute"}
+{"text": "i need to hear sound on my speakers", "label": "audio/volume_up"}
+{"text": "what does the analysts say about the new immigration policies", "label": "news/query"}
+{"text": "put alarm at five am", "label": "alarm/set"}
+{"text": "let me know about upcoming events", "label": "calendar/query"}
+{"text": "quiet time", "label": "audio/volume_mute"}
+{"text": "where is my meeting at nine am", "label": "calendar/query"}
+{"text": "add event book club debbie's house wednesday night", "label": "calendar/set"}
+{"text": "stop playing", "label": "audio/volume_mute"}
+{"text": "please alert me to the time", "label": "datetime/query"}
+{"text": "this alarm needs to be permanently silenced", "label": "alarm/remove"}
+{"text": "do i have alarms set", "label": "alarm/query"}
+{"text": "it's quiet time", "label": "audio/volume_mute"}
+{"text": "what day of the week is first april", "label": "datetime/query"}
+{"text": "let me know the latest weather news", "label": "news/query"}
+{"text": "wake me at seven am", "label": "alarm/set"}
+{"text": "don't let me forget tomorrow's meeting with sheila", "label": "calendar/set"}
+{"text": "turn off the alarm for tomorrow morning", "label": "alarm/remove"}
+{"text": "confirm the alarm time", "label": "alarm/query"}
+{"text": "up the volume the sound is too low", "label": "audio/volume_up"}
+{"text": "i have a meeting at noon today", "label": "calendar/set"}
+{"text": "please turn up the volume to twenty one", "label": "audio/volume_up"}
+{"text": "time zone between india and us", "label": "datetime/convert"}
+{"text": "get me match highlights", "label": "news/query"}
+{"text": "remove finlee's bedtime alarm", "label": "alarm/remove"}
+{"text": "time and date of today", "label": "datetime/query"}
+{"text": "what is the time for the eastern time zone", "label": "datetime/query"}
+{"text": "add event baseball practice five pm tonight", "label": "calendar/set"}
+{"text": "turn off the sounds", "label": "audio/volume_mute"}
+{"text": "if it is four pm in missouri what time is it in london", "label": "datetime/convert"}
+{"text": "please increase the volume to maximum", "label": "audio/volume_up"}
+{"text": "is there any concerts taking place in new york today", "label": "recommendation/events"}
+{"text": "add jim and jerry to event", "label": "calendar/set"}
+{"text": "may i know the time in london", "label": "datetime/query"}
+{"text": "don't talk until i ask you to", "label": "audio/volume_mute"}
+{"text": "i need the time zone from london england instead of central time zone", "label": "datetime/convert"}
+{"text": "what time i am waking up tomorrow", "label": "alarm/query"}
+{"text": "show me reviews of my nearest location food court", "label": "recommendation/locations"}
+{"text": "dea guam prescription drug abuse on the rise", "label": "news/query"}
+{"text": "where should i go this weekend", "label": "recommendation/events"}
+{"text": "what are new drama movies opening this weekend", "label": "recommendation/movies"}
+{"text": "mute please", "label": "audio/volume_mute"}
+{"text": "what alarms are currently set", "label": "alarm/query"}
+{"text": "send me a wake up alert at seven am tomorrow morning", "label": "alarm/set"}
+{"text": "whats the time now", "label": "datetime/query"}
+{"text": "show me my reminders", "label": "calendar/query"}
+{"text": "what is the date and month today", "label": "datetime/query"}
+{"text": "clear all events from march seven", "label": "calendar/remove"}
+{"text": "read me the front page of the new york times", "label": "news/query"}
+{"text": "remove my car payment on the fifteenth from my calendar", "label": "calendar/remove"}
+{"text": "confirm that the alarm is set for tomorrow", "label": "alarm/set"}
+{"text": "make sound louder", "label": "audio/volume_up"}
+{"text": "increase the volume to seventy percent", "label": "audio/volume_up"}
+{"text": "thirteenth june is a day of election result please set it", "label": "calendar/set"}
+{"text": "todays a lovely day what the date", "label": "datetime/query"}
+{"text": "tell me my alarms", "label": "alarm/query"}
+{"text": "mute my speakers for a minute here i need to make a call", "label": "audio/volume_mute"}
+{"text": "delete from the calendar the next event", "label": "calendar/remove"}
+{"text": "set a reminder for two days prior of the event", "label": "calendar/set"}
+{"text": "what's coming up this week", "label": "calendar/query"}
+{"text": "am i available at five pm on sunday", "label": "calendar/query"}
+{"text": "what plays are showing at the theatre", "label": "recommendation/events"}
+{"text": "nearest restaurants available at this time", "label": "recommendation/locations"}
+{"text": "show me upcoming events in chicago", "label": "recommendation/events"}
+{"text": "remind me to have launch with boss today at one pm", "label": "calendar/set"}
+{"text": "what is the latest action movie running in theaters", "label": "recommendation/movies"}
+{"text": "Turn down volume", "label": "audio/volume_down"}
+{"text": "what new movies available today", "label": "recommendation/movies"}
+{"text": "please let me know the morning alarm time for weekdays", "label": "alarm/query"}
+{"text": "turn off all of my alarms", "label": "alarm/remove"}
+{"text": "show me all of my active alarms", "label": "alarm/query"}
+{"text": "wake me up at six am", "label": "alarm/set"}
+{"text": "do i have any alarms for tomorrow morning", "label": "alarm/query"}
+{"text": "what day does easter fall on", "label": "datetime/query"}
+{"text": "set an alarm forty minutes from now", "label": "alarm/set"}
+{"text": "clear up my calendar", "label": "calendar/remove"}
+{"text": "please let me know today's date", "label": "datetime/query"}
+{"text": "do i have an alarm set for tomorrow", "label": "alarm/query"}
+{"text": "stop the audio", "label": "audio/volume_mute"}
+{"text": "list all the nearby shops", "label": "recommendation/locations"}
+{"text": "today is which date", "label": "datetime/query"}
+{"text": "is jimmie's party on friday cancelled", "label": "calendar/query"}
+{"text": "set an alarm at six am tomorrow", "label": "alarm/set"}
+{"text": "i needed to prepare for a meeting", "label": "calendar/query"}
+{"text": "please stop talking", "label": "audio/volume_mute"}
+{"text": "set an alarm for one pm", "label": "alarm/set"}
+{"text": "what kind of event is happening around me", "label": "recommendation/events"}
+{"text": "olly cancel all soccer practice alarms", "label": "alarm/remove"}
+{"text": "i want the time for another city outside us", "label": "datetime/query"}
+{"text": "eight am in manila is what in new york", "label": "datetime/convert"}
+{"text": "what's going on at the capitol", "label": "news/query"}
+{"text": "search events and meetups for central park west", "label": "recommendation/events"}
+{"text": "show me future events", "label": "calendar/query"}
+{"text": "which teams are playing this weekend", "label": "recommendation/events"}
+{"text": "set alarm of every tuesday of march month morning eight am", "label": "alarm/set"}
+{"text": "it is ten am in eastern standard time what time it is now it pacific standard time", "label": "datetime/convert"}
+{"text": "on twenty third february rahul will come with me on india cricket match", "label": "calendar/set"}
+{"text": "i would like to know the latest from nbc news", "label": "news/query"}
+{"text": "i need to know what is the date today", "label": "datetime/query"}
+{"text": "what chinese restaurants are in my area", "label": "recommendation/locations"}
+{"text": "please remove the the alarm which i set", "label": "alarm/remove"}
+{"text": "what's the most popular curry place in town", "label": "recommendation/locations"}
+{"text": "please remove the alarm which i set for today morning", "label": "alarm/remove"}
+{"text": "would you please check to see if i've set my alarm for tomorrow morning", "label": "alarm/query"}
+{"text": "go silent until three pm", "label": "audio/volume_mute"}
+{"text": "automobiles", "label": "news/query"}
+{"text": "please hold for the next hour", "label": "audio/volume_mute"}
+{"text": "set my calendar for an alarm at five pm tuesday", "label": "alarm/set"}
+{"text": "uh what does the current date happen to be", "label": "datetime/query"}
+{"text": "what is happening near me", "label": "recommendation/events"}
+{"text": "list all the shops that are located in milan", "label": "recommendation/locations"}
+{"text": "what is today's day", "label": "datetime/query"}
+{"text": "i want the speakers turned up high", "label": "audio/volume_up"}
+{"text": "change this time to ist", "label": "datetime/convert"}
+{"text": "set an alarm for seven thirty am", "label": "alarm/set"}
+{"text": "i need an alarm set for five hundred and thirty am tomorrow", "label": "alarm/set"}
+{"text": "remind me to take out the trash", "label": "calendar/set"}
+{"text": "inform me about the most popular rom com movie playing now in theatres across new york", "label": "recommendation/movies"}
+{"text": "tell me time of alarm you set", "label": "alarm/query"}
+{"text": "is there a food festival in the area", "label": "recommendation/events"}
+{"text": "where are italian restaurants in me area", "label": "recommendation/locations"}
+{"text": "mute volume", "label": "audio/volume_mute"}
+{"text": "set to mute", "label": "audio/volume_mute"}
+{"text": "are there any events coming up", "label": "recommendation/events"}
+{"text": "check if default alarm is set", "label": "alarm/query"}
+{"text": "when is the doctor's appointment", "label": "calendar/query"}
+{"text": "can you tell me about my meetings next week", "label": "calendar/query"}
+{"text": "turn down media volume", "label": "audio/volume_down"}
+{"text": "remove the alarm for tomorrow", "label": "alarm/remove"}
+{"text": "what time is it in the other time zones", "label": "datetime/query"}
+{"text": "what day is this event scheduled for", "label": "calendar/query"}
+{"text": "where is the best place to buy party supplies in town", "label": "recommendation/locations"}
+{"text": "mute audio", "label": "audio/volume_mute"}
+{"text": "alter lunch event to repeat every friday", "label": "calendar/set"}
+{"text": "give me an update on the election in one hour", "label": "calendar/set"}
+{"text": "give me the alarm times for the next two days", "label": "alarm/query"}
+{"text": "fix an alarm", "label": "alarm/set"}
+{"text": "delete my meeting for one pm on march nineteenth", "label": "calendar/remove"}
+{"text": "what events are going on in the area", "label": "recommendation/events"}
+{"text": "set the alarm tone", "label": "alarm/set"}
+{"text": "tell me the news about jallikattu in tamil nadu", "label": "news/query"}
+{"text": "what pubs are near the metro station", "label": "recommendation/locations"}
+{"text": "delete all scheduled events", "label": "calendar/remove"}
+{"text": "please remind to sleep at nine pm", "label": "calendar/set"}
+{"text": "show me concerts in sacramento", "label": "recommendation/events"}
+{"text": "what's the latest news from xinhua", "label": "news/query"}
+{"text": "switch to eastern time zone", "label": "datetime/convert"}
+{"text": "send me notice of meeting wednesday nine am", "label": "calendar/set"}
+{"text": "what alarms are set", "label": "alarm/query"}
+{"text": "please tell me the news", "label": "news/query"}
+{"text": "i wish this event to be removed from my calendar", "label": "calendar/remove"}
+{"text": "search for the latest news about iphone", "label": "news/query"}
+{"text": "what time can i call from pennsylvania and it will be business hours in australia", "label": "datetime/convert"}
+{"text": "could you please set an alarm at six am", "label": "alarm/set"}
+{"text": "let me know when my meetings are on monday", "label": "calendar/set"}
+{"text": "what's interesting around here", "label": "recommendation/events"}
+{"text": "reset alarm", "label": "alarm/remove"}
+{"text": "when is my alarm set for", "label": "alarm/query"}
+{"text": "change the speaker volume to sixty five percent", "label": "audio/volume_up"}
+{"text": "i've got a meeting by tonight seven pm please mute the music for an hour", "label": "audio/volume_mute"}
+{"text": "raise volume to level seven on music player", "label": "audio/volume_up"}
+{"text": "erase next calendar event", "label": "calendar/remove"}
+{"text": "where can i get shawarma in this area", "label": "recommendation/locations"}
+{"text": "i would like to know the best rating pubs in the local area", "label": "recommendation/locations"}
+{"text": "down the volume", "label": "audio/volume_down"}
+{"text": "tell me about the latest sports news", "label": "news/query"}
+{"text": "local show", "label": "recommendation/events"}
+{"text": "convert g. m. t. to ist", "label": "datetime/convert"}
+{"text": "mute the speaker please", "label": "audio/volume_mute"}
+{"text": "get me news on trump", "label": "news/query"}
+{"text": "delete event for tuesday", "label": "calendar/remove"}
+{"text": "olly cancel alarms", "label": "alarm/remove"}
+{"text": "if i call mike in california at six pm what will his time be", "label": "datetime/convert"}
+{"text": "add alarm", "label": "alarm/set"}
+{"text": "set an alarm for tomorrow at six in the morning", "label": "alarm/set"}
+{"text": "don't speak for a while", "label": "audio/volume_mute"}
+{"text": "wake me at daybreak", "label": "alarm/set"}
+{"text": "set an alarm for tomorrow morning at eight", "label": "alarm/set"}
+{"text": "remove wake up calls for this week", "label": "alarm/remove"}
+{"text": "what's going on around the neighborhood", "label": "recommendation/events"}
+{"text": "can to please clear my calendar of all events", "label": "calendar/remove"}
+{"text": "what is the best hardware store near me", "label": "recommendation/locations"}
+{"text": "set my alarm for six thirty in the morning tomorrow", "label": "alarm/set"}
+{"text": "inform about latest scheduled events near my location", "label": "recommendation/events"}
+{"text": "what time are my alarms set for", "label": "alarm/query"}
+{"text": "reminder about meeting from eight am to twelve pm", "label": "calendar/set"}
+{"text": "can you delete the doctors appointment i had Tuesday", "label": "calendar/remove"}
+{"text": "what time will my alarm go off today", "label": "alarm/query"}
+{"text": "it is five forty five am in liverpool what time is now new york", "label": "datetime/convert"}
+{"text": "remove the alarm", "label": "alarm/remove"}
+{"text": "cancel my three pm alarm", "label": "alarm/remove"}
+{"text": "what time is my wakeup alarm set for", "label": "alarm/query"}
+{"text": "top ten movies", "label": "recommendation/movies"}
+{"text": "unmute", "label": "audio/volume_up"}
+{"text": "am i free on sunday day", "label": "calendar/query"}
+{"text": "remove alarm of six am on tuesday", "label": "alarm/remove"}
+{"text": "where can i eat along route sixty six", "label": "recommendation/locations"}
+{"text": "i don't want to attend the dinner on march first any more so could you remove it from my agenda", "label": "calendar/remove"}
+{"text": "i need a good shop", "label": "recommendation/locations"}
+{"text": "schedule a lunch meeting with brent on Wednesday at noon", "label": "calendar/set"}
+{"text": "when the birthday will be", "label": "calendar/query"}
+{"text": "has anything happened to mass effect", "label": "news/query"}
+{"text": "remove set alarm", "label": "alarm/remove"}
+{"text": "whatever the next event is in the calendar delete it", "label": "calendar/remove"}
+{"text": "remove the alarm set for ten pm", "label": "alarm/remove"}
+{"text": "stop wake up calls for this week", "label": "alarm/remove"}
+{"text": "is there valet service at the event", "label": "calendar/query"}
+{"text": "what meetings do i have next thursday", "label": "calendar/query"}
+{"text": "turn up speakers", "label": "audio/volume_up"}
+{"text": "can you tell me the time at san francisco", "label": "datetime/query"}
+{"text": "schedule an alarm to wake me up after three hours", "label": "alarm/set"}
+{"text": "hey what is the time", "label": "datetime/query"}
+{"text": "open calendar and make an event reminder", "label": "calendar/set"}
+{"text": "increase the volume so that i can hear it in other room", "label": "audio/volume_up"}
+{"text": "show me nearby musical events", "label": "recommendation/events"}
+{"text": "what happens on the fourth of july", "label": "recommendation/events"}
+{"text": "delete all of my appointments with dr smith this week", "label": "calendar/remove"}
+{"text": "audio on", "label": "audio/volume_up"}
+{"text": "remove all alarms set today", "label": "alarm/remove"}
+{"text": "can you check the facts on this issue", "label": "calendar/query"}
+{"text": "lower audio", "label": "audio/volume_down"}
+{"text": "march tenth lands on what day of the week", "label": "datetime/query"}
+{"text": "what's happening in world news today", "label": "news/query"}
+{"text": "what type of event", "label": "recommendation/events"}
+{"text": "at what time have you set alarm for me", "label": "alarm/query"}
+{"text": "tell me when i need to leave the airport", "label": "calendar/set"}
+{"text": "i need to mute the speaker", "label": "audio/volume_mute"}
+{"text": "what is tomorrow's alarm time set to", "label": "alarm/query"}
+{"text": "what time is the alarm set for tomorrow", "label": "alarm/query"}
+{"text": "cancel all my appointments", "label": "calendar/remove"}
+{"text": "i need all the local events for this area that are being held this weekend", "label": "recommendation/events"}
+{"text": "which date is on next monday", "label": "datetime/query"}
+{"text": "speakers off", "label": "audio/volume_mute"}
+{"text": "tell me what time it is right now", "label": "datetime/query"}
+{"text": "what's going around in the world these days", "label": "news/query"}
+{"text": "find grocery store with an organic section near me", "label": "recommendation/locations"}
+{"text": "is my school alarm set", "label": "alarm/query"}
+{"text": "are there dog shows going on near new york city", "label": "recommendation/events"}
+{"text": "remind me of meeting five minutes before time", "label": "calendar/set"}
+{"text": "i want to wake up at six am tomorrow please", "label": "alarm/set"}
+{"text": "can you tell me what's on the schedule for tomorrow", "label": "calendar/query"}
+{"text": "show me my alarms i have set", "label": "alarm/query"}
+{"text": "tell me movies playing in oceanside tonight", "label": "recommendation/movies"}
+{"text": "what time is it in a city", "label": "datetime/query"}
+{"text": "let me know about the alarms you set", "label": "alarm/query"}
+{"text": "remind me if i miss my evening walk routine", "label": "calendar/set"}
+{"text": "dentist appointment today at nine am", "label": "calendar/set"}
+{"text": "please mute the sound", "label": "audio/volume_mute"}
+{"text": "what is the event name going in me area", "label": "recommendation/events"}
+{"text": "please do not speak", "label": "audio/volume_mute"}
+{"text": "is the birthday event on fifteenth of this month true", "label": "calendar/query"}
+{"text": "set an alarm for the dance classes two hours before the classes start", "label": "alarm/set"}
+{"text": "shut up", "label": "audio/volume_mute"}
+{"text": "what day of the month is it", "label": "datetime/query"}
+{"text": "stop making sounds for forty minutes", "label": "audio/volume_mute"}
+{"text": "what alarms are on right now", "label": "alarm/query"}
+{"text": "just let me know the current date today", "label": "datetime/query"}
+{"text": "which week is twenty third", "label": "datetime/query"}
+{"text": "get local events", "label": "recommendation/events"}
+{"text": "checkout today third set alarm", "label": "alarm/query"}
+{"text": "what is the time difference between california and new york", "label": "datetime/convert"}
+{"text": "searching for recent happenings on the particular dates", "label": "recommendation/events"}
+{"text": "could you please lower your volume", "label": "audio/volume_down"}
+{"text": "what's the time in new york", "label": "datetime/query"}
+{"text": "what's some upcoming events i might want to go to", "label": "recommendation/events"}
+{"text": "remove birthday party", "label": "calendar/remove"}
+{"text": "what should i watch today", "label": "recommendation/movies"}
+{"text": "where monet's exhibition takes place", "label": "recommendation/locations"}
+{"text": "what events are going on around my place", "label": "recommendation/events"}
+{"text": "cancel my event on june nineteenth", "label": "calendar/remove"}
+{"text": "show me theatre where pirates of caribbean is playing", "label": "recommendation/movies"}
+{"text": "get me a local restaurant", "label": "recommendation/locations"}
+{"text": "set alarm tomorrow at six am", "label": "alarm/set"}
+{"text": "just to confirm you set the alarm to go off at eight hundred", "label": "alarm/query"}
+{"text": "delete all events in calendar", "label": "calendar/remove"}
+{"text": "erase that from my calendar", "label": "calendar/remove"}
+{"text": "remove my alarm for tomorrow morning", "label": "alarm/remove"}
+{"text": "unset all alarm which is set", "label": "alarm/remove"}
+{"text": "what do i have scheduled for next week", "label": "calendar/query"}
+{"text": "do i have a meeting today", "label": "calendar/query"}
+{"text": "convert new york time to london", "label": "datetime/convert"}
+{"text": "kickball is over i do not need the alarm for kickball on wednesday evening any longer", "label": "alarm/remove"}
+{"text": "please turn the volume down", "label": "audio/volume_down"}
+{"text": "set mute until said otherwise", "label": "audio/volume_mute"}
+{"text": "clear everything from the calendar", "label": "calendar/remove"}
+{"text": "when is the third monday of this month", "label": "datetime/query"}
+{"text": "searching for any special holidays for us country", "label": "recommendation/events"}
+{"text": "find new trump articles but not from fox news", "label": "news/query"}
+{"text": "raise the volume of my music player by fifty percent", "label": "audio/volume_up"}
+{"text": "can you tell me the date today", "label": "datetime/query"}
+{"text": "what events are happening today", "label": "recommendation/events"}
+{"text": "what are all the event in area", "label": "recommendation/events"}
+{"text": "change my alarms to mountain time", "label": "alarm/set"}
+{"text": "search schedules for this week", "label": "calendar/query"}
+{"text": "is the alarm to the backdoor set and ready to go", "label": "alarm/query"}
+{"text": "new policies", "label": "news/query"}
+{"text": "lower my music player volume by fifty percent of its current level", "label": "audio/volume_up"}
+{"text": "cancel alarm for tenth of march two thousand seventeen", "label": "alarm/remove"}
+{"text": "delete appointment at time", "label": "calendar/remove"}
+{"text": "remove the fundraiser for dolphines in april", "label": "calendar/remove"}
+{"text": "please remove the alarm that is set for weekdays at nine", "label": "alarm/remove"}
+{"text": "find a grocery store in town that carries creamed pickled herring", "label": "recommendation/locations"}
+{"text": "please ring the wake up alarm at eight am next saturday", "label": "alarm/set"}
+{"text": "convert usa time in to indian time", "label": "datetime/convert"}
+{"text": "please talk softer", "label": "audio/volume_down"}
+{"text": "set the speakers to mute", "label": "audio/volume_mute"}
+{"text": "please advise what the current news is on fox news", "label": "news/query"}
+{"text": "what are the most recent headlines on cnn", "label": "news/query"}
+{"text": "mention the time in canada now", "label": "datetime/query"}
+{"text": "current time new york", "label": "datetime/query"}
+{"text": "recommend a movie with justin bieber", "label": "recommendation/movies"}
+{"text": "get me the latest news in new york", "label": "news/query"}
+{"text": "on january twenty five set meeting for twelve", "label": "calendar/set"}
+{"text": "delete all my appointments for today", "label": "calendar/remove"}
+{"text": "hello beef up the volume a little bit", "label": "audio/volume_up"}
+{"text": "latest news update", "label": "news/query"}
+{"text": "what is the time difference between my location and hong kong", "label": "datetime/convert"}
+{"text": "clear my nine am alarms", "label": "alarm/remove"}
+{"text": "set the volume to low", "label": "audio/volume_down"}
+{"text": "show current news from bbc", "label": "news/query"}
+{"text": "i would like to attend church every sunday at eleven am", "label": "calendar/set"}
+{"text": "lower the volume on the speakers", "label": "audio/volume_down"}
+{"text": "tell me the time in g. m. t. plus five", "label": "datetime/convert"}
+{"text": "set alarm for saturday morning soccer practice at eight am", "label": "alarm/set"}
+{"text": "church with mom and dad on sunday", "label": "calendar/set"}
+{"text": "disable the first alarm", "label": "alarm/remove"}
+{"text": "set an alarm for four in the afternoon", "label": "alarm/set"}
+{"text": "how many alarms have i set", "label": "alarm/query"}
+{"text": "delete my six am alarm", "label": "alarm/remove"}
+{"text": "please make me wake up at four am tomorrow", "label": "alarm/set"}
+{"text": "set an eight hundred am alarm for next tuesday", "label": "alarm/set"}
+{"text": "i want the news about academy awards", "label": "news/query"}
+{"text": "am i free between six to seven pm", "label": "calendar/query"}
+{"text": "remind me to call my grandma this Sunday", "label": "calendar/set"}
+{"text": "what kind of musical events are happening around here this week", "label": "recommendation/events"}
+{"text": "list shops in douglasville ga", "label": "recommendation/locations"}
+{"text": "tell me the time in this time zone", "label": "datetime/query"}
+{"text": "delete event from mine", "label": "calendar/remove"}
+{"text": "Please lower the volume", "label": "audio/volume_down"}
+{"text": "i need to get up at ten tomorrow", "label": "alarm/set"}
+{"text": "unmute my sound", "label": "audio/volume_up"}
+{"text": "what is the best movie to watch this weekend", "label": "recommendation/movies"}
+{"text": "can you please stop speaking", "label": "audio/volume_mute"}
+{"text": "what day is the meeting on", "label": "calendar/query"}
+{"text": "repeating event meeting on mondays", "label": "calendar/set"}
+{"text": "what are the pending reminder for today evening", "label": "calendar/query"}
+{"text": "what is the best mexican restaurant in seattle", "label": "recommendation/locations"}
+{"text": "what is new news for today", "label": "news/query"}
+{"text": "delete the scheduled meeting on fourth october twelve pm", "label": "calendar/remove"}
+{"text": "set the alarm off", "label": "alarm/remove"}
+{"text": "turn off media volume", "label": "audio/volume_mute"}
+{"text": "do not wake me up tomorrow", "label": "alarm/remove"}
+{"text": "find events in local area", "label": "recommendation/events"}
+{"text": "give me some cafes near downtown fort lauderdale", "label": "recommendation/locations"}
+{"text": "raise volume", "label": "audio/volume_up"}
+{"text": "show me what alarm times i've set for the week", "label": "alarm/query"}
+{"text": "you're too loud", "label": "audio/volume_down"}
+{"text": "decrease speaker volume", "label": "audio/volume_down"}
+{"text": "training day", "label": "recommendation/movies"}
+{"text": "remove all my engagements from calendar for tomorrow", "label": "calendar/remove"}
+{"text": "hockey", "label": "recommendation/events"}
+{"text": "change the volume level to nineteen please", "label": "audio/volume_up"}
+{"text": "i'm looking for a casual restaurant for a dinner date", "label": "recommendation/locations"}
+{"text": "please set the alarm for seven", "label": "alarm/set"}
+{"text": "what is the best italian restaurant around here", "label": "recommendation/locations"}
+{"text": "please set alarm to my mobile phones", "label": "alarm/set"}
+{"text": "where can i find the nearest irish pub in my area", "label": "recommendation/locations"}
+{"text": "recommend an event happening in my area", "label": "recommendation/events"}
+{"text": "please set alarm at five pm", "label": "alarm/set"}
+{"text": "please turn off the alarm", "label": "alarm/remove"}
+{"text": "make an alarm for me at five am tomorrow", "label": "alarm/set"}
+{"text": "remove alarms set for tomorrow", "label": "alarm/remove"}
+{"text": "latest events", "label": "calendar/query"}
+{"text": "whats a new sci fi movie", "label": "recommendation/movies"}
+{"text": "delete the first alarm", "label": "alarm/remove"}
+{"text": "clean my calendar", "label": "calendar/remove"}
+{"text": "are there any events happening in town", "label": "recommendation/events"}
+{"text": "today's schedule", "label": "calendar/query"}
+{"text": "make an alarm for four pm", "label": "alarm/set"}
+{"text": "mute for volume", "label": "audio/volume_mute"}
+{"text": "delete an first event of twenty third of march twenty seventeen", "label": "calendar/remove"}
+{"text": "do not make any noise until morning alarm", "label": "audio/volume_mute"}
+{"text": "lower the speakers", "label": "audio/volume_down"}
+{"text": "remember dinner on thursday at bistro italia", "label": "calendar/set"}
+{"text": "change my alarm", "label": "alarm/remove"}
+{"text": "made media volume louder", "label": "audio/volume_up"}
+{"text": "can you please remove the alarm", "label": "alarm/remove"}
+{"text": "anything unique to do in the city today", "label": "recommendation/events"}
+{"text": "set an alarm for nine am", "label": "alarm/set"}
+{"text": "can you find me a street fair in the neighborhood", "label": "recommendation/events"}
+{"text": "remove six am alarm of whole week for future", "label": "alarm/remove"}
+{"text": "where can i go shopping here", "label": "recommendation/locations"}
+{"text": "are there any alarms set right now", "label": "alarm/query"}
+{"text": "delete the monthly recurring team meeting till june", "label": "calendar/remove"}
+{"text": "can you tell me about expensive sushi restaurants in west philadelphia", "label": "recommendation/locations"}
+{"text": "what's happening around me", "label": "recommendation/events"}
+{"text": "today how many alarms do i have set", "label": "alarm/query"}
+{"text": "what time do i have a doctors appointment on the twenty second", "label": "calendar/query"}
+{"text": "set an alarm for ten o'clock tomorrow morning", "label": "alarm/set"}
+{"text": "please tell me what day this event reminder is set for", "label": "calendar/query"}
+{"text": "i have to go to a meting on friday at noon can you remind me", "label": "calendar/set"}
+{"text": "set an alarm for me for tomorrow", "label": "alarm/set"}
+{"text": "quiet mode four hours", "label": "audio/volume_mute"}
+{"text": "remove emma's birthday from events", "label": "calendar/remove"}
+{"text": "need information about events before shift ends", "label": "calendar/query"}
+{"text": "what day of the week does the fifteenth of march fall on", "label": "datetime/query"}
+{"text": "please be quiet for the next two hours", "label": "audio/volume_mute"}
+{"text": "wake me up in thirty minutes", "label": "alarm/set"}
+{"text": "is there a national holiday on fifth december", "label": "datetime/query"}
+{"text": "is logan a good movie to watch", "label": "recommendation/movies"}
+{"text": "what's happening at the library this month", "label": "recommendation/events"}
+{"text": "please turn my speakers on google", "label": "audio/volume_up"}
+{"text": "what gun shows are in tulsa", "label": "recommendation/events"}
+{"text": "make appointment for next friday", "label": "calendar/set"}
+{"text": "give me time", "label": "datetime/query"}
+{"text": "mute yourself until i say otherwise", "label": "audio/volume_mute"}
+{"text": "give me the winning numbers to the powerball lottery", "label": "news/query"}
+{"text": "lower speaker volume", "label": "audio/volume_down"}
+{"text": "cancel all my appointments after three pm today and inform me the details", "label": "calendar/remove"}
+{"text": "let's go through all pending reminders", "label": "calendar/query"}
+{"text": "find me the oldest hotel in washington dc", "label": "recommendation/locations"}
+{"text": "from now on mute", "label": "audio/volume_mute"}
+{"text": "let me know about any alarms set today", "label": "alarm/query"}
+{"text": "what is currently breaking news", "label": "news/query"}
+{"text": "when is easter in the year two thousand and eighteen", "label": "datetime/query"}
+{"text": "remember to remind me about client meet at four pm", "label": "calendar/set"}
+{"text": "i want to know everything that breaks about the dam breaking in california", "label": "news/query"}
+{"text": "recommend a movie for me", "label": "recommendation/movies"}
+{"text": "where is the best mechanic in eagle point", "label": "recommendation/locations"}
+{"text": "is there any program for tomorrow evening", "label": "calendar/query"}
+{"text": "remove sample meeting from calendar app", "label": "calendar/remove"}
+{"text": "remove my bedtime alarm", "label": "alarm/remove"}
+{"text": "can you speak quieter please", "label": "audio/volume_down"}
+{"text": "show me what time it is", "label": "datetime/query"}
+{"text": "what are movies that are playing near me with high reviews", "label": "recommendation/movies"}
+{"text": "i want to see all set alarms", "label": "alarm/query"}
+{"text": "do you have any suggestion action movies", "label": "recommendation/movies"}
+{"text": "best reviews restaurant in south sacramento", "label": "recommendation/locations"}
+{"text": "clear everything off my calendar for the rest of the year", "label": "calendar/remove"}
+{"text": "fast and the furious", "label": "recommendation/movies"}
+{"text": "erase my next event", "label": "calendar/remove"}
+{"text": "set rotating event", "label": "calendar/set"}
+{"text": "please list active alarms", "label": "alarm/query"}
+{"text": "what went on in the world today", "label": "news/query"}
+{"text": "what day of the week is the twenty second march", "label": "datetime/query"}
+{"text": "can you increase the volume of the speakers", "label": "audio/volume_up"}
+{"text": "things to do in my area", "label": "recommendation/events"}
+{"text": "i will no longer be joining mom for lunch tomorrow", "label": "calendar/remove"}
+{"text": "open calendar and erase all events for all months", "label": "calendar/remove"}
+{"text": "what restaurant is open after midnight", "label": "recommendation/locations"}
+{"text": "what movies are showing in cinema today", "label": "recommendation/movies"}
+{"text": "be quiet", "label": "audio/volume_mute"}
+{"text": "lower volume", "label": "audio/volume_down"}
+{"text": "remind me about my anniversary in one day advance", "label": "calendar/set"}
+{"text": "check the news", "label": "news/query"}
+{"text": "what will be the time now in washington", "label": "datetime/query"}
+{"text": "list events nearby new york", "label": "recommendation/events"}
+{"text": "badminton", "label": "recommendation/events"}
+{"text": "add new year with family next week", "label": "calendar/set"}
+{"text": "put my brother's birthday in my calendar for july fourth", "label": "calendar/set"}
+{"text": "search for nearby chinese restaurants", "label": "recommendation/locations"}
+{"text": "find the events", "label": "recommendation/events"}
+{"text": "please put me your input to know my schedule", "label": "calendar/set"}
+{"text": "please mute my speaker", "label": "audio/volume_mute"}
+{"text": "how many hours distance is between my location and new york", "label": "datetime/convert"}
+{"text": "locate local pizza shops", "label": "recommendation/locations"}
+{"text": "can you suggest a good drama for me to watch", "label": "recommendation/movies"}
+{"text": "give me the headline news", "label": "news/query"}
+{"text": "open cnn app", "label": "news/query"}
+{"text": "please set an alarm for tomorrows meeting at seven am", "label": "alarm/set"}
+{"text": "set a reminder for my shopping trip tomorrow at five pm", "label": "calendar/set"}
+{"text": "show shops around second street", "label": "recommendation/locations"}
+{"text": "set alarm to begin", "label": "alarm/set"}
+{"text": "what times are my alarms set for", "label": "alarm/query"}
+{"text": "please remove my next event", "label": "calendar/remove"}
+{"text": "what's the news in politics", "label": "news/query"}
+{"text": "current news cnn", "label": "news/query"}
+{"text": "what are today's headlines", "label": "news/query"}
+{"text": "give the list of theaters in the vicinity", "label": "recommendation/locations"}
+{"text": "set an alarm for two hours from now", "label": "alarm/set"}
+{"text": "list saturday night events near current location", "label": "recommendation/events"}
+{"text": "what is going on around me", "label": "recommendation/events"}
+{"text": "what is trending in tech today", "label": "news/query"}
+{"text": "silent", "label": "audio/volume_mute"}
+{"text": "schedule lunch at tomo in arcata california tomorrow at noon", "label": "calendar/set"}
+{"text": "set a repeating reminder alarm for the facebook event i have to attend on seventh april", "label": "alarm/set"}
+{"text": "what can i do in berlin", "label": "recommendation/events"}
+{"text": "calendar event send invite bill malinda", "label": "calendar/set"}
+{"text": "twenty second april day", "label": "datetime/query"}
+{"text": "create an alarm for six am", "label": "alarm/set"}
+{"text": "take off the doctor's appointment on march twentieth", "label": "calendar/remove"}
+{"text": "delete my dentist appointment", "label": "calendar/remove"}
+{"text": "what are the local events", "label": "recommendation/events"}
+{"text": "remove all the events of last month from the calendar", "label": "calendar/remove"}
+{"text": "when the meeting start", "label": "calendar/query"}
+{"text": "list all the events in my march calendar", "label": "calendar/query"}
+{"text": "what movies are playing tonight at nine pm at the amc nine", "label": "recommendation/movies"}
+{"text": "show alarms", "label": "alarm/query"}
+{"text": "what else is on the list", "label": "calendar/query"}
+{"text": "mute the speakers", "label": "audio/volume_mute"}
+{"text": "where is a petrol station in five mile radius", "label": "recommendation/locations"}
+{"text": "i want to see the news", "label": "news/query"}
+{"text": "show news of migration", "label": "news/query"}
+{"text": "give me the time", "label": "datetime/query"}
+{"text": "what is the current time in london", "label": "datetime/query"}
+{"text": "remind me tomorrow at four about an event", "label": "calendar/set"}
+{"text": "silence", "label": "audio/volume_mute"}
+{"text": "what movies are going around me", "label": "recommendation/movies"}
+{"text": "what movie theatres are in stephenville", "label": "recommendation/movies"}
+{"text": "alarms", "label": "alarm/query"}
+{"text": "set a wake up call for ten am", "label": "alarm/set"}
+{"text": "when does my alarm go off", "label": "alarm/query"}
+{"text": "what day is easter", "label": "datetime/query"}
+{"text": "where is the closest kroger", "label": "recommendation/locations"}
+{"text": "what is the current time in california", "label": "datetime/query"}
+{"text": "lower volume by fifty percent", "label": "audio/volume_down"}
+{"text": "please unmute yourself", "label": "audio/volume_mute"}
+{"text": "set event on recurring", "label": "calendar/set"}
+{"text": "when is the next alarm", "label": "alarm/query"}
+{"text": "look up movies near me", "label": "recommendation/movies"}
+{"text": "Please pause the song", "label": "audio/volume_mute"}
+{"text": "best bar in local area", "label": "recommendation/locations"}
+{"text": "what's the best italian restaurant in atlanta", "label": "recommendation/locations"}
+{"text": "remove my work alarm", "label": "alarm/remove"}
+{"text": "please provide world hot news", "label": "news/query"}
+{"text": "what time is alarm set for", "label": "alarm/query"}
+{"text": "fast me the news of academy awards", "label": "news/query"}
+{"text": "keep me updated on the election results", "label": "news/query"}
+{"text": "tell me about the events going on around my location", "label": "recommendation/events"}
+{"text": "remind me at the start of each month", "label": "calendar/set"}
+{"text": "how many alarms do i have set", "label": "alarm/query"}
+{"text": "head lines today from news", "label": "news/query"}
+{"text": "can you speak louder", "label": "audio/volume_up"}
+{"text": "tell me what is on my schedule for today", "label": "calendar/query"}
+{"text": "what is the current time in delhi", "label": "datetime/query"}
+{"text": "what movies is out there in the local cinema", "label": "recommendation/movies"}
+{"text": "what is the date today", "label": "datetime/query"}
+{"text": "can you change my time zone to central", "label": "datetime/convert"}
+{"text": "do i have a sales meeting today", "label": "calendar/query"}
+{"text": "ask a restaurant in me area", "label": "recommendation/locations"}
+{"text": "when is dale's birthday", "label": "calendar/query"}
+{"text": "remind me about my monday meeting with peter francis fifteen minutes before the meeting", "label": "calendar/set"}
+{"text": "what is today's current date", "label": "datetime/query"}
+{"text": "set alarm for tomorrow six am", "label": "alarm/set"}
+{"text": "what is the best shop restaurant around angel", "label": "recommendation/locations"}
+{"text": "schedule my meeting with my girlfriend lisa in the night today at nine pm", "label": "calendar/set"}
+{"text": "show me the date of today", "label": "datetime/query"}
+{"text": "what is my schedule for tomorrow morning", "label": "calendar/query"}
+{"text": "set the music volume to ninety", "label": "audio/volume_up"}
+{"text": "show me the time in new york city", "label": "datetime/query"}
+{"text": "wake me up at this time", "label": "alarm/set"}
+{"text": "what is tomorrows date", "label": "datetime/query"}
+{"text": "what are the local concerts tonight", "label": "recommendation/events"}
+{"text": "what day is it today", "label": "datetime/query"}
+{"text": "please look up local restaurants that are open now", "label": "recommendation/locations"}
+{"text": "what stores have clearance", "label": "recommendation/locations"}
+{"text": "please add the meeting with ms boland on wednesday eight hundred am to my calendar", "label": "calendar/set"}
+{"text": "review all alarms", "label": "alarm/query"}
+{"text": "it is too loud decrease the volume", "label": "audio/volume_down"}
+{"text": "time difference between uk and us", "label": "datetime/convert"}
+{"text": "give me the time in pst", "label": "datetime/query"}
+{"text": "nearest walmart location", "label": "recommendation/locations"}
+{"text": "can you tell me the next scheduled event", "label": "calendar/query"}
+{"text": "change the time zone from irish time zone to moscow time zone", "label": "datetime/convert"}
+{"text": "Speak louder please", "label": "audio/volume_up"}
+{"text": "please check on the rock concerts scheduled this weekend", "label": "recommendation/events"}
+{"text": "is there any chinese places in benton ar", "label": "recommendation/locations"}
+{"text": "make me a wake up alarm for eight forty five am", "label": "alarm/set"}
+{"text": "which alarms do i have", "label": "alarm/query"}
+{"text": "start the radio now on low volume", "label": "audio/volume_down"}
+{"text": "if it's sunrise in stockholm what time is it in okinawa", "label": "datetime/convert"}
+{"text": "where should i go for mexican food in me area", "label": "recommendation/locations"}
+{"text": "turn the volume down", "label": "audio/volume_down"}
+{"text": "what's the description for the alarm at eleven am", "label": "alarm/query"}
+{"text": "tell me where the local shopping district is", "label": "recommendation/locations"}
+{"text": "new york time please", "label": "datetime/query"}
+{"text": "what's the latest news about us election", "label": "news/query"}
+{"text": "what's my next scheduled alarm", "label": "alarm/query"}
+{"text": "Shut down the sound", "label": "audio/volume_mute"}
+{"text": "get rid of the first three events in my calendar", "label": "calendar/remove"}
+{"text": "please set a reminder alarm for three pm on Saturday", "label": "alarm/set"}
+{"text": "what are the current movies playing in me area", "label": "recommendation/movies"}
+{"text": "repeat birthday", "label": "calendar/set"}
+{"text": "open the local news app", "label": "news/query"}
+{"text": "the last friday of the month lands on what day", "label": "datetime/query"}
+{"text": "please stop for a bit", "label": "audio/volume_mute"}
+{"text": "read me the most updated news on bbc", "label": "news/query"}
+{"text": "what is the time difference between here and japan", "label": "datetime/convert"}
+{"text": "find me the cheapest place to buy a new backpack", "label": "recommendation/locations"}
+{"text": "recommend a movie playing in me area", "label": "recommendation/movies"}
+{"text": "what's happening today", "label": "news/query"}
+{"text": "events upcoming", "label": "recommendation/events"}
+{"text": "lower your volume please", "label": "audio/volume_down"}
+{"text": "how many alarms are currently set", "label": "alarm/query"}
+{"text": "what time is it in this city", "label": "datetime/query"}
+{"text": "please delete my lunch date from the march twenty third schedule", "label": "calendar/remove"}
+{"text": "add a reminder to april fourth to go to the dentist", "label": "calendar/set"}
+{"text": "please turn the volume to the loudest setting", "label": "audio/volume_up"}
+{"text": "turn my audio higher", "label": "audio/volume_up"}
+{"text": "is there anything happening nearby", "label": "recommendation/events"}
+{"text": "set an alarm for two hours from now please", "label": "alarm/set"}
+{"text": "what do i have to do today", "label": "calendar/remove"}
+{"text": "flag two day after this day as my holiday", "label": "calendar/set"}
+{"text": "make an alarm for the morning", "label": "alarm/set"}
+{"text": "make a meeting with friend", "label": "calendar/set"}
+{"text": "what time is it in denver", "label": "datetime/query"}
+{"text": "what alarms do i have set right now", "label": "alarm/query"}
+{"text": "please delete all meetings of today after seven pm", "label": "calendar/remove"}
+{"text": "what is left for today", "label": "calendar/query"}
+{"text": "is there anything happening in town this weekend", "label": "recommendation/events"}
+{"text": "when is my doctor's appointment", "label": "calendar/query"}
+{"text": "whats going on in my calendar", "label": "calendar/query"}
+{"text": "please share up to the minute details on sprint", "label": "news/query"}
+{"text": "do i have free time next tuesday to schedule a meeting", "label": "calendar/query"}
+{"text": "do you recommend any movies that are currently playing in me area", "label": "recommendation/movies"}
+{"text": "delete the meeting alarm at two pm on tuesday", "label": "alarm/remove"}
+{"text": "schedule a sales meeting for wednesday at eleven am", "label": "calendar/set"}
+{"text": "what's the best pizza shop nearby", "label": "recommendation/locations"}
+{"text": "just increase the volume a little", "label": "audio/volume_up"}
+{"text": "remove dinner with mike from my calendar", "label": "calendar/remove"}
+{"text": "ensure i have to get up at six in morning", "label": "alarm/set"}
+{"text": "do i have an alarm set", "label": "alarm/query"}
+{"text": "what's the next event at the library", "label": "recommendation/events"}
+{"text": "can you remind my next meeting with my boss one hour before it will happen", "label": "calendar/set"}
+{"text": "add event to calendar", "label": "calendar/set"}
+{"text": "mute sound on speakers please", "label": "audio/volume_mute"}
+{"text": "find me a nice restaurant for dinner", "label": "recommendation/locations"}
+{"text": "notification regarding the new iphone release update", "label": "news/query"}
+{"text": "set reminder for tomorrow for this item", "label": "calendar/set"}
+{"text": "set to silent for five minutes", "label": "audio/volume_mute"}
+{"text": "please slow down volume of speaker", "label": "audio/volume_down"}
+{"text": "can you find a nice restaurant downtown", "label": "recommendation/locations"}
+{"text": "i need an alarm", "label": "alarm/set"}
+{"text": "inform about best circus near me", "label": "recommendation/events"}
+{"text": "please set a reminder for church services on sundays for eleven am", "label": "calendar/set"}
+{"text": "what movies are playing tonight", "label": "recommendation/movies"}
+{"text": "august fifteenth is what day of the week", "label": "datetime/query"}
+{"text": "remind me at five pm", "label": "alarm/set"}
+{"text": "repeat alarm", "label": "alarm/set"}
+{"text": "is my alarm set for seven am", "label": "alarm/set"}
+{"text": "how is president's trump office proceeding", "label": "news/query"}
+{"text": "please remove my alarm", "label": "alarm/remove"}
+{"text": "erase my whole calendar", "label": "calendar/remove"}
+{"text": "remove the next event on my calendar", "label": "calendar/remove"}
+{"text": "what is the current state of brexit negotiations", "label": "news/query"}
+{"text": "set an alarm for one hour from now", "label": "alarm/set"}
+{"text": "are there any shopping centers nearby", "label": "recommendation/locations"}
+{"text": "where should i go for dinner in san francisco tonight", "label": "recommendation/events"}
+{"text": "Show latest events around new york", "label": "recommendation/events"}
+{"text": "confirm my alarm settings", "label": "alarm/query"}
+{"text": "please tell me the latest news about the election scenario in our state", "label": "news/query"}
+{"text": "tell me pizza restaurants close by", "label": "recommendation/locations"}
+{"text": "locate me the amazon restaurants", "label": "recommendation/locations"}
+{"text": "please remove any alarms that i have set", "label": "alarm/remove"}
+{"text": "what is worth doing around here", "label": "recommendation/events"}
+{"text": "decrease volume", "label": "audio/volume_down"}
+{"text": "meeting update my calendar to reflect meeting", "label": "calendar/set"}
+{"text": "what's happening near me this week", "label": "recommendation/events"}
+{"text": "turn on silent mode until my alarm goes off", "label": "audio/volume_mute"}
+{"text": "what baseball games are scheduled for this week in tulsa", "label": "recommendation/events"}
+{"text": "give me the latest on paul ryan", "label": "news/query"}
+{"text": "get me the latest on current events going on in the world", "label": "news/query"}
+{"text": "find my next event and delete it please", "label": "calendar/remove"}
+{"text": "is there a way to clear my calendar", "label": "calendar/remove"}
+{"text": "confirm that my notification is set to remind me when i leave", "label": "calendar/query"}
+{"text": "one thousand two hundred and thirty pm already you will have a meeting in ten mins", "label": "calendar/query"}
+{"text": "do i have any calendar events this month", "label": "calendar/query"}
+{"text": "show me the alarms i've set", "label": "alarm/query"}
+{"text": "do i have any alarms set", "label": "alarm/query"}
+{"text": "latest event in new york city", "label": "recommendation/events"}
+{"text": "given it is four thirty five pm in london what time is it in melbourne", "label": "datetime/convert"}
+{"text": "today's local events", "label": "recommendation/events"}
+{"text": "make the volume lower", "label": "audio/volume_down"}
+{"text": "what's the best clothes store here", "label": "recommendation/locations"}
+{"text": "what is the correct time", "label": "datetime/query"}
+{"text": "don't make any sounds", "label": "audio/volume_mute"}
+{"text": "hello what time it is now", "label": "datetime/query"}
+{"text": "if it's midnight in colorado what time is it in munich", "label": "datetime/convert"}
+{"text": "usa today headlines", "label": "news/query"}
+{"text": "please set alarm for", "label": "alarm/set"}
+{"text": "set up an alarm clock at one pm", "label": "alarm/set"}
+{"text": "what's happening around the world", "label": "news/query"}
+{"text": "please delete all meeting after seven am", "label": "calendar/remove"}
+{"text": "notify me about the meetings over a period of some days", "label": "calendar/query"}
+{"text": "set alarm for eight am", "label": "alarm/set"}
+{"text": "current date please", "label": "datetime/query"}
+{"text": "show me movie times", "label": "recommendation/movies"}
+{"text": "update the calendar with the last event removed", "label": "calendar/remove"}
+{"text": "what the time difference from here to ottawa", "label": "datetime/convert"}
+{"text": "find me any news from so clean the last six hours", "label": "news/query"}
+{"text": "i need the volume to be louder", "label": "audio/volume_up"}
+{"text": "make a reservation for two at olive garden", "label": "recommendation/locations"}
+{"text": "change my music player volume to eighty percent", "label": "audio/volume_up"}
+{"text": "can you mute my speaker", "label": "audio/volume_mute"}
+{"text": "list local ongoing exhibitions", "label": "recommendation/events"}
+{"text": "do we have thirty first day on this month", "label": "datetime/query"}
+{"text": "please recommend a restaurant in seattle", "label": "recommendation/locations"}
+{"text": "get me up in half an hour", "label": "alarm/set"}
+{"text": "could you speak more softly", "label": "audio/volume_up"}
+{"text": "please increase the volume of the current song", "label": "audio/volume_up"}
+{"text": "when is the school dance junction marked", "label": "calendar/query"}
+{"text": "do i have any alarms", "label": "alarm/query"}
+{"text": "how many alarms are listed", "label": "alarm/query"}
+{"text": "remind me after a month", "label": "calendar/set"}
+{"text": "please remove this event from my calendar", "label": "calendar/remove"}
+{"text": "tell me about alarms", "label": "alarm/query"}
+{"text": "how is the news in ireland", "label": "news/query"}
+{"text": "show me all the events happening in milan", "label": "recommendation/events"}
+{"text": "please convert nine am cst to est time", "label": "datetime/convert"}
+{"text": "did I set an alarm to have tablets in the noon", "label": "alarm/query"}
+{"text": "what time is it in mountain time zone", "label": "datetime/query"}
+{"text": "what day is it on fifth december", "label": "datetime/query"}
+{"text": "delete all meetings for tomorrow", "label": "calendar/remove"}
+{"text": "what date is my anniversary", "label": "calendar/query"}
+{"text": "do i have a party tomorrow save on my calendar", "label": "calendar/query"}
+{"text": "please increase the volume", "label": "audio/volume_up"}
+{"text": "movies with good rotten tomato ratings", "label": "recommendation/movies"}
+{"text": "raise speaker volume", "label": "audio/volume_up"}
+{"text": "what is happening with brexit today", "label": "news/query"}
+{"text": "what day of the week is my birthday this year", "label": "calendar/query"}
+{"text": "please speak quieter to me", "label": "audio/volume_down"}
+{"text": "what are the new movies releasing", "label": "recommendation/movies"}
+{"text": "can you search trump", "label": "news/query"}
+{"text": "can you please disregard the party that i will be going to this weekend on my calendar", "label": "calendar/remove"}
+{"text": "please mute for five minutes", "label": "audio/volume_mute"}
+{"text": "see see for me the alarms that you have set tomorrow morning", "label": "alarm/query"}
+{"text": "i need you to have the volume louder", "label": "audio/volume_up"}
+{"text": "hey what time is it in london now", "label": "datetime/query"}
+{"text": "tell me what time it is in dallas texas", "label": "datetime/query"}
+{"text": "what is the latest on donald trump", "label": "news/query"}
+{"text": "latest reminder about meeting", "label": "calendar/set"}
+{"text": "what is the time at singapore when our time is five pm", "label": "datetime/convert"}
+{"text": "tell me all local events", "label": "recommendation/events"}
+{"text": "where is the shopping mall for shirts", "label": "recommendation/locations"}
+{"text": "can the latest news be pulled up on the latest weather forecast for the week", "label": "news/query"}
+{"text": "i want to read yahoo news", "label": "news/query"}
+{"text": "what are some local events", "label": "recommendation/events"}
+{"text": "set alarm for reminder", "label": "alarm/set"}
+{"text": "add an alarm for tomorrow morning at six am", "label": "alarm/set"}
+{"text": "are there any grocery stores nearby", "label": "recommendation/locations"}
+{"text": "pawel prepare the meeting with john", "label": "calendar/query"}
+{"text": "forget alarm", "label": "alarm/remove"}
+{"text": "erase my appointment for march seven", "label": "calendar/remove"}
+{"text": "set up each day an alarm at ten time for my meal", "label": "alarm/set"}
+{"text": "set my alarm for time", "label": "alarm/set"}
+{"text": "what is a good place for cruise", "label": "recommendation/locations"}
+{"text": "i need you to be quiet until tomorrow", "label": "audio/volume_mute"}
+{"text": "too loud", "label": "audio/volume_down"}
+{"text": "please sound an alarm three hours before a scheduled event", "label": "alarm/set"}
+{"text": "when is my next appointment with dr smith", "label": "calendar/query"}
+{"text": "whats my schedule today", "label": "calendar/query"}
+{"text": "new alarm for six am", "label": "alarm/set"}
+{"text": "what is eastern standard time right noe", "label": "datetime/query"}
+{"text": "confirm alarm for tomorrow morning", "label": "alarm/query"}
+{"text": "is there anything to do tonight", "label": "recommendation/events"}
+{"text": "please show me a list of entertainment options in my area", "label": "recommendation/events"}
+{"text": "can you turn up the volume", "label": "audio/volume_up"}
+{"text": "i want to know the latest local news of the city", "label": "news/query"}
+{"text": "set the time", "label": "alarm/set"}
+{"text": "please recommend a movie", "label": "recommendation/movies"}
+{"text": "what is the current time in lagos nigeria", "label": "datetime/query"}
+{"text": "remove today's meeting at evening", "label": "calendar/remove"}
+{"text": "schedule a reminder on fifteenth march and input name as meeting", "label": "calendar/set"}
+{"text": "cancel alarm for tomorrow", "label": "alarm/remove"}
+{"text": "what time is the party tonight", "label": "calendar/query"}
+{"text": "give me the headlines from sky news", "label": "news/query"}
+{"text": "volume control", "label": "audio/volume_mute"}
+{"text": "what time is set for my wake up alarm", "label": "alarm/query"}
+{"text": "please turn up the volume", "label": "audio/volume_up"}
+{"text": "whats the date today", "label": "datetime/query"}
+{"text": "what's the date is currently", "label": "datetime/query"}
+{"text": "lower the volume", "label": "audio/volume_down"}
+{"text": "what are the events conducted in new york", "label": "recommendation/events"}
+{"text": "what time does the dinner party start tonight", "label": "calendar/query"}
+{"text": "what news updates are there from news express", "label": "news/query"}
+{"text": "turn the volume up on music player", "label": "audio/volume_up"}
+{"text": "please remove march nineteenth's scheduled event", "label": "calendar/remove"}
+{"text": "show me my calendar event this Friday afternoon", "label": "calendar/query"}
+{"text": "what is the current time right now", "label": "datetime/query"}
+{"text": "hey olly mute the speakers", "label": "audio/volume_mute"}
+{"text": "are there any good movies running in nearby theaters", "label": "recommendation/movies"}
+{"text": "report the time in miami", "label": "datetime/query"}
+{"text": "erase calendar events", "label": "calendar/remove"}
+{"text": "if it's eight pm on the east coast what time is it in sacramento california", "label": "datetime/convert"}
+{"text": "where is the best pizza on sixth street", "label": "recommendation/locations"}
+{"text": "set alarm for six am tomorrow", "label": "alarm/set"}
+{"text": "activate silent", "label": "audio/volume_mute"}
+{"text": "please set a monthly reminder for paying rent", "label": "calendar/set"}
+{"text": "remind me about my alarms today", "label": "alarm/query"}
+{"text": "reset the alarm", "label": "alarm/remove"}
+{"text": "what is the time difference between eastern and pacific time zones", "label": "datetime/convert"}
+{"text": "find tacos near my home", "label": "recommendation/locations"}
+{"text": "can you remove that on my calendar", "label": "calendar/remove"}
+{"text": "are there any special events in my town", "label": "recommendation/events"}
+{"text": "mute the living room speakers", "label": "audio/volume_mute"}
+{"text": "do i have any openings on my schedule for tomorrow", "label": "calendar/query"}
+{"text": "remove upcoming task", "label": "calendar/remove"}
+{"text": "clear off the vet appointment tomorrow", "label": "calendar/remove"}
+{"text": "will you please mute my speakers", "label": "audio/volume_mute"}
+{"text": "can you delete all events from my calendar", "label": "calendar/remove"}
+{"text": "what time is twelve pm eastern time in pacific time", "label": "datetime/convert"}
+{"text": "next week my uncle birthday", "label": "calendar/set"}
+{"text": "could you please lower the tone", "label": "audio/volume_down"}
+{"text": "what movie can i watch tonight on the theater here in boston", "label": "recommendation/events"}
+{"text": "i dont want sound", "label": "audio/volume_mute"}
+{"text": "delete every event", "label": "calendar/remove"}
+{"text": "twelveth july is bola's birthday and my calendar to be updated with this date", "label": "calendar/set"}
+{"text": "what is the bbc's latest news", "label": "news/query"}
+{"text": "wake me up at five am this week", "label": "alarm/set"}
+{"text": "cancel the event valentine's day from the calendar", "label": "calendar/remove"}
+{"text": "lower the volume of the speakers", "label": "audio/volume_down"}
+{"text": "set my alarm for twelve pm", "label": "alarm/set"}
+{"text": "quiet please", "label": "audio/volume_mute"}
+{"text": "can you delete the dentist appointment", "label": "calendar/remove"}
+{"text": "is snap doing good after the ipo", "label": "news/query"}
+{"text": "Set a alarm for the day", "label": "alarm/set"}
+{"text": "current time please", "label": "datetime/query"}
+{"text": "set a meeting with tom tomorrow at seven pm", "label": "calendar/set"}
+{"text": "if it is six am here what time is it in tokyo", "label": "datetime/convert"}
+{"text": "which pubs participate in the jazz festival", "label": "recommendation/events"}
+{"text": "change alarm to start at midnight", "label": "alarm/set"}
+{"text": "could you please find me the latest news from a source that i do not usually go to", "label": "news/query"}
+{"text": "tell me about the presidential race", "label": "news/query"}
+{"text": "delete my eight pm alarm", "label": "alarm/remove"}
+{"text": "adjust media volume up", "label": "audio/volume_up"}
+{"text": "please mute the volume control", "label": "audio/volume_mute"}
+{"text": "increase volume please", "label": "audio/volume_up"}
+{"text": "check the events on calendar and delete the next event", "label": "calendar/remove"}
+{"text": "what time i sit in china right now", "label": "datetime/query"}
+{"text": "please let me know about topic elections", "label": "news/query"}
+{"text": "what are some good restaurants near by", "label": "recommendation/locations"}
+{"text": "hey please provide information about events by the end of the day", "label": "calendar/query"}
+{"text": "what movie do you recommend tonight", "label": "recommendation/movies"}
+{"text": "set reminder for tennis game with peter on Sunday at four pm", "label": "calendar/set"}
+{"text": "please be quiet for another hour", "label": "audio/volume_mute"}
+{"text": "i need to set up a meeting with the ceo tomorrow", "label": "calendar/set"}
+{"text": "what's happening around town", "label": "recommendation/events"}
+{"text": "what is today", "label": "datetime/query"}
+{"text": "what is time now in japan compared to usa", "label": "datetime/convert"}
+{"text": "are there any fun things to do in seattle this weekend", "label": "recommendation/events"}
+{"text": "what is going on in me area today", "label": "recommendation/events"}
+{"text": "set a thanks giving event for friday", "label": "calendar/set"}
+{"text": "remind me to go grocery shopping today", "label": "calendar/set"}
+{"text": "what events are happening near me", "label": "recommendation/events"}
+{"text": "reminders", "label": "calendar/set"}
+{"text": "convert eight am manila time to new york time", "label": "datetime/convert"}
+{"text": "delete scheduled alarm", "label": "alarm/remove"}
+{"text": "please check my reminders", "label": "calendar/query"}
+{"text": "please lower music volume", "label": "audio/volume_down"}
+{"text": "volume up", "label": "audio/volume_up"}
+{"text": "mute the audio", "label": "audio/volume_mute"}
+{"text": "delete everything on my calendar for the next two weeks", "label": "calendar/remove"}
+{"text": "can you deleted the current event", "label": "calendar/remove"}
+{"text": "when is my next appointment and who do i contact to reschedule", "label": "calendar/query"}
+{"text": "every wednesday night at five pm remind me to meet phil", "label": "calendar/set"}
+{"text": "tell me the current time in san paulo brazil", "label": "datetime/query"}
+{"text": "tell me when my next doctors appointment is", "label": "calendar/set"}
+{"text": "confirm a movie ticket at glory theater", "label": "recommendation/movies"}
+{"text": "create event with alarm for meeting in two hours", "label": "alarm/set"}
+{"text": "what alarms do you have set", "label": "alarm/query"}
+{"text": "please clear jeff's birthday from the calendar", "label": "calendar/remove"}
+{"text": "i am no longer attending the wedding on the tenth so remove it from my calendar", "label": "calendar/remove"}
+{"text": "show me the alarms i set", "label": "alarm/query"}
+{"text": "ring the alarm when i get home", "label": "alarm/set"}
+{"text": "which is the best place to visit in this month", "label": "recommendation/locations"}
+{"text": "meeting this friday", "label": "calendar/set"}
+{"text": "show me my meetings this Friday", "label": "calendar/query"}
+{"text": "can you give me the latest sports news", "label": "news/query"}
+{"text": "increase the volume of the left speaker by ten", "label": "audio/volume_up"}
+{"text": "what are the news stories on the cnn website", "label": "news/query"}
+{"text": "are there any status updates on cnn news facebook page", "label": "news/query"}
+{"text": "thursday at three pm there is a teachers meeting i need to be reminded of", "label": "calendar/set"}
+{"text": "turn down the volume", "label": "audio/volume_down"}
+{"text": "where is a good place to eat cheap pakistani food", "label": "recommendation/locations"}
+{"text": "what's happening here", "label": "recommendation/events"}
+{"text": "what is a good iranian film from two thousand and sixteen", "label": "recommendation/movies"}
+{"text": "wake me up at five am", "label": "alarm/set"}
+{"text": "what happened last week", "label": "news/query"}
+{"text": "what time is it in singapore", "label": "datetime/query"}
+{"text": "on the music player set the volume level at sixty", "label": "audio/volume_up"}
+{"text": "cut down the volume", "label": "audio/volume_down"}
+{"text": "i'm not doing thing this week", "label": "calendar/remove"}
+{"text": "let me know when you hear about france", "label": "news/query"}
+{"text": "can you set an alarm for me", "label": "alarm/set"}
+{"text": "can you set a reminder for wednesday at one pm for my meeting", "label": "calendar/set"}
+{"text": "please give me the time", "label": "datetime/query"}
